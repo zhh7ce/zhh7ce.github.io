@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 原神初始化竞态解决方法
-date: 2026-03-13 18:24:35 +0800
+date: 2026-04-13 18:35:35 +0800
 categories: 游戏
 tag: [原神, linux]
 description: race condition in MHYPBase.dll solution
