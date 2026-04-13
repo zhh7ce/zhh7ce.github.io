@@ -244,8 +244,8 @@ a:focus {
     color: #444;
     padding-top: 20px;
     padding-bottom: 1em;
-    text-align: justify;
-    text-justify: distribute;
+    text-align: left;
+    text-justify: none;
     word-break: break-all;
 }
 
