@@ -1,0 +1,101 @@
+# Site settings
+title: 学而不思则wǎng
+subtitle: 赵十七的博客
+keywords: zhh7ce
+description: 您还是多喝热水吧。
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://zhh7ce.netlify.app" # 你的域名
+page_no_title: "zhh7ce's blog" # 文章无标题时默认显示内容
+beian: # "备案号"
+author: zhh7ce
+email: zhh7ce@qq.com
+
+# Build settings
+permalink: /:year/:month/:title/
+exclude:
+  - README.md
+  - changelog.md
+  - server
+  - tools
+  - Pipfile
+  - _posts/hidden/
+
+plugins:
+  - jekyll-paginate
+  - jemoji
+
+
+# always get github's error email saying redcarpet is not supported,
+# so change it to kramdown.
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+
+
+# Pageinate settings
+paginate: 8 # 分页大小
+paginate_path: "page/:num/"
+
+# Search settings
+# baidu_search: true
+# google_search: # true
+
+# Menu settings
+menu:
+  - page: 首页
+    directory: .
+    icon: icon-home
+  - page: 归档
+    directory: archives/
+    icon: icon-archive
+  - page: 标签
+    directory: tags/
+    icon: icon-tags
+  # - page: 留言
+  #   directory: guestbook/
+  #   icon: icon-guestbook
+  - page: 关于
+    directory: about/
+    icon: icon-about
+  - page: 时光机
+    directory: timeline/
+    icon: icon-about
+  - page: 订阅
+    directory: feed.xml
+    icon: icon-rss
+# timeline is in _layout/base.html body_continer
+
+# Link settings
+links: # 友情链接
+
+  - title: zhh7ce's github
+    url: https://github.com/zhh7ce
+  - title: static tools
+    url: /static/
+  - title: Jekyll blog system
+    url: http://jekyllcn.com/
+
+
+# Google Analytics
+# ga_track_id: 'UA-130856615-1'            # Format: UA-xxxxxx-xx
+# ga_domain: www.zhh7ce.wang              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+
+
+# Code hub settings
+codehub: # 代码仓库
+  - title: Github
+    url: https://github.com/zhh7ce
+
+
+valine:
+  enable: true
+  app_id:  IenmWT6gI9u7VYtinV9RNISL-gzGzoHsz
+  app_key: yN7eo1WpSalRqCkcHmOXREUK
+  notify: false # mail notifier , https://github.com/xCss/Valine/wiki
+  verify: false # Verification code
+  visitor: true
+  avatar: retro
+  placeholder: say something~~\n - 昵称 为你所要显示的评论的ID；\n - 邮箱 只有后台可见，仅供讨论过程中是否需要交流邮件而设置，请放心填写;\n - 网址 为你的评论的昵称的超链接。\n当然，以上都可以不写，评论依然会显示……
+  guest_info: nick,mail,link
+  pageSize: 10
