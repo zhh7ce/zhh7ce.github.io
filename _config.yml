@@ -71,8 +71,8 @@ links: # 友情链接
 
   - title: zhh7ce's github
     url: https://github.com/zhh7ce
-  - title: static tools
-    url: /static/
+  - title: 游戏日历
+    url: static/game-calendar/index.html
   - title: Jekyll blog system
     url: http://jekyllcn.com/
 
