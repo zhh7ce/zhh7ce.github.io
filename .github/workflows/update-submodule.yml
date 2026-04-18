@@ -1,0 +1,28 @@
+name: Update Submodule
+
+on:
+  schedule:
+    - cron: '0 4 * * 1'  # 北京时间每周一12:00，即UTC 04:00
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update submodule
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git submodule update --remote
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git add .
+            git commit -m "Update submodule"
+            git push
+          fi

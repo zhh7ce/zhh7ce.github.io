@@ -1,0 +1,3 @@
+[submodule "static/game-calendar"]
+	path = static/game-calendar
+	url = git@github.com:zhh7ce/game-calendar.git
