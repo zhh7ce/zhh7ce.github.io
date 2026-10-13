@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 拜托了，另一个我
-date: 2026-10-14 22:40:00 +0800
+date: 2026-10-14 06:29:00 +0800
 categories: 随笔
 tag: [essay, ai, knowledge, open-source, limitations]
 description: AI 做的事和我做的事是同构的，所以它做不到的，也正是我做不到的

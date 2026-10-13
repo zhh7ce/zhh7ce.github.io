@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 自由的公地，共产主义的胚胎
-date: 2026-10-14 20:10:00 +0800
+date: 2026-10-14 03:47:00 +0800
 categories: 随笔
 tag: [essay, free-software, gnu, rms, history]
 description: 自由软件运动主观上否认、客观上却实践并传播了共有制的一次梳理

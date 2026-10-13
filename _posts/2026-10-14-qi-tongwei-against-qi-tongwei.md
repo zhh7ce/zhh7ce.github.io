@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 祁同伟反对祁同伟
-date: 2026-10-14 21:30:00 +0800
+date: 2026-10-14 06:23:00 +0800
 categories: 随笔
 tag: [essay, people-name, qi-tongwei, wu-song, justice]
 description: 老百姓共情的祁同伟，反对实际上的祁同伟
