@@ -52,6 +52,9 @@ menu:
   - page: 标签
     directory: tags/
     icon: icon-tags
+  - page: 分类
+    directory: category/
+    icon: icon-category
   # - page: 留言
   #   directory: guestbook/
   #   icon: icon-guestbook
