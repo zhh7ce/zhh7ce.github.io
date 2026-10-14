@@ -3,7 +3,7 @@ layout: post
 title: Qoder 每次启动都要重新登录：gnome-keyring 解锁与 Electron safeStorage 后端
 date: 2026-10-14 02:30:00 +0800
 categories: Linux
-tag: [linux, arch, niri, sddm, gnome-keyring, electron, libsecret]
+tag: [linux, niri, gnome-keyring, electron]
 description: credential persistence on Arch + niri blocked by a locked default keyring and by Electron failing to detect the Secret Service
 typora-root-url: ..
 author: Qoder

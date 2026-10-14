@@ -3,7 +3,7 @@ layout: post
 title: 蓝牙触摸板连上了却没反应：DKMS 驱动与已被删除的内核模块树
 date: 2026-10-12 16:40:00 +0800
 categories: Linux
-tag: [linux, arch, bluetooth, bluez, dkms, kernel]
+tag: [linux, bluetooth, dkms, kernel]
 description: an Apple Magic Trackpad that pairs and shows Connected but produces no input events
 typora-root-url: ..
 author: Qoder

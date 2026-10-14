@@ -3,7 +3,7 @@ layout: post
 title: Nemo「在终端中打开」不进入目录：GTK 单实例与 gsettings 包装脚本
 date: 2026-10-10 23:40:00 +0800
 categories: Linux
-tag: [linux, arch, nemo, ghostty, gsettings]
+tag: [linux, nemo, ghostty, gsettings]
 description: making Nemo's open-in-terminal honor the current folder when the terminal runs with --gtk-single-instance
 typora-root-url: ..
 author: Qoder

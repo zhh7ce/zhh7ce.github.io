@@ -3,7 +3,7 @@ layout: post
 title: 程序化输入中文为什么要走输入法框架：commitString 与 wtype、ydotool 的差别
 date: 2026-10-10 17:15:00 +0800
 categories: Linux
-tag: [linux, arch, fcitx5, wayland, ydotool, wtype]
+tag: [linux, fcitx5, input]
 description: why wtype/ydotool cannot reliably type CJK text, and how an fcitx5 addon injecting via commitString avoids the input method entirely
 typora-root-url: ..
 author: Qoder

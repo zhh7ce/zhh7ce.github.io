@@ -3,7 +3,7 @@ layout: post
 title: 拜托了，另一个我
 date: 2026-10-14 06:29:00 +0800
 categories: 随笔
-tag: [essay, ai, knowledge, open-source, limitations]
+tag: [essay, ai]
 description: AI 做的事和我做的事是同构的，所以它做不到的，也正是我做不到的
 title-notes: |
   已选：拜托了，另一个我（把全文的类比压成一个称呼：它的能力集合与我同构，故我的边界即它的边界；"拜托了"对应第三节那种把活交出去的语气，比原标题更柔，也更抓人）
