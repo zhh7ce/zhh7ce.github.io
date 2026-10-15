@@ -5,266 +5,227 @@
     <link>https://zhh7ce.github.io/static/news-digest/feed-hot.xml</link>
     <description>多源报道优先的每日新闻摘要</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 14 Oct 2026 18:23:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 18:23:37 GMT</lastBuildDate>
     <atom:link href="https://zhh7ce.github.io/static/news-digest/feed-hot.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program？</title>
-      <link>https://www.zhihu.com/question/2093654423369152454</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2093654423369152454</guid>
+      <title>刚刚，Claude彻底解禁第三方应用</title>
+      <link>https://www.36kr.com/p/4026370532790145</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4026370532790145</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 14 Oct 2026 02:48:32 GMT</pubDate>
-      <description><![CDATA[<p>九月轰动一时的 Navier-Stokes 证明，现在被发现不是我们想的那样，那时候大家都以为它沿用了西班牙数学家的方法（“Spanish program”），但深入检查后发现两者只是表面相似，实际路径完全不同。 初始叙事，包括 OpenAI 自己都暗示证明沿着 Spanish program 推进，但一个月后，多组专家深入阅读论文 + Lean 代码后得出一致结论：这是另外一种方式，不遵循 Spanish program，甚至 OpenAI 自己都搞错了。OpenAI’s blockbuster Navier-Stokes proof isn’t what we thought it was</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+      <pubDate>Thu, 15 Oct 2026 00:48:40 GMT</pubDate>
+      <description><![CDATA[<p>Claude王者归来了。 就在刚刚，Anthropic祭出王炸，Claude即将大爆发！ 简而言之： Anthropic彻底扫清了政策障碍，正式确认Claude订阅用户的额度，可以无缝接入第三方App和Agent！ 这是大模型下半场竞争中，Anthropic的关键一步。 从此，开发者与用户之间的「双重收费」魔咒，正式被打破。 Agent生态大航海时代，将全面开启！ 悬在开发者头顶的达摩克利斯之剑，断了 Claude的平台政策经常朝令夕改，这让广大开发者困扰不已。 过去几个月，社区里流传着一种担忧的解读： Anthropic可能会限制甚至封杀第三方应用对Claude API和Agent SDK的调用。 理由很简单——肥水不流外人田。 AI大厂自己也要做生态，为什么要让第三方开发者用自己的底层模型赚钱？ 这种担忧，就是悬在开发者头顶的达摩克利斯之剑。谁也不敢拿身家性命赌。 但现在，Anthro…</p>
+<p><b>1 家媒体报道 · 重要度 8.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.zhihu.com/question/2093654423369152454">知乎热榜</a> — 怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program？</li>
+<li><a href="https://www.36kr.com/p/4026370532790145">36Kr 热榜</a> — 刚刚，Claude彻底解禁第三方应用</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>四部门要求新车研发必须包含「两冬一夏」测试，会改变汽车行业格局吗？</title>
-      <link>https://www.zhihu.com/question/2092952717853571036</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2092952717853571036</guid>
+      <title>AI，正在颠覆制药行业？</title>
+      <link>https://www.36kr.com/p/4026618302124677</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4026618302124677</guid>
       <category>热门话题</category>
-      <pubDate>Mon, 12 Oct 2026 04:20:13 GMT</pubDate>
-      <description><![CDATA[<p>10月10日，工业和信息化部会同公安部、生态环境部、市场监管总局联合发布《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》。 近年来汽车产业竞争激烈，出现部分生产企业跟风推出新产品、测试验证不充分的现象，文件重点面向三个方向： 一是研发测试验证，明确测试周期和里程的硬性要求。新申报产品必须完成综合可靠性与耐久性、结构可靠性、软件功能可靠性等测试。其中，环境适应性验证周期不少于1年，须包含“两冬一夏”试验；可靠性验证试验里程不低于3万公里。 二是创新设计准入，划出红线清单。禁止配备全隐藏式车门把手；不得采用折叠屏、柔性屏；行车过程中不得使用“零重力”座椅、旋转座椅或座椅放倒成床等功能；应急逃生、应急制动等涉及安全的操纵件必须保留实体操纵件和醒目标识。 三是准入管理，明确执行时间和处置措施。自2027年1月1日起，未按要求进行测试验证、验证不充分或提供虚假材料的产…</p>
+      <pubDate>Thu, 15 Oct 2026 09:15:43 GMT</pubDate>
+      <description><![CDATA[<p>资本疯抢、大厂下场、政策加持，AI制药最近彻底火了。 从字节跳动拆分出来的AI制药公司新生探途Anew Labs完成2.9亿美元首轮融资，估值15亿美元。 紧接着，Anthropic被曝已在旧金山湾区悄然搭建湿实验室，用Claude驱动机器人做真实生物实验。 10月9日，AI制药、CRO概念午后回暖，贝瑞基因直线涨停，走出6天3板，泰诺麦博涨超10%，金石亚药、透景生命、诺诚健华、神州细胞等快速冲高。 金斯瑞生物科技近期与礼来TuneLab达成合作后，股价再创新高，摩根大通明确看好其AIDD驱动生命科学强劲增长。 这是什么信号？ AI真的要颠覆制药行业了吗？ 提速降本 想要搞懂这个问题，得先弄清楚制药是怎么一回事。 一款新药的研制，大致可分为药物发现、临床前研究、临床试验、上市审批和上市后监测五大阶段。 新药研制流程 整个过程，平均要花十年、十亿美元起步，临床成功率还不到10%，试错成本非…</p>
 <p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.zhihu.com/question/2092952717853571036">知乎热榜</a> — 四部门要求新车研发必须包含「两冬一夏」测试，会改变汽车行业格局吗？</li>
+<li><a href="https://www.36kr.com/p/4026618302124677">36Kr 热榜</a> — AI，正在颠覆制药行业？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>33 岁销冠确诊胃癌晚期后突然被辞退，公司不服劳动仲裁判赔 11 万提起诉讼，法院可能会怎样判决？</title>
-      <link>https://www.zhihu.com/question/2093379096701039540</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2093379096701039540</guid>
+      <title>半年提速10倍，英伟达DLSS 5发威，「神经渲染」要变天了？</title>
+      <link>https://www.36kr.com/p/4026584145631110</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4026584145631110</guid>
       <category>热门话题</category>
-      <pubDate>Tue, 13 Oct 2026 08:34:29 GMT</pubDate>
-      <description><![CDATA[<p>2026年9月，广州的秋天依然闷热。李宇（化名）拿到仲裁裁决书的那一刻，心里稍微松了一口气。 9月11日，广州市天河区劳动人事争议仲裁委员会作出裁决：观远数据有限公司广州分公司属于违法解除劳动合同，需支付赔偿金及医疗补助费共计约11万元。 但他没想到，这只是另一场漫长消耗战的开始。 公司拒绝执行裁决，随后向法院提起诉讼。李宇也随即起诉，案件进入一审。 彼时，李宇已是胃癌晚期患者，医生告诉他若是预后不好，生存时间只剩下10个月左右。 “不知道什么时候结束官司。”他说这话时语气平静，“届时人在不在都是未知数。” 受访者供图 确认胃癌后突然被公司辞退 李宇今年33岁，在广深销售行业摸爬滚打近十年，手头积累了不少客户资源，长期是所在公司的销冠。今年1月，他经过三轮面试，薪资上调20%，慎重跳槽入职观远数据有限公司广州分公司，任大客户销售，试用期六个月，月薪约一万六。 入职后，他提前完成新人培训考核…</p>
+      <pubDate>Thu, 15 Oct 2026 04:18:13 GMT</pubDate>
+      <description><![CDATA[<p>今年初英伟达发布DLSS 5时，可能没多少人想到，这项充满争议的技术还能以这么快速度迭代、进步。 10月13日，英伟达宣布了DLSS 5新模型升级，模型参数量减少24%，显存占用也降低了20%，但运行速度相比9月的版本再次翻倍。算上此前的优化，过去半年多，DLSS 5的模型运行速度已经提升了： 整整10倍。 图片来源：英伟达 甚至不需要最早公布时的两张RTX 5090，只要一张RTX 50系列显卡就能运行DLSS 5。这样的升级，已经超出了一次常规的性能优化。 要知道，过去几十年，游戏画质的提升很大程度上依赖GPU不断增强传统图形计算能力，从光栅化到光线追踪，都是如此。但从DLSS 4到DLSS 5，神经（网络）渲染技术毫无疑问正在成为一个关键变量，这次就引入了最新的3D引导神经渲染技术。 简单来说，「神经（网络）渲染」就是让神经网络直接参与图形渲染，甚至利用AI生成更逼真的光照、材质等视…</p>
+<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.36kr.com/p/4026584145631110">36Kr 热榜</a> — 半年提速10倍，英伟达DLSS 5发威，「神经渲染」要变天了？</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>1 岁宝宝吃下被邻居投毒的鸡蛋后进 ICU，邻居自首称「想毒黄鼠狼」，你怎么看？邻居该担什么法律责任？</title>
+      <link>https://www.zhihu.com/question/2094023847775135091</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2094023847775135091</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 15 Oct 2026 03:16:30 GMT</pubDate>
+      <description><![CDATA[<p>一枚被注射器注入剧毒鼠药的鸡蛋，差点要了1岁宝宝的命。 10月14日，一名贵州贵阳的网友发文称，自己1岁的宝宝吃下被邻居投毒的鸡蛋后，一度在ICU抢救。 14日下午，孩子父亲颜先生告诉记者，涉事邻居已被逮捕，孩子虽已出院，却留下严重后遗症，后续康复情况未知，7万余元治疗费至今无人赔付。 颜先生1岁的儿子在医院抢救。 颜先生家住贵阳市花溪区马铃布依族苗族乡。他回忆，今年8月14日下午6时许，家人给1岁多的儿子喂了奶粉和鸡蛋。 约5小时后，也就是8月15日凌晨1时许，孩子突然浑身剧烈抽筋、身体僵硬、意识丧失，家人立即将他送往花溪区人民医院。因病情危重，医生建议转院，孩子随后被120救护车送至贵阳市妇幼保健院。 颜先生称，儿子入院后各项检查逐一排查，医生排除了癫痫可能，建议做毒性筛查。结果令人震惊——氟乙酸孩子血液中检出，系剧毒鼠药成分。 经诊断，孩子同时出现高乳酸血症、中枢性呼吸衰竭等8项重症…</p>
+<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.zhihu.com/question/2094023847775135091">知乎热榜</a> — 1 岁宝宝吃下被邻居投毒的鸡蛋后进 ICU，邻居自首称「想毒黄鼠狼」，你怎么看？邻居该担什么法律责任？</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>马斯克用一笔80亿美元交易，颠覆了电信这门百年生意</title>
+      <link>https://www.36kr.com/p/4026368642175108</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4026368642175108</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 15 Oct 2026 00:49:25 GMT</pubDate>
+      <description><![CDATA[<p>2026年8月11日，一家叫Grain Management的公司，花了29亿美元，从T-Mobile手里买下一批频谱牌照，外加一批600MHz的频谱。 两个月后的10月，它把这批牌照转手卖给了马斯克的SpaceX，价格是80亿美元。 29亿买进，80亿卖出。中间只隔了两个月，净赚51亿。 Grain Management数钱的速度，大概没人比得上。但就在它成交的同一天，美国电信业的三大巨头，一起迎来了本世纪最黑的一天。 T-Mobile跌13.27%，创下2013年上市以来最差单日，也是当天标普500里表现最差的股票。AT&amp;T跌9.81%，2000年以来最差。Verizon跌8.75%，2002年7月以来最差。三家加起来，一天蒸发约600亿美元。 奇怪的是，同一时间，铁塔公司的股票却在暴涨。Crown Castle涨超15%，American Tower涨近8%，三家铁塔商合计多出约11…</p>
+<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.36kr.com/p/4026368642175108">36Kr 热榜</a> — 马斯克用一笔80亿美元交易，颠覆了电信这门百年生意</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>大手笔，中际旭创拟注销50亿元回购股份</title>
+      <link>https://www.36kr.com/newsflashes/4027156312592777</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4027156312592777</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 15 Oct 2026 13:15:14 GMT</pubDate>
+      <description><![CDATA[<p>中际旭创发布港股公告，董事会将于10月29日召开会议，审议变更2026年9月回购A股股份用途并全部注销等事项。公司此前已完成回购A股565.31万股，耗资约49.97亿元，占总股本的0.48%。若相关股份全部注销，公司总股本将相应减少，有望增厚每股收益，体现公司对股东回报及资本配置效率的重视。同时，注销安排有助于优化股本结构，向市场传递积极信号。相关事项仍需公司董事会和股东会审议通过。</p>
 <p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.zhihu.com/question/2093379096701039540">知乎热榜</a> — 33 岁销冠确诊胃癌晚期后突然被辞退，公司不服劳动仲裁判赔 11 万提起诉讼，法院可能会怎样判决？</li>
+<li><a href="https://www.36kr.com/newsflashes/4027156312592777">36氪快讯</a> — 大手笔，中际旭创拟注销50亿元回购股份</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>大厂醒悟了，卷模型不如卖芯片</title>
-      <link>https://www.36kr.com/p/4025420791172992</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4025420791172992</guid>
+      <title>长实集团回应李嘉诚去世传闻称「绝无其事」，目前李嘉诚的身体状况如何？</title>
+      <link>https://www.zhihu.com/question/2094036953070920084</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2094036953070920084</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 14 Oct 2026 07:57:49 GMT</pubDate>
-      <description><![CDATA[<p>在中国AI芯片市场，两个变化正在加速。英伟达的份额正在被国产厂商蚕食，非GPU加速器的出货量也在上升。 近日IDC披露的数据显示恰好印证了这个变化——2026年上半年，中国数据中心AI加速器总出货量达到200.8万颗，其中非GPU加速器出货101.6万颗，规模首次超过GPU，英伟达仍是第一，但它与华为昇腾的份额差距，只剩6个百分点。 两个变化背后，都有大厂的身影。阿里 CEO吴泳铭今年3月披露，平头哥芯片年化营收已达百亿元级；9月的云栖大会上，阿里又发布真武V900，计划于2027年一季度量产并商业化，预计AI芯片年出货量将大幅增长。百度则在推进昆仑芯分拆上市，天池超节点实现了全栈国产，昆仑芯已经完成了三代AI芯片的研发和商业化。 这几家芯片卖得热的大厂，恰好也是全栈AI喊得最响的几家。从芯片、云到模型、应用，它们一层都没落下。 目前来看，既然模型太卷，不如多卖点芯片，正在成为大厂AI竞争…</p>
+      <pubDate>Thu, 15 Oct 2026 04:08:34 GMT</pubDate>
+      <description><![CDATA[<p>10月15日，有传言称，现年98岁的李嘉诚逝世。对此，长实集团内部人士回应澎湃新闻称：“绝无其事”。长实集团辟谣：绝无此事</p>
+<p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.zhihu.com/question/2094036953070920084">知乎热榜</a> — 长实集团回应李嘉诚去世传闻称「绝无其事」，目前李嘉诚的身体状况如何？</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>美国9月零售销售环比增长0.8%</title>
+      <link>https://www.36kr.com/newsflashes/4027114976072326</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4027114976072326</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 15 Oct 2026 12:33:11 GMT</pubDate>
+      <description><![CDATA[<p>美国9月零售销售环比增长0.8%，预估为0.3%。（界面）</p>
 <p><b>1 家媒体报道 · 重要度 6.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/p/4025420791172992">36Kr 热榜</a> — 大厂醒悟了，卷模型不如卖芯片</li>
+<li><a href="https://www.36kr.com/newsflashes/4027114976072326">36氪快讯</a> — 美国9月零售销售环比增长0.8%</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>国台办回应蔡康永现身沈伯洋竞选活动，在大是大非问题上没有任何模糊的空间，哪些信息值得关注？</title>
-      <link>https://www.zhihu.com/question/2093662309310620149</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2093662309310620149</guid>
+      <title>《时代》周刊发布2026年度最佳发明榜单，蚂蚁阿福入选</title>
+      <link>https://www.36kr.com/newsflashes/4027185786720903</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4027185786720903</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 14 Oct 2026 03:19:52 GMT</pubDate>
-      <description><![CDATA[<p>10月14日，国务院台办举行例行新闻发布会。有记者问：台湾艺人蔡康永现身民进党台北市长参选人沈伯洋的竞选总部成立大会，请问对此有何评论? 发言人陈斌华表示，“台独”顽固分子沈伯洋所作所为人尽皆知，任何形式的“台独”分裂活动都是对中华民族根本利益的严重损害，我们都坚决反对。我们始终尊重和保障台湾同胞正当的言论与表达自由，但在大是大非问题上没有任何模糊的空间。维护统一、反对“台独”是全体中国人民的共同意志，任何人、任何势力都不能一边赚取大陆发展红利，一边与“台独”分裂势力勾连纠缠，做“两面人”。更多资讯请下载央视新闻客户端</p>
-<p><b>1 家媒体报道 · 重要度 6.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.zhihu.com/question/2093662309310620149">知乎热榜</a> — 国台办回应蔡康永现身沈伯洋竞选活动，在大是大非问题上没有任何模糊的空间，哪些信息值得关注？</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>8点1氪丨茶百道涉IPO欺诈，被暂停交易；苹果连夜发布3款智能家居新品，总市值再创历史新高；DeepSeek将完成1000亿元融资</title>
-      <link>https://www.36kr.com/p/4025027267580036</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4025027267580036</guid>
-      <category>热门话题</category>
-      <pubDate>Wed, 14 Oct 2026 01:11:48 GMT</pubDate>
-      <description><![CDATA[<p>今日热点导览 字节跳动Seed单独设立大模型安全与对齐部门 爆火促销被指加盟商买单，霸王茶姬回应 拒签《暗影蜘蛛侠》AI授权协议，美知名演员尼古拉斯·凯奇“硬刚”亚马逊 梁文锋或再投一家机器人公司 峰学蔚来武亮回应财产转移相关质疑 腾讯启动50亿美元债券发行，为AI支出募资 TOP3大新闻 茶百道涉IPO欺诈，被暂停交易 36氪获悉，香港证监会公告，已对两个集团采取行动，因它们涉嫌参与欺诈计划，意图就首次公开招股的股份需求营造虚假或非真实的表象。证监会亦已指示港交所，自10月13日上午9时正起暂停茶百道股份交易。香港证监会高度关注，茶百道的首次公开招股可能曾被人为操纵，意图就茶百道的股份需求营造非真实的表象。在证监会继续进行调查期间，暂停茶百道的股份交易，对为该股维持一个有秩序和公平的市场及维护投资大众的利益是有需要或合宜的。 苹果连夜发布3款智能家居新品，总市值再创历史新高 10月13日…</p>
-<p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.36kr.com/p/4025027267580036">36Kr 热榜</a> — 8点1氪丨茶百道涉IPO欺诈，被暂停交易；苹果连夜发布3款智能家居新品，总市值再创历史新高；DeepSeek将完成1000亿元融资</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>卫星化学：预计2026年前三季度净利润同比增长132%-158%</title>
-      <link>https://www.36kr.com/newsflashes/4025667188264841</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4025667188264841</guid>
-      <category>热门话题</category>
-      <pubDate>Wed, 14 Oct 2026 12:29:21 GMT</pubDate>
-      <description><![CDATA[<p>36氪获悉，卫星化学公告，预计2026年前三季度归属于上市公司股东的净利润为87.00亿元-97.00亿元，同比增长131.69%-158.32%。业绩变动主要系公司充分利用轻烃为原料的产业链一体化优势，生产装置保持安全稳定运行，产品实现迭代创新，服务不断强化升级，全面把握市场机遇，驱动业务持续增长。</p>
+      <pubDate>Thu, 15 Oct 2026 13:45:13 GMT</pubDate>
+      <description><![CDATA[<p>10月15日晚，美国《时代》周刊揭晓“2026年度最佳发明”榜单，蚂蚁集团旗下健康AI“蚂蚁阿福”入选，也是今年唯一上榜的中国AI应用。该榜单被视为全球科技创新风向标，去年入选的中国AI产品为DeepSeek。《时代》认为，蚂蚁阿福“让专业医疗健康服务更普惠”。今年9月，蚂蚁阿福App用户量已达1.5亿，单日健康咨询量近2000万次。</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4025667188264841">36氪快讯</a> — 卫星化学：预计2026年前三季度净利润同比增长132%-158%</li>
+<li><a href="https://www.36kr.com/newsflashes/4027185786720903">36氪快讯</a> — 《时代》周刊发布2026年度最佳发明榜单，蚂蚁阿福入选</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>美银因监管处罚计提12亿美元费用</title>
-      <link>https://www.36kr.com/newsflashes/4025670681284739</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4025670681284739</guid>
+      <title>美股大型科技股盘前普跌，SK海力士跌超6%</title>
+      <link>https://www.36kr.com/newsflashes/4027128969417092</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4027128969417092</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 14 Oct 2026 12:18:53 GMT</pubDate>
-      <description><![CDATA[<p>美国银行周三在公告中宣布计提12亿美元不可抵税费用，令净利润每股减少17美分。该费用与美国财政部周二公布的反洗钱和制裁违规罚款有关。财政部称，美国银行为保护收入，实际上将合规工作中的一个关键环节“外包”出去。美国银行表示，整改相关问题的成本已计入费用。（财联社）</p>
+      <pubDate>Thu, 15 Oct 2026 12:47:25 GMT</pubDate>
+      <description><![CDATA[<p>36氪获悉，美股大型科技股盘前普跌，截至发稿，SK海力士跌超6%，美光科技跌超4%，英特尔跌超3%，英伟达、特斯拉、亚马逊、Meta跌超1%，微软跌0.38%，苹果涨0.73%。</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4025670681284739">36氪快讯</a> — 美银因监管处罚计提12亿美元费用</li>
+<li><a href="https://www.36kr.com/newsflashes/4027128969417092">36氪快讯</a> — 美股大型科技股盘前普跌，SK海力士跌超6%</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>荣盛石化：预计2026年前三季度净利润同比增长778%-823%</title>
-      <link>https://www.36kr.com/newsflashes/4025676554358916</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4025676554358916</guid>
+      <title>北方华创：拟4.05亿元收购诺合键维100%股权</title>
+      <link>https://www.36kr.com/newsflashes/4027073591841411</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4027073591841411</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 14 Oct 2026 12:09:57 GMT</pubDate>
-      <description><![CDATA[<p>36氪获悉，荣盛石化公告，预计2026年前三季度归属于上市公司股东的净利润为78.00亿元-82.00亿元，同比增长777.93%-822.95%。业绩变动主要系报告期内石油化工行业景气度回升，海外成品油市场行情向好，公司动态优化产销策略，主要产品加工价差明显修复，产品毛利水平得到改善。</p>
+      <pubDate>Thu, 15 Oct 2026 12:17:54 GMT</pubDate>
+      <description><![CDATA[<p>36氪获悉，北方华创公告，公司全资子公司北方华创微电子拟以现金4.05亿元收购关联方装备二期基金持有的诺合键维100%股权。诺合键维主营混合键合设备的研发、生产、销售及服务，本次收购有利于发挥协同效应，增强公司在混合键合设备及三维集成全流程装备平台的市场竞争力。</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4025676554358916">36氪快讯</a> — 荣盛石化：预计2026年前三季度净利润同比增长778%-823%</li>
+<li><a href="https://www.36kr.com/newsflashes/4027073591841411">36氪快讯</a> — 北方华创：拟4.05亿元收购诺合键维100%股权</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>2025年欧盟生产的汽车中近四成为电动及混合动力车型</title>
-      <link>https://www.36kr.com/newsflashes/4025626873171841</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4025626873171841</guid>
+      <title>全球人形机器人背后的20位领军人物</title>
+      <link>https://www.36kr.com/p/4026468251539079</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4026468251539079</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 14 Oct 2026 11:35:29 GMT</pubDate>
-      <description><![CDATA[<p>欧盟统计局最新数据显示，2025年欧盟共生产约1260万辆乘用车，其中电动及混合动力汽车约480万辆，占总产量近四成，较上年增加约90万辆。数据显示，2025年纯电动汽车占欧盟汽车总产量的17%，插电式混合动力汽车占7%，非插电式混合动力汽车占14%。（新华财经）</p>
+      <pubDate>Thu, 15 Oct 2026 03:26:07 GMT</pubDate>
+      <description><![CDATA[<p>一台人形机器人从站起来、走出去，到拿起工具、完成工作，需要跨过多少道门槛？ 关节要有力量也要足够轻巧，身体要保持平衡，双手还要完成精细操作，人工智能需要理解指令，更需要应对真实世界里的变化……每一次看似简单的动作背后，都可能是一个团队持续多年的积累。 推动这场变革的人，也有着截然不同的起点。王兴兴从研究生时期的一台四足机器人出发，走向人形机器人整机研发；彭志辉把个人创客的工程热情带入创业公司；马克·雷伯特用数十年研究拓展机器人的运动能力；布雷特·阿德科克则带着连续创业的经验，让人形机器人进入汽车工厂接受检验。 放眼全球，人形机器人的发展正在形成多条路径：工业生产、仓储物流、家庭服务，以及人与机器之间更自然的交流。 本文选取国内外20位具有代表性的机器人产业与科研领军人物，梳理他们的经历、成果与技术选择。范围涵盖双足人形机器人、轮式人形机器人及仿生交互机器人，兼顾创业者、技术负责人和科研先驱…</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4025626873171841">36氪快讯</a> — 2025年欧盟生产的汽车中近四成为电动及混合动力车型</li>
+<li><a href="https://www.36kr.com/p/4026468251539079">36Kr 热榜</a> — 全球人形机器人背后的20位领军人物</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>国庆假期后股基ETF净流入超570亿元</title>
-      <link>https://www.36kr.com/newsflashes/4025629675851907</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4025629675851907</guid>
+      <title>80、90后经历过的那个盗版年代，好像又要回来了</title>
+      <link>https://www.36kr.com/p/4026443226992771</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4026443226992771</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 14 Oct 2026 11:29:09 GMT</pubDate>
-      <description><![CDATA[<p>资金持续借道股票型ETF入市。自国庆假期后首个交易日（10月8日）以来，股票型ETF净流入超570亿元，宽基ETF成为“吸金”主力。据Choice测算，10月13日，股票型ETF净流入126.81亿元。具体来看，创业板ETF易方达净流入21.54亿元，沪深300ETF华泰柏瑞、科创50ETF华夏净流入均超10亿元。（上证报）</p>
+      <pubDate>Thu, 15 Oct 2026 01:28:38 GMT</pubDate>
+      <description><![CDATA[<p>“我把空调逆向了，现在点电脑就能开，再也不用找遥控器了” “我用 REA 把马桶逆向了，坐在电脑前也能遥控厕所里的智能马桶了！” 图源推特@爆裂队长NEXT “谢谢 REA，我的 HP 打印机终于能用第三方墨盒了！” 如果说 2026 年上半年 GitHub 上最火的项目是龙虾 OpenClaw。 那么下半年这个头衔应该属于 REA，一个逆向 MCP。 REA 的仓库其实 4 月就建好了，不温不火地更新了半年。直到 10 月 7 号前后突然爆了，登上 GitHub 热榜第一。截至我写稿时，它已经有 22.3 万颗星，在 GitHub 有史以来的星数排行里排到第 23 位。 看到这儿，可能有差友好奇： 到底什么是逆向，逆向又能帮我们做什么？ 别急，马上你就知道了。 去年，我给大家推荐过一个网页版红警。 这是一位罗马尼亚开发者为了让大家打开网页就能玩红警做的项目。由于没有源代码，他只能照着《红…</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4025629675851907">36氪快讯</a> — 国庆假期后股基ETF净流入超570亿元</li>
+<li><a href="https://www.36kr.com/p/4026443226992771">36Kr 热榜</a> — 80、90后经历过的那个盗版年代，好像又要回来了</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>微信上线绿泡泡短剧，腾讯此前多次进军短剧市场都效果平平，这次能成功吗？能撼动红果的地位吗？</title>
-      <link>https://www.zhihu.com/question/2093689082383524747</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2093689082383524747</guid>
+      <title>中国电建打响秘鲁第一枪，96.9兆瓦光伏提前投产，南美市场规则正在被中企改写</title>
+      <link>https://www.36kr.com/p/4025931442034567</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4025931442034567</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 14 Oct 2026 05:06:16 GMT</pubDate>
-      <description><![CDATA[<p>近日，腾讯低调上线绿泡泡短剧，主打“免费好剧，一点就看”。 绿泡泡的界面分为“免费剧场”“刷一刷”和“我的”三部分。“免费剧场”下设“AI剧”“真人剧”“每日上新”“动漫剧”“本周必看”“百万播放”等栏目。点开中间入口“刷一刷”，上下滑动即进入沉浸式推荐流。剧集全部免费，但会在剧集之间插入广告。 《短剧小程序用户协议》显示，服务签订主体为深圳市腾讯计算机系统有限公司。协议同时写明，短剧均来自第三方提供方，包括第三方小程序、短剧制作方、授权发行方等，由其授权本服务展示、播放。 和红果短剧相比，绿泡泡的社交印记更重。记者看到，除了常规排行榜，首页还有“朋友在看”的短剧推荐，以及标注“北京的朋友都在看”的地区热门榜。腾讯方面表示，为提供个性化内容，会收集用户的浏览、观看、分享、点赞、评论、收藏等记录，以及朋友看过的剧目。经过程序分析后，平台会预测用户的偏好，朋友在看什么，直接影响给相关用户推什么…</p>
+      <pubDate>Thu, 15 Oct 2026 00:19:07 GMT</pubDate>
+      <description><![CDATA[<p>南美新能源市场门槛分化，中企由承接项目转向构建本地化综合竞争能力。 预见能源注意到， 近日，中国电建承建的秘鲁瓦伊拉96.9兆瓦光伏项目日前全容量投产发电，比原计划提前了三天。 项目位于伊卡大区纳斯卡省，安装13.6万余块光伏组件、2345套平单轴跟踪支架，配套建设7条33千伏集电线路和1座220千伏升压站。投产后年均发电量约2.5亿千瓦时，可满足约23万户秘鲁家庭用电需求，每年减少二氧化碳排放约15万吨。 项目还将与既有瓦伊拉风电场协同运行，形成风光互补。一个96.9兆瓦的光伏项目本身并不大，但它嵌入的是一张中企在秘鲁新能源市场的先手棋局。 秘鲁的窗口期，不只是资源好 秘鲁的日照条件确实好，阿雷基帕、莫克瓜和塔克纳等地区日照强度居拉美前列。但这不足以解释中国电建为什么在这个时间点入场——智利阿塔卡马沙漠的光照条件同样全球顶级，巴西的风电市场体量更大。 真正的变量在制度层面。据悉，2025…</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.zhihu.com/question/2093689082383524747">知乎热榜</a> — 微信上线绿泡泡短剧，腾讯此前多次进军短剧市场都效果平平，这次能成功吗？能撼动红果的地位吗？</li>
+<li><a href="https://www.36kr.com/p/4025931442034567">36Kr 热榜</a> — 中国电建打响秘鲁第一枪，96.9兆瓦光伏提前投产，南美市场规则正在被中企改写</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>一家成立九个月的公司，让机器人走出「排练过的世界」</title>
-      <link>https://www.36kr.com/p/4025108001558403</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4025108001558403</guid>
+      <title>酒店因肖战演唱会从 179 元涨到 2193元，市监部门称「明码标价都是正常的」，你怎么看？这合理吗？</title>
+      <link>https://www.zhihu.com/question/2093975692383708744</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2093975692383708744</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 14 Oct 2026 02:34:14 GMT</pubDate>
-      <description><![CDATA[<p>具身智能格外热闹的九个月里，有一支团队尤为低调。 当同行用一个又一个机器人Demo争夺注意力时，它把筹码压在一件更慢也更昂贵的事上：训练物理世界通用模型。 这家公司名叫自然意志。它成立于2026年1月，从一开始就把目标定在物理世界通用基础模型，目标是用同一套模型不断适应新的任务。 直到2026年10月，这个团队才第一次带着产品走到台前，发布了50B级物理世界通用基础模型Natura-1。它使用百万小时人类第一视角数据完成预训练，目前已经展现出灵巧操作与零样本指令遵循能力。面对陌生物体和临时指令，它可以调动已有经验组织动作，经过适配后甚至还可以处理更复杂的长程任务。 现在，Natura-1也开始接受真实世界的经验。 01 机器人学会做新题 在日常生活中见到机器人早已不是新闻。以大家常见的商场咖啡机器人为例，机械臂从固定位置取杯，按照设定好的顺序加入原料，再把成品放到取餐口。只要杯子和配料都待…</p>
+      <pubDate>Thu, 15 Oct 2026 00:05:09 GMT</pubDate>
+      <description><![CDATA[<p>跳涨12倍！酒店因肖战演唱会从179涨到2193元，市监部门回应 10月13日，肖战正式官宣“出口·我们”个人巡回演唱会，首站定档10月23日、25日，在南京梦之蓝青奥体育公园体育馆举办，这是其出道十年来的首场个人巡演，瞬间引爆全网热搜与抢票狂潮。 10月14日，极目新闻记者在旅游平台上看到，10月23日至25日，南京梦之蓝青奥体育公园体育馆周边酒店客房价格大幅上涨，有酒店客房单价涨幅达12倍。 极目新闻记者在订票平台上看到，肖战演唱会南京场票价定为390元至1960元，预约人数已破百万。记者在旅游平台上搜索发现，23日、24日，梦之蓝青奥体育公园体育馆周边多家酒店房间价格大幅上涨，如如家商旅酒店（南京工业大学地铁站店）22日之前，客房最低价为179元，23日房价猛涨到2193元，涨幅超过12倍。22日到23日，南京扬子江国际会议中心酒店客房最低价，由534元涨到5888元，涨幅达11倍。…</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/p/4025108001558403">36Kr 热榜</a> — 一家成立九个月的公司，让机器人走出「排练过的世界」</li>
+<li><a href="https://www.zhihu.com/question/2093975692383708744">知乎热榜</a> — 酒店因肖战演唱会从 179 元涨到 2193元，市监部门称「明码标价都是正常的」，你怎么看？这合理吗？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>腾讯、字节、阿里的AI墓园，越来越挤了</title>
-      <link>https://www.36kr.com/p/4024947420712835</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4024947420712835</guid>
+      <title>双 11 促销规则越来越简单，为啥电商平台开始放弃复杂的满减玩法？电商大促正在发生哪些变化？</title>
+      <link>https://www.zhihu.com/question/2093836201601890009</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2093836201601890009</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 14 Oct 2026 01:21:20 GMT</pubDate>
-      <description><![CDATA[<p>AI产品的墓园，可能比你想的大。最近，腾讯又有两款AI产品宣布即将停运。 10月8日， 腾讯元器 发了停服通知：11月9日起，这个零代码智能体平台全部停止服务，用户搭好的智能体全部失效。不少公众号博主用它把历史文章做成知识库、给粉丝做7×24小时自动回复，这下得赶紧搬家了。 这已经算不上新闻。两周前，腾讯刚宣布“全网排队养”的QClaw将在12月24日停运；三个月前， 豆包 和 千问 在同一天宣布下线用户自建智能体。往海外看，OpenAI今年先后关掉了Sora和Atlas浏览器。 把时间拉回2023年ChatGPT爆火之后，会发现一个规律：AI产品上线快，下线也不慢。智东西统计，仅2025年就有至少25个国产AI应用停运、下架或长期停更；海外的AI Graveyard统计，2025年全球有392个AI工具停止服务，差不多每天“走”一个。 这篇文章，我把2023年到现在，国内外大厂和明星创业…</p>
+      <pubDate>Wed, 14 Oct 2026 14:50:52 GMT</pubDate>
+      <description><![CDATA[<p>国庆长假刚过，电商平台已经悄然开启“双11”大促。 京东比其他平台都早，于10月12日开卖现货；天猫和抖音紧随其后，天猫将于15日开启预售、20日现货开售；抖音则从15日正式开启开门红大促。 跟往年不同的是，这一届“双11”开始得更早、结束得更晚。抖音从10月初便开始预热，而淘天则会一直卖到11月13日，可见平台们对这次大促的重视。 而且，今年各大电商平台的大促规则却少了两样熟悉的东西：跨店满减和凑单福利，取而代之的是官方立减、官方直降等更简单的规则。 对消费者来说，这当然是好事。那些年，“双11”购物经常被吐槽像做算术题，如今消费者“买一件也能减”，大促终于回归了它本来的样子。 但规则简化，并不意味着平台和商家就能将价格一降到底，直接将“双11”变成“价格战”。在双11前夕，商务部等七部门联合印发《关于实施品质电商“五优”行动的通知》，明确纠治电商平台“自动跟价”“全网最低价”等无序竞争…</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/p/4024947420712835">36Kr 热榜</a> — 腾讯、字节、阿里的AI墓园，越来越挤了</li>
+<li><a href="https://www.zhihu.com/question/2093836201601890009">知乎热榜</a> — 双 11 促销规则越来越简单，为啥电商平台开始放弃复杂的满减玩法？电商大促正在发生哪些变化？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>群演疑似猥亵女演员，《此处通往繁星》剧组回应将撤下争议片段并调查，若属实剧组及涉事演员需承担哪些责任？</title>
-      <link>https://www.zhihu.com/question/2093629140502933840</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2093629140502933840</guid>
+      <title>如何看待胖东来梦之城项目按照标准施工，被夸完全教科书级？</title>
+      <link>https://www.zhihu.com/question/2093673568659838421</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2093673568659838421</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 14 Oct 2026 01:08:04 GMT</pubDate>
-      <description><![CDATA[<p>10月13日，正在热播的剧集《此处通往繁星》因一段含有男群演面带笑意触碰女演员胸部的正片画面引发争议，“此处通往繁星男群演疑似猥亵女演员”登上热搜。随后，剧方回应称，将尽快撤下该相关正片片段，同时已通过选角导演联系涉事两位演员，开展全面事实调查。 网传画面显示，在殡仪馆里，一段人物与遗体告别的悲痛情节中，两名演员负责拦住一名情绪崩溃跪地的女演员。其中侧边的女性角色仅规范抓握女演员的胳膊，而另一边的男演员的手从女演员侧身移至胸前，从左摸到右，甚至面带笑意，疑似借拍摄之机，对需要表演情绪爆发戏的女演员“揩油”。 不少网友发帖质疑，称男演员的动作方向、表情与剧情要求明显不符，并质疑剧组拍摄现场应有多名工作人员，为何无人对明显越界的动作进行制止，且该片段不被修正，反而通过剪辑等环节最终播出。 13日中午，《此处通往繁星》剧组发布声明，称将尽快撤下该相关正片片段，全面核查本场戏全部正片机位、花絮及侧…</p>
+      <pubDate>Wed, 14 Oct 2026 04:04:37 GMT</pubDate>
+      <description><![CDATA[<p>10月12日（发布），河南。 胖东来盖楼又出圈了！ 近日，河南许昌梦之城项目推进到防水阶段，工人拿着吸尘器仔细吸净浮灰，之后才刷油贴防水卷材，不仅边缘严丝合缝，施工人员手上的手套甚至都没什么脏痕。场内更是讲究，沙土车出门得经过高压冲洗，挖掘机作业全程配喷淋降尘，整个工地连运货车都一尘不染。 从服务到盖楼，胖东来把工匠精神刻进了每一件小事里。有网友感慨：还是第一次看到这样的工地，干净整洁得像AI。 https://baijiahao.baidu.com/s?id=1878832970242940066&amp;wfr=spider&amp;for=pc</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.zhihu.com/question/2093629140502933840">知乎热榜</a> — 群演疑似猥亵女演员，《此处通往繁星》剧组回应将撤下争议片段并调查，若属实剧组及涉事演员需承担哪些责任？</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>一男子在悬空寺古建筑横梁做引体向上，警方已立案，涉事者将承担哪些责任？</title>
-      <link>https://www.zhihu.com/question/2093390624560871266</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2093390624560871266</guid>
-      <category>热门话题</category>
-      <pubDate>Tue, 13 Oct 2026 09:20:18 GMT</pubDate>
-      <description><![CDATA[<p>10月13日，恒山风景名胜区管理中心发布情况通报，针对网传一名男子在悬空寺古建筑横梁做引体向上的事件作出回应，目前公安机关已经立案调查。经调取现场监控视频核实，涉事不当行为发生于2026年9月27日。事发地点位于悬空寺大雄宝殿前廊北侧第二根穿插枋处。该视频由当事人于10月11日上传至社交平台，次日迅速发酵并引发舆情。获悉情况后，景区立即组织古建筑保护及文物保护专家赶赴现场进行勘查。经专业勘验确认，该行为暂未对文物本体造成可见的直接物理损伤，但鉴于悬空寺为纯木构摩崖建筑，其梁、枋、柱等构件通过榫卯结构咬合受力，此类吊拉行为已对木构体系的受力平衡产生潜在扰动风险，存在严重安全隐患。 悬空寺始建于北魏时期，距今已有1500余年历史，是全国重点文物保护单位，也是国内罕见的佛、道、儒三教合一的木质高空摩崖建筑群。其建筑结构精妙，主要依靠插入岩体的横梁承载重量，任何对受力构件的非正常外力施加，均可能破…</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.zhihu.com/question/2093390624560871266">知乎热榜</a> — 一男子在悬空寺古建筑横梁做引体向上，警方已立案，涉事者将承担哪些责任？</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>传 RTX508024GB 定档 2027 年 Q1，如何看待该卡接任新旗舰？</title>
-      <link>https://www.zhihu.com/question/2093345148323342210</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2093345148323342210</guid>
-      <category>热门话题</category>
-      <pubDate>Tue, 13 Oct 2026 06:19:35 GMT</pubDate>
-      <description><![CDATA[<p>据报道，由于英伟达将GB202核心优先分配给利润更高的专业显卡，游戏产品线失去旗舰，原本被搁置的RTX 5080 24GB方案被迫重新启用，成为被逼出来的新旗舰。该型号预计2027年第一季度面世。 规格方面，RTX 5080 24GB沿用GB203核心，拥有10752个CUDA核心。显存从16GB GDDR7升级至24GB，位宽保持256-bit，整卡功耗约415W。 该卡并非全新设计，而是原本规划为RTX 5080 SUPER但因显存成本暴涨被搁置的型号。英伟达将其重新推出，以填补高端游戏显卡的空缺。 RTX 5090等高端型号逐步停产，这导致游戏产品线出现旗舰空缺。同时，显存成本暴涨叠加AI需求挤占产能，高端游戏显卡的供应和定价逻辑已发生根本改变。 尤其是价格，这是玩家最关心的。RT 被逼出来的新旗舰！rtx 5080 24gb定档2027 q1</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.zhihu.com/question/2093345148323342210">知乎热榜</a> — 传 RTX508024GB 定档 2027 年 Q1，如何看待该卡接任新旗舰？</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>如何看待二本毕业女生待业一年，仍坚持找一份双休工作？是不愿降低生活标准，还是对就业市场缺乏认知？</title>
-      <link>https://www.zhihu.com/question/2093283021692605069</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2093283021692605069</guid>
-      <category>热门话题</category>
-      <pubDate>Tue, 13 Oct 2026 02:12:43 GMT</pubDate>
-      <description><![CDATA[<p>这两年，社交媒体上出现一些年轻人，表达他们找工作时的态度。比如要求更多的休息日，在招聘平台上明确拒绝单休工作，寻求更多属于自己的闲暇时间。 今年8月，《半月谈》记者在调研后写道，“以往毕业生择业多以高薪、快速晋升为首要目标，愿意为职业成长承受高强度工作压力，而新一代青年生存压力相对减轻，更加注重个人感受与生活品质。” 对一些公司来说，变化也确实由此发生了。杭州一家互联网中厂的HR称，由于八成候选人因为单休拒绝入职，她所在的公司增加了休息日。还有成都一家公司HR说，因为招不到人，公司改成了双休，调整后，到面率马上变高了，每个月多来了十几个人面试… 更多详情请见：搜狐《极昼》回答找不到双休工作 二本女孩在出租屋待业一年_王辰雨_安妮_公司</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.zhihu.com/question/2093283021692605069">知乎热榜</a> — 如何看待二本毕业女生待业一年，仍坚持找一份双休工作？是不愿降低生活标准，还是对就业市场缺乏认知？</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>如何看待网红女装品牌CHICYOU因使用狸花猫背部毛皮制作毛领遭网友抵制？哪些渠道的毛皮可能涉嫌违法？</title>
-      <link>https://www.zhihu.com/question/2093001535881832037</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2093001535881832037</guid>
-      <category>热门话题</category>
-      <pubDate>Mon, 12 Oct 2026 07:34:12 GMT</pubDate>
-      <description><![CDATA[<p>10月10日，有网友在社交平台发帖称，某电商平台女装店“CHICYOU&quot;上架毛领商品疑似为猫毛皮制品，该商品引发争议并引起大量网友抵制。10月10日晚，该商家发布致歉声明，称本次产品由合作工厂定制，皮牌检测后发现棕黄色毛领样品为猫毛皮，此前，商家从未要求、默许使用猫毛皮材质。目前产品已下架。 据此前的产品详情页介绍显示，新品毛领共三种颜色，其中白色、黑色面料成分为100%狐狸毛皮，花棕色面料成分为100%狸花猫猫毛皮，产品详细说明表明“花棕色选用狸花猫背部毛皮制作。” 图源：网络截图 对此，商家在道歉声明中称，产品原计划于10月11日22:00开售,前期仅搭建预售展示链接、处于上新筹备阶段。10月10日上午，品牌收到检测机构反馈，其中黑色、白色毛领为狐狸毛，棕黄色毛领样品为猫毛皮,与品牌原定狐狸毛采购标准不符。同期在商品资料筹备过程中,工作人员将尚未经过品牌最终复核、来源异常的材质及工艺文…</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.zhihu.com/question/2093001535881832037">知乎热榜</a> — 如何看待网红女装品牌CHICYOU因使用狸花猫背部毛皮制作毛领遭网友抵制？哪些渠道的毛皮可能涉嫌违法？</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>孩子刷短视频上瘾看不进书，手机真的会毁掉孩子的深度阅读能力吗？</title>
-      <link>https://www.zhihu.com/question/2092143619943707853</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2092143619943707853</guid>
-      <category>热门话题</category>
-      <pubDate>Fri, 09 Oct 2026 22:45:09 GMT</pubDate>
-      <description><![CDATA[<p>家有小学四年级娃，以前放学回家会主动翻绘本，安安静静地看个半小时等晚饭。 这半年，沉迷刷短视频，进门第一件事就是找手机，吃饭、上厕所都不放下。好不容易如要求放下手机看书，不到十分钟，翻了几页就合上书:“讲的太慢，不如刷视频”。 定了使用时长，没收手机就闹脾气；自己下班也忍不住刷手机放松，时常被攻击。 现在家里经常为这事吵: 认为短视频破坏孩子的专注力，再刷下去深度阅读就摧毁了； 也认为我们小时候看电视，也没怎么样。 想问问各位知友: 1.手机、短视频真的会毁掉孩子的阅读兴趣吗？还是危言耸听？ 2.普通家庭管不住孩子刷手机，有没有不用天天吵架，效果好的办法，平衡电子产品和阅读时间？</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.zhihu.com/question/2092143619943707853">知乎热榜</a> — 孩子刷短视频上瘾看不进书，手机真的会毁掉孩子的深度阅读能力吗？</li>
+<li><a href="https://www.zhihu.com/question/2093673568659838421">知乎热榜</a> — 如何看待胖东来梦之城项目按照标准施工，被夸完全教科书级？</li>
 </ul>]]></description>
     </item>
     <item>
@@ -281,16 +242,94 @@
 </ul>]]></description>
     </item>
     <item>
-      <title>申昊科技：申昊智算成为A公司算力服务供应商并提供集群算力服务</title>
-      <link>https://www.36kr.com/newsflashes/4025646154633090</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4025646154633090</guid>
+      <title>亚马逊推出Bee系列个人AI录音设备</title>
+      <link>https://www.36kr.com/newsflashes/4027112767410560</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4027112767410560</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 14 Oct 2026 11:54:57 GMT</pubDate>
-      <description><![CDATA[<p>36氪获悉，申昊科技公告，全资子公司杭州申昊智算科技有限公司于近日收到A公司出具的合作意向确认邮件。该客户通知申昊智算为其算力服务供应商并提供集群算力服务。根据双方约定，服务周期锁定为5年，预计服务费用总计约3.33亿元。</p>
-<p><b>1 家媒体报道 · 重要度 4.5/10</b></p>
+      <pubDate>Thu, 15 Oct 2026 12:48:48 GMT</pubDate>
+      <description><![CDATA[<p>亚马逊周四发布两款全新Bee音频设备，包含一款可穿戴设备以及信用卡大小的语音记录仪，这是其在AI硬件市场的最新布局。Bee Frontier是亚马逊现有可穿戴产品的升级款，可佩戴在手腕上，也能夹在衣物上。和前代产品类似，Bee Frontier最长续航可达7天，但售价有所上调，为75美元；上一代产品定价50美元。（新浪财经）</p>
+<p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4025646154633090">36氪快讯</a> — 申昊科技：申昊智算成为A公司算力服务供应商并提供集群算力服务</li>
+<li><a href="https://www.36kr.com/newsflashes/4027112767410560">36氪快讯</a> — 亚马逊推出Bee系列个人AI录音设备</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>众星微发布PCIe 6.0 Switch等三款芯片</title>
+      <link>https://www.36kr.com/newsflashes/4027110986256777</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4027110986256777</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 15 Oct 2026 12:40:59 GMT</pubDate>
+      <description><![CDATA[<p>36氪获悉，国产芯片企业众星微在无锡举行首次品牌发布会，集中展示12款量产芯片，并发布PCIe 6.0 Switch、800G多协议AI NIC、多模RAID三款新品，覆盖计算、网络、存储等高性能互连领域。</p>
+<p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.36kr.com/newsflashes/4027110986256777">36氪快讯</a> — 众星微发布PCIe 6.0 Switch等三款芯片</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>美国上周初请失业金人数为19.9万人</title>
+      <link>https://www.36kr.com/newsflashes/4027114251522433</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4027114251522433</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 15 Oct 2026 12:32:27 GMT</pubDate>
+      <description><![CDATA[<p>美国上周初请失业金人数为19.9万人，预期20万人，前值由19.7万人修正为19.8万人。（财联社）</p>
+<p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.36kr.com/newsflashes/4027114251522433">36氪快讯</a> — 美国上周初请失业金人数为19.9万人</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>机构：全球智能手机出货量在2026年Q3同比萎缩20%</title>
+      <link>https://www.36kr.com/newsflashes/4027107492074115</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4027107492074115</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 15 Oct 2026 12:25:35 GMT</pubDate>
+      <description><![CDATA[<p>Omdia根据其初步估计表示，全球智能手机出货量在2026年第三季度出现了20%的同比下滑，衰退幅度较Q2的6%显著扩大。而从季对季的角度看，尽管多家制造商都在2026年Q3发布了旗舰新品，但全球的智能手机出货量在环比层面仍出现了萎缩。（新浪财经）</p>
+<p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.36kr.com/newsflashes/4027107492074115">36氪快讯</a> — 机构：全球智能手机出货量在2026年Q3同比萎缩20%</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>沐曦股份：预计前三季度归母净利润5.87亿元至7.17亿元，同比扭亏为盈</title>
+      <link>https://www.36kr.com/newsflashes/4027106152829577</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4027106152829577</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 15 Oct 2026 12:24:13 GMT</pubDate>
+      <description><![CDATA[<p>沐曦股份公告，预计前三季度营业收入25.41亿元至31.06亿元，同比增长105.60%至151.29%；归母净利润5.87亿元至7.17亿元，2025年前三季度亏损3.46亿元，同比扭亏为盈；扣非净利润2.23亿元至3.02亿元，2025年前三季度亏损3.93亿元，同比扭亏为盈。业绩扭亏为盈主要系收入大幅增加及对产业链上的公司投资大幅增加所致。</p>
+<p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.36kr.com/newsflashes/4027106152829577">36氪快讯</a> — 沐曦股份：预计前三季度归母净利润5.87亿元至7.17亿元，同比扭亏为盈</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>纽约市主计长敦促Anthropic暂停推进IPO</title>
+      <link>https://www.36kr.com/newsflashes/4027072775852678</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4027072775852678</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 15 Oct 2026 12:13:07 GMT</pubDate>
+      <description><![CDATA[<p>纽约市主计长Mark Levine接受CNBC采访时表示，他已致信Anthropic首席执行官Dario Amodei，呼吁该公司暂停其计划中的首次公开募股(IPO)。信中，纽约市计长敦促Anthropic在全面、透明地回应公司自身提出的AI安全、治理和开发相关担忧之前，暂停IPO计划。Levine写道，公司应把重点放在解决这些风险上，而不是推进IPO。（新浪财经）</p>
+<p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.36kr.com/newsflashes/4027072775852678">36氪快讯</a> — 纽约市主计长敦促Anthropic暂停推进IPO</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>LOL 官方宣布经典模式将于 2027 年 1 月下架，怀旧模式为何难以留住玩家？</title>
+      <link>https://www.zhihu.com/question/2094017633859408212</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2094017633859408212</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 15 Oct 2026 02:51:48 GMT</pubDate>
+      <description><![CDATA[<p>LOL官方发布《开发者日志：英雄联盟经典模式》一文，宣布经典模式将在27年1月份下架，日后可能回归。我们将在第3主题季第2幕对经典模式进行一些调整。内容概要：●英雄联盟经典模式将开放至2026年第3主题季收官，随后结束本轮运营。未来，我们计划让经典模式以活动模式等形式回归，并加入相应调整和新增内容。●第2幕经典模式战斗通行证将统一采用免费奖励路线。●26.21版本经典模式游戏节奏将获得加速我们看到许多玩家在经典模式中重温旧日时光，从中获得了很多乐趣。不过现在，大多数玩家已经回归《英雄联盟》的其他玩法。因此，经典模式将在整个第3主题季期间继续开放，并于2027年1月结束本轮上线。之后，经典模式将暂时下线。我们的目标是在未来让它以活动模式的形式回归，并加入相应调整和新增内容。未来，我们会分享更多从这次上线中收获的经验，包括经典模式哪些地方做得不错、哪些地方还可以进一步还原经典，以及哪些地方因为…</p>
+<p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.zhihu.com/question/2094017633859408212">知乎热榜</a> — LOL 官方宣布经典模式将于 2027 年 1 月下架，怀旧模式为何难以留住玩家？</li>
 </ul>]]></description>
     </item>
   </channel>
