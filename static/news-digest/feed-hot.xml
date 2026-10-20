@@ -5,360 +5,326 @@
     <link>https://zhh7ce.github.io/static/news-digest/feed-hot.xml</link>
     <description>多源报道优先的每日新闻摘要</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 18 Oct 2026 18:20:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 18:29:09 GMT</lastBuildDate>
     <atom:link href="https://zhh7ce.github.io/static/news-digest/feed-hot.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>特斯拉发布全新 Roadster！不开玩笑，它真的会飞</title>
-      <link>https://www.ifanr.com/1684619?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.ifanr.com%2F1684619%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3D</guid>
+      <title>OpenAI 三个神秘模型曝光；DeepSeek 开放搜索与网页抓取 API；智界将获独立造车资格，公司计划上市 ｜ 极客早知道</title>
+      <link>http://www.geekpark.net/news/372514</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372514</guid>
       <category>热门话题</category>
-      <pubDate>Sat, 17 Oct 2026 23:49:14 GMT</pubDate>
-      <description><![CDATA[<p>特斯拉全新 Roadster 终于在今天揭开面纱。 在发布会开始前，马斯克就已经在社交平台上吊足了大家的胃口。他先是说发布会「无法保证成功，但保证精彩」，随后更是断言： 「新款 Roadster 的亮相，会是有史以来最震撼的一次产品秀。」 事实证明，他是对的，各位可以先感受一下。 不开玩笑，这辆车真的会飞。 其实这也并不让人意外，这场发布会可以说是处处藏着伏笔，例如，特斯拉把活动开始时间定在了北美中部时间晚上 7 点 55 分，换算成 24 小时制就是 19 点 55 分，正好对上了经典科幻电影《回到未来》里那台德罗宁跑车穿越回去的年份——1955 年。 如果你把海报的暗部调亮，还能看到里面藏着半句台词：「我们要去的地方…」。 电影里布朗博士那句著名台词随即呼之欲出：「路？我们要去的地方，不需要路。」说完，鸥翼门合拢，车子直接离地腾空。 在马斯克眼里，今天这辆 Roadster，同样也不需…</p>
+      <pubDate>Tue, 20 Oct 2026 10:02:59 GMT</pubDate>
+      <description><![CDATA[<p>OpenAI 三个神秘模型曝光 10 月 18 日，有开发者发现，OpenAI 的 API 模型列表中突然出现了三个陌生名字： aurora-red-alpha、aurora-green-alpha、aurora-blue-alpha。三个模型都以 Aurora（极光）命名，分别对应红、绿、蓝三种颜色。但相关条目很快便从模型列表中消失。 此次发现来自第三方维护的 OpenAI 模型列表镜像，并非官方公告。因此，这些模型究竟是什么、是否会正式发布，目前都还是未知数。 有网友推测，这些模型极有可能是 GPT-6 Astra 后续版本的内部检查点，专门对标 Fable 5.5 的强项，创意编码、长程 agent、视觉 / 3D。也有网友推测：三个模型对应 OpenAI 三个图像模型。（消息来源：机器之心） Anthropic 与法律专家讨论 AI Agent 谈判规则，未来可替用户砍价、处理纠纷…</p>
+<p><b>3 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="http://www.geekpark.net/news/372514">极客公园</a> — OpenAI 三个神秘模型曝光；DeepSeek 开放搜索与网页抓取 API；智界将获独立造车资格，公司计划上市 ｜ 极客早知道</li>
+<li><a href="https://www.zhihu.com/question/2095938083422262957">知乎热榜</a> — 怎么看DeepSeek官宣单集群日均吞吐达 155 万亿 Token，单卡每小时收入38 美金？</li>
+<li><a href="https://www.zhihu.com/question/2095922064804636469">知乎热榜</a> — 如何看待DeepSeek开源的大规模云服务推理框架 DeepInfer ？</li>
+<li><a href="https://www.zhihu.com/question/2095476625228019430">知乎热榜</a> — 如何评价DeepSeek V4.1 Flash 1017登顶「史上最差AI模型名称排行榜」?</li>
+<li><a href="https://www.36kr.com/p/4032947936662665">36Kr 热榜</a> — 正面硬刚DeepSeek，MiniMax M3.1 Flash发布，输出卷到200+ TPS，价格砍到1/2</li>
+<li><a href="https://www.36kr.com/p/4033405123072904">36Kr 热榜</a> — DeepSeek第一，MiniMax第二，国产Flash双子星杀疯了</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>停止加薪！大众计划冻结全球大量员工薪酬至2030年；突发！美国发布DeepSeek禁令；马斯克：明年向全美儿童赠送SpaceX股票</title>
+      <link>https://www.leiphone.com/category/zaobao/Y7039p8HsmmeQClm.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.leiphone.com%2Fcategory%2Fzaobao%2FY7039p8HsmmeQClm.html</guid>
+      <category>热门话题</category>
+      <pubDate>Tue, 20 Oct 2026 10:39:00 GMT</pubDate>
+      <description><![CDATA[<p>要闻提示 1.停止加薪！大众计划冻结员工薪酬至2030年，涉及全球大量员工 2.突发！美国发布DeepSeek禁令 3.花钱之前先问网友意见！「钱包请等等」突然爆火：主打「劝你别买」 4.豆包辟谣超一半算力在造爽剧：不靠谱，只有10% 5.特斯拉喊话：没有「速成车」 6.“山姆品质暴跌你还敢去吗”热搜第一，山姆回应：热搜视频系AI造假 7.字节Seed模型评测负责人黄文灏离职 8.马斯克：明年向全美儿童赠送 SpaceX 股票 今日头条 停止加薪！大众计划冻结员工薪酬至2030年，涉及全球大量员工 10 月 19 日消息，外媒披露的高管内部文件显示，大众汽车计划在 2030 年之前，冻结（不加薪）其全球 60 万名员工中大部分人的薪资。在被问及此事时，大众汽车表示不对“此类猜测”置评，仅表示即将展开的新一轮集体薪酬谈判，才是劳资双方在企业内部沟通并敲定各项协议的正规渠道。 这一不涨薪的计划…</p>
+<p><b>2 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.leiphone.com/category/zaobao/Y7039p8HsmmeQClm.html">雷锋网</a> — 停止加薪！大众计划冻结全球大量员工薪酬至2030年；突发！美国发布DeepSeek禁令；马斯克：明年向全美儿童赠送SpaceX股票</li>
+<li><a href="https://www.36kr.com/p/4033581273502849">36Kr 热榜</a> — 马斯克要给美国每个孩子送一股SpaceX：一场资本分配实验？</li>
+<li><a href="https://www.36kr.com/p/4033470689268610">36Kr 热榜</a> — 8点1氪丨被指品质暴跌，山姆回应；宇树科技市值重回2000亿，人形机器人股批量涨停；马斯克承诺给“美国每个孩子”1股SpaceX股份</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>澳洲一公司用AI假扮受害者接听诈骗电话以提前套取诈骗犯信息，这项技术值得在我国推广以解决诈骗问题吗？</title>
+      <link>https://www.zhihu.com/question/2094749068610072751</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2094749068610072751</guid>
+      <category>热门话题</category>
+      <pubDate>Tue, 20 Oct 2026 02:07:18 GMT</pubDate>
+      <description><![CDATA[<p>IT之家 10 月 16 日消息，据 TechCrunch 昨日报道，澳大利亚初创公司 Apate 成立于 2024 年，他们没有把 AI 用在提高工作效率，而是选择让 AI 和骗子“斗智斗勇”。 基于悉尼麦考瑞大学的研究，Apate 部署了数千个伪装成无辜诈骗受害者的 AI 智能体。这些智能体可以接听诈骗电话、回复可疑信息和邮件、追踪钓鱼链接，并加入社交媒体群组以诱骗骗子。 智能体可以假扮成各种各样的人，年龄、性别和口音各异，讲着各种语言，目的就是尽量多消耗骗子的时间。 该公司表示，其智能体团队迄今为止在 250 万次对话中累计浪费了骗子 17 年的时间。更重要的是，对于 Apate 的客户群 —— 银行、电信公司、政府机构和公用事业公司 —— 来说，“卧底 AI 特工”可以让骗子透露一些通常只有在受害者被骗后才会知道的个人信息：银行账户、加密钱包、电话号码、恶意网站、他们冒充的品牌以及…</p>
 <p><b>2 家媒体报道 · 重要度 6.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.ifanr.com/1684619?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 特斯拉发布全新 Roadster！不开玩笑，它真的会飞</li>
-<li><a href="https://www.zhihu.com/question/2095058852748027867">知乎热榜</a> — 特斯拉市值 5 日蒸发超 6200 亿元，受飞行汽车影响有多大？这次发布新品算是一个好选择吗？</li>
-<li><a href="https://www.zhihu.com/question/2094933606833693615">知乎热榜</a> — 特斯拉的飞行汽车被质疑是噱头，这样的车型有何实际意义？背后有怎样的营销逻辑？</li>
+<li><a href="https://www.zhihu.com/question/2094749068610072751">知乎热榜</a> — 澳洲一公司用AI假扮受害者接听诈骗电话以提前套取诈骗犯信息，这项技术值得在我国推广以解决诈骗问题吗？</li>
+<li><a href="https://www.36kr.com/p/4033567550739331">36Kr 热榜</a> — 笑死，他们训了35万个AI假装被骗，让骗子白忙活17年</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>刚刚，Anthropic宣布奇点已至！AI或把美国GDP推上44万亿美元</title>
-      <link>https://www.36kr.com/p/4030919698731654</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4030919698731654</guid>
+      <title>美舰冲闯中国南沙群岛仙宾礁附近海域，南部战区依法依规跟踪监视，美方意欲何为？哪些信息值得关注？</title>
+      <link>https://www.zhihu.com/question/2095867073184511529</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095867073184511529</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 05:30:49 GMT</pubDate>
-      <description><![CDATA[<p>就在刚刚，Anthropic给出惊人预测—— 到2030年，AI或将让美国GDP飙升至44万亿美元。 今天在曼谷举行的国际货币基金组织佩尔·雅各布森讲座上，Anthropic联合创始人Jack Clark，抛出了一个引起全网轰动的重磅判断：「奇点已经到来」。 什么是奇点？ 就是技术进步的速度，彻底甩开了人类理解和跟进的能力。 而在奇点驱动下，美国GDP将在2030年前被推上44万亿美元的天文数字。 按照常规推演，这个数字为 33.5万亿美元，也就是说奇点带来了15.4%的额外 GDP，平均下来大约每年带来 6% 的 GDP 增长 。 在这条极端的奇点路径下，到2030年前后，累积的生产率提升与资本积累，将把 美国的年化经济增长率推上15.4%的恐怖高位。 这是什么概念？意味着一个庞大的成熟经济体，只需约4.5年就能翻一倍 。 44万亿GDP：印钞机还是绞肉机？ 技术的疯狂裂变，必然重塑资本…</p>
-<p><b>1 家媒体报道 · 重要度 8.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.36kr.com/p/4030919698731654">36Kr 热榜</a> — 刚刚，Anthropic宣布奇点已至！AI或把美国GDP推上44万亿美元</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>重磅！OpenAI之后，AI再破广义黎曼猜想</title>
-      <link>https://www.36kr.com/p/4031090627858820</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4031090627858820</guid>
-      <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 08:14:00 GMT</pubDate>
-      <description><![CDATA[<p>不到十天，数学界经历了一场终极过山车！ 10月6日，OpenAI宣称AI证明了准黎曼假设。 数学家 Alex Kontororvin直言： 如果有人觉得了这一成果，那他肯定能立刻获得菲尔茨奖，毫无悬念 ! 他后续补充无 Siegel 零点或可算「两个菲尔兹奖」。 其他学者也有积极评价。 这简直是硅基生命对人类的降维打击！ 但有人没有投降，没有退场。 如今，在 AI的协助下，数学家证明了某种形式的广义黎曼猜想！ 短短数日后，捷报连连。 这个准黎曼猜想的结果带了一个重要的计算复杂性结果： Burgisser 证明了 Valiant 的猜想：在复数域上，VP ！= VNP 之后，三位人类数学家完成终极绝杀，彻底解决了一道悬置19年的经典难题。 而他们还留下了一句声明： 这项工作中，没有使用任何人工智能工具。 No artificial intelligence tools were used i…</p>
+      <pubDate>Tue, 20 Oct 2026 05:20:49 GMT</pubDate>
+      <description><![CDATA[<p>10月20日凌晨，美“查尔斯顿”号濒海战斗舰未经中国政府允许，冲闯中国南沙群岛仙宾礁附近海域，中国人民解放军南部战区海军组织兵力依法依规跟踪监视。中国对南沙群岛及其附近海域拥有无可争辩的主权，美方行动侵犯中国主权权益，威胁海上安全，不利于地区和平稳定，美方应立即停止相关活动。战区部队时刻保持高度戒备，捍卫国家主权安全，维护地区和平稳定。https://mp.weixin.qq.com/s/k7w4sM9m4C8SCscHg33Vdg</p>
 <p><b>1 家媒体报道 · 重要度 8.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/p/4031090627858820">36Kr 热榜</a> — 重磅！OpenAI之后，AI再破广义黎曼猜想</li>
+<li><a href="https://www.zhihu.com/question/2095867073184511529">知乎热榜</a> — 美舰冲闯中国南沙群岛仙宾礁附近海域，南部战区依法依规跟踪监视，美方意欲何为？哪些信息值得关注？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>美银：超大规模云服务商合计未来12个月自由现金流已经暴跌至负1000亿美元以下，资金历史性流向半导体供应商</title>
-      <link>https://www.36kr.com/newsflashes/4030955254256003</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4030955254256003</guid>
+      <title>新能源车渗透率攀升至 67%创历史新高，燃油车为何加速萎缩？</title>
+      <link>https://www.zhihu.com/question/2094934531933468296</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2094934531933468296</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 09:04:41 GMT</pubDate>
-      <description><![CDATA[<p>据美银全球研究报告，超大规模云服务商合计未来12个月自由现金流已经暴跌至负1000亿美元以下，资本开支消耗掉95%的经营现金流，标志着资金历史性流向半导体供应商。与之形成鲜明对比，截至2026年9月，英伟达、美光、博通这三大半导体头部厂商未来12个月自由现金流已经飙升至接近5000亿美元。这种巨大分化，源于一轮激进的基础设施建设浪潮：微软、亚马逊、Alphabet、Meta、甲骨文等云巨头，在相关收入兑现之前就大幅加码支出。（新浪财经）</p>
+      <pubDate>Sat, 17 Oct 2026 15:35:14 GMT</pubDate>
+      <description><![CDATA[<p>据新华社10月17日消息，中国汽车流通协会乘用车市场信息联席分会近日发布的数据显示，2026年9月，燃油车在中国市场上的销售占比首次跌破三分之一，新能源车整体渗透率攀升至67%的新高。而五年前，燃油车还占据中国乘用车市场九成以上份额。美国特斯拉公司首席执行官埃隆·马斯克转发了相关数据并评论说，“中国对石油的依赖正在快速下降”。这不是马斯克第一次发表这样的观点。马斯克关注的，除了汽车行业本身的变化，还有更深层的趋势。从燃油到新能源，汽车市场动力结构发生如此迅速的转换，反映出的不只是市场份额的此消彼长，更是一个大国在能源路径上的深刻转型。2026年1月7日，在G50沪渝高速长兴服务区，新能源车主使用新安装的大功率充电桩给车充电。新华社记者徐昱摄世界已经关注到，美以伊战事导致霍尔木兹海峡通航受阻后，中国在今年3月至7月间日均减少原油进口数百万桶，大幅对冲了全球供应缺口。国际能源署署长比罗尔说，中…</p>
 <p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4030955254256003">36氪快讯</a> — 美银：超大规模云服务商合计未来12个月自由现金流已经暴跌至负1000亿美元以下，资金历史性流向半导体供应商</li>
+<li><a href="https://www.zhihu.com/question/2094934531933468296">知乎热榜</a> — 新能源车渗透率攀升至 67%创历史新高，燃油车为何加速萎缩？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>Meta修改商业服务条款引AI训练数据争议 相关表述已删除</title>
-      <link>https://www.36kr.com/newsflashes/4031076135162502</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4031076135162502</guid>
+      <title>独生女车祸去世 10 年后赔偿所剩不多，父母再次起诉获批5年生活费，如何从法律角度解读？</title>
+      <link>https://www.zhihu.com/question/2095673449092072909</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095673449092072909</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 08:44:36 GMT</pubDate>
-      <description><![CDATA[<p>Meta公司近日更新商业服务条款一事引发行业争议，修改条款中涉及使用企业账户相关网页内容用于人工智能模型训练的内容，受到外界广泛讨论，目前该相关表述已被正式删除。（财联社）</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+      <pubDate>Mon, 19 Oct 2026 16:31:25 GMT</pubDate>
+      <description><![CDATA[<p>唯一的女儿因车祸身亡，年迈的父母获赔5年被扶养人生活费。5年期满后，老人再次起诉主张该费用，还能获得支持吗？近日，浙江省龙游县人民法院审结一起机动车交通事故责任纠纷案，判决侵权人及保险公司按责任比例向两位老人继续支付5年被扶养人生活费。 2016年1月，周某驾驶车辆与女子项某甲发生交通事故，项某甲不幸离世。 周某为肇事车辆在某保险公司投保了交强险和商业三者险。事故发生时，项某甲的父母项某、刘某都已80岁高龄，且项某甲是两位老人唯一的孩子。两位老人诉至法院，要求周某和保险公司赔偿医疗费、丧葬费、被扶养人生活费等各项损失。 法院查明，项某、刘某在起诉时均已年满75周岁，无劳动能力，又无其他生活来源。根据《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》规定，被扶养人为75周岁以上的，按5年计算被扶养人生活费，故法院判令保险公司与周某按责支付被扶养人5年生活费7万余元。 转眼10年过…</p>
+<p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4031076135162502">36氪快讯</a> — Meta修改商业服务条款引AI训练数据争议 相关表述已删除</li>
+<li><a href="https://www.zhihu.com/question/2095673449092072909">知乎热榜</a> — 独生女车祸去世 10 年后赔偿所剩不多，父母再次起诉获批5年生活费，如何从法律角度解读？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>法国发生近年来最严重暴力骚乱，约1200人被捕、超150名警察受伤，情况如何？为何此时矛盾进一步激化？</title>
-      <link>https://www.zhihu.com/question/2095109263622238854</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095109263622238854</guid>
+      <title>长鑫科技股价跳水，市值跌破3万亿元，前三季度预赚 1300 多亿还推出回购，为什么股价反而大跌？</title>
+      <link>https://www.zhihu.com/question/2095452033461511103</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095452033461511103</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 03:09:33 GMT</pubDate>
-      <description><![CDATA[<p>法国数十万人10月17日走上街头，抗议物价上涨和公共服务恶化。巴黎、里昂、马赛、图卢兹、斯特拉斯堡、南特、里尔等多地爆发警察与抗议者的激烈冲突，发生涉及蒙面人员的暴力事件，大约1200人被捕，超过150名警察受伤。 据当地媒体报道，这是法国近年来最严重暴力骚乱之一。 在巴黎市中心的著名地标，包括香榭丽舍大街、协和广场、共和国广场等，都发生了抗议活动。许多商店和餐馆被砸，汽车和垃圾桶被纵火焚烧。 在里昂，抗议者烧毁了旅游办公室。在马赛，多家商铺被抢。在利摩日，有着140多年历史的市政厅遭到焚烧。 法国内政部称，全法大约55万人参加了当天的抗议活动。法国总工会提供的人数是80万人。抗议者称大多数人都是和平游行，并将大部分暴力行为归咎于“蓄意破坏并与警察发生冲突的捣乱分子”。 法国总统马克龙强调，法国绝不容忍暴力。总理勒科尔尼表示，政府不会受到暴力的恐吓。法国内政部称，将尽一切可能追查暴力事件的…</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+      <pubDate>Mon, 19 Oct 2026 01:51:36 GMT</pubDate>
+      <description><![CDATA[<p>10月19日，长鑫科技股价大跌，一度跌超8%。截至发稿，跌幅收窄至6.29%，报42.19元/股，市值约为2.86万亿元。 消息面上，10月17日美股存储芯片股普跌，SK海力士、闪迪、西部数据跌超6%，美光跌5.63%。 长鑫科技公告称，预计2026年前三季度归属于上市公司股东的净利润为1310.00亿元-1325.00亿元，同比扭亏为盈。按此计算，公司Q3净利润预计533.95亿-548.95亿，Q2净利润528.43亿，据此计算，Q3净利润预计环比增长1%-3%。 此外，长鑫科技董事长朱一明提议，拟使用自有或自筹资金，通过上交所交易系统以集中竞价方式回购公司A股股份。回购资金总额不低于10亿元且不超过20亿元，回购股份拟用于员工股权激励、员工持股计划或减少注册资本，回购价格不高于董事会审议通过方案前30个交易日股票交易均价的150%，实施期限为自董事会或股东会审议通过之日起12个月内。…</p>
+<p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.zhihu.com/question/2095109263622238854">知乎热榜</a> — 法国发生近年来最严重暴力骚乱，约1200人被捕、超150名警察受伤，情况如何？为何此时矛盾进一步激化？</li>
-<li><a href="https://www.zhihu.com/question/2095059132508386627">知乎热榜</a> — 法国有143年历史的市政厅被纵火焚毁，这场骚乱最终可能以什么方式收场？将造成什么影响？</li>
+<li><a href="https://www.zhihu.com/question/2095452033461511103">知乎热榜</a> — 长鑫科技股价跳水，市值跌破3万亿元，前三季度预赚 1300 多亿还推出回购，为什么股价反而大跌？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>职业差评现套餐服务，「450元销量下滑，1890元排名垫底」，反映了哪些市场乱象？法律上能怎样维权？</title>
-      <link>https://www.zhihu.com/question/2095065915037415019</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095065915037415019</guid>
+      <title>中国留学生俄罗斯课堂披旭日旗后道歉且已被遣返，如何评价？他在俄罗斯当地及回国后可能面临哪些实质追责？</title>
+      <link>https://www.zhihu.com/question/2095439399555285790</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095439399555285790</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 00:17:18 GMT</pubDate>
-      <description><![CDATA[<p>“450元让销量下滑，1890元让排名垫底，2700元终极重启套餐，让店铺数据直接作废。”提供“职业差评”服务的“商家”推出了所谓“套餐服务”，叫嚣“花钱就可以搞死一家店铺”，这是公然践踏公平竞争的不法行为，是可忍，孰不可忍？ 无数中小商家的经营命脉，正被一条条虚假差评裹挟。一家烧烤店后台突然涌入大量电话打不通、地址找不到人的异常订单，随后，“食材不新鲜”“吃了拉肚子”等一批差评齐刷刷出现。该差评团伙在谈“生意”时，还自称“已经搞死80多家店铺”“商家敢反抗，就去投诉消防、工商、税务”，不仅视法律于无物，还敢滥用行政资源。大型餐饮连锁企业有法务、公关团队，而那些小微餐饮店，比如夫妻小店、小吃摊主面对“恶意差评”往往无能为力，更容易成为差评团伙的“猎物”。 “恶意差评”已经形成黑色产业链，破坏公平竞争环境。有媒体报道差评团伙通过“群控”批量制造点评，即通过一台电脑或服务器同时操控几十至成千上…</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+      <pubDate>Mon, 19 Oct 2026 01:01:24 GMT</pubDate>
+      <description><![CDATA[<p>《环球时报》记者从莫斯科大学历史系学生处获悉，在该系中国留学生的集体请愿下，校方于10月19日下午召开专题座谈会，表示将尽快公布对这名陈姓学生的开除决定，并会通过学校官网以及社交媒体渠道公开事件经过和校方立场。 记者了解到，16日，在陈姓学生身披旭日旗风波进一步发酵之际，该系研一学生张某和大四学生苏某一同起草请愿书，要求院方启动调查程序，核实这名陈姓学生的相关行为。在该系多名中国留学生签字后，这份集体请愿书当天被提交给莫斯科大学历史系。针对请愿诉求，莫斯科大学历史系立即作出回应，定于19日下午召开专题座谈会，并透露16日已启动相关程序，对这名陈姓学生作遣返处理。据了解，该陈姓学生目前已被遣返。身披旭日旗中国留学生已被遣返，校方称将尽快公布开除决定；本人发布道歉视频：“这是一件很不对的事，是对祖国和人民的不尊重” 近日，莫斯科大学一名中国留学生在课堂身披旭日旗的相关画面在网络传播，引发舆论高…</p>
+<p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.zhihu.com/question/2095065915037415019">知乎热榜</a> — 职业差评现套餐服务，「450元销量下滑，1890元排名垫底」，反映了哪些市场乱象？法律上能怎样维权？</li>
+<li><a href="https://www.zhihu.com/question/2095439399555285790">知乎热榜</a> — 中国留学生俄罗斯课堂披旭日旗后道歉且已被遣返，如何评价？他在俄罗斯当地及回国后可能面临哪些实质追责？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>出版方回应饶毅点名《癌细胞》主编涉嫌索贿，称正在核查，若属实该主编要承担哪些责任？</title>
-      <link>https://www.zhihu.com/question/2094557859933417580</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2094557859933417580</guid>
+      <title>如何看待 9 月 BBA 旗下无一车型零售破万？这是否意味着消费者不再单纯认豪华车标？</title>
+      <link>https://www.zhihu.com/question/2095630667409254223</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095630667409254223</guid>
       <category>热门话题</category>
-      <pubDate>Fri, 16 Oct 2026 14:38:28 GMT</pubDate>
-      <description><![CDATA[<p>近日，国际学术期刊编辑是否存在索贿受贿行为，成为国内科研圈热议的话题。 10月13日，北京大学教授、首都医科大学原校长饶毅在其微信公众号“饶议科学”发表题为《中国应该抵制索贿受贿的期刊编辑》的文章，点名国际肿瘤学期刊《癌细胞》主编毛云涛（Steve Mao）。文章称，多个重要国际学术期刊出现索贿受贿的编辑，甚至主编。如果是主编有问题，中国科学家应抵制其主编的刊物。第一个应抵制的是Cancer Cell（《癌细胞》），直到Steve Mao辞职或被开除之后。 此前一天，饶毅已连续发文，称“有部分中国科学家指出部分国际学术期刊的杂志编辑索贿受贿，要求给其个人经费，才帮助国内一些人发表论文”，并公布了一条信息：一名临床医生与某杂志的一名编辑面谈，对方第一次开价200万。他还公布了与这名编辑的英文邮件往来。对方称，这一说法完全虚假、毫无根据，要求他立即撤回。 《癌细胞》由美国细胞出版社出版，是肿瘤…</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+      <pubDate>Mon, 19 Oct 2026 13:41:26 GMT</pubDate>
+      <description><![CDATA[<p>燃油车时代，BBA（宝马、奔驰、奥迪）旗下中型车奥迪A6、宝马5系、奔驰E级等的地位无人撼动。今年以来，即便是热销车型也出现了月销零售未能过万的情况。国内上险量数据显示，今年9月，宝马3系、5系，奔驰C级、E级，奥迪A6L等主力轿车，叠加X3、GLC、Q5L等主流SUV，单车零售销量全部卡在万辆以下，其中卖得最好的宝马3系9975辆，距万辆只差25辆。这在过去数年中是一个罕见的现象。对照去年9月，这六款车零售销量全部过万。https://mp.weixin.qq.com/s/-4VCc1Xq8vI2HR5f9V4TgA</p>
+<p><b>1 家媒体报道 · 重要度 6.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.zhihu.com/question/2094557859933417580">知乎热榜</a> — 出版方回应饶毅点名《癌细胞》主编涉嫌索贿，称正在核查，若属实该主编要承担哪些责任？</li>
+<li><a href="https://www.zhihu.com/question/2095630667409254223">知乎热榜</a> — 如何看待 9 月 BBA 旗下无一车型零售破万？这是否意味着消费者不再单纯认豪华车标？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>恒力石化：预计前三季度净利润同比增长104.20%</title>
-      <link>https://www.36kr.com/newsflashes/4031185459483008</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4031185459483008</guid>
+      <title>Salesforce将斥资近56.6亿美元收购客户互动平台Braze</title>
+      <link>https://www.36kr.com/newsflashes/4034210781910150</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4034210781910150</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 09:44:52 GMT</pubDate>
-      <description><![CDATA[<p>36氪获悉，恒力石化公告，预计2026年前三季度归属于上市公司股东的净利润为102.56亿元，同比增长104.20%。业绩变动主要系行业供需格局改善、景气度回升，炼化、芳烃、PTA及聚酯新材料产业链运行持续向好，公司发挥“油、煤、化”深度融合的“大化工”平台优势，核心装置运行平稳，产业链协同效应释放，炼化、PTA板块加工价差显著修复，有效增厚经营业绩。</p>
+      <pubDate>Tue, 20 Oct 2026 12:57:27 GMT</pubDate>
+      <description><![CDATA[<p>Salesforce当地时间10月20日宣布，将斥资近56.6亿美元收购客户互动平台Braze。该交易预计将于Salesforce的2028财年完成，但仍需获得Braze股东及监管机构批准。（界面）</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4031185459483008">36氪快讯</a> — 恒力石化：预计前三季度净利润同比增长104.20%</li>
+<li><a href="https://www.36kr.com/newsflashes/4034210781910150">36氪快讯</a> — Salesforce将斥资近56.6亿美元收购客户互动平台Braze</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>微软取消AI相关合作，英国本土数据中心先锋企业遭遇重大挫折</title>
-      <link>https://www.36kr.com/newsflashes/4031077240361600</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4031077240361600</guid>
+      <title>特斯拉与保加利亚企业将斥资超3.5亿欧元开发多个储能项目</title>
+      <link>https://www.36kr.com/newsflashes/4034191117194373</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4034191117194373</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 08:54:46 GMT</pubDate>
-      <description><![CDATA[<p>微软已退出一笔位于埃塞克斯的数据中心交易，对英国企业Nscale规模达数十亿美元的上市计划构成打击。作为Nscale最大的两家客户之一，这家美国科技巨头近期通知Nscale，将终止去年公布的合作协议。对Nscale而言，这是一次重大挫折：微软原本是该公司位于埃塞克斯劳顿的首座英国数据中心的锚定租户。尽管AI算力板块遭遇惨烈抛售，微软的决定仍可能打乱Nscale推进最高350亿美元（约合260亿英镑）华尔街上市的步伐。（新浪财经）</p>
+      <pubDate>Tue, 20 Oct 2026 12:31:25 GMT</pubDate>
+      <description><![CDATA[<p>保加利亚政府10月20日发布声明称，保加利亚企业与特斯拉将合作开发三个储能项目，总容量超2300兆瓦时，投资总额逾3.5亿欧元。其中首个电池储能设施Tvarditsa预计将于2027年二季度投运。该项目将建设一套基于特斯拉Megapack 2XL技术的电力储能系统，容量达300兆瓦时。（界面）</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4031077240361600">36氪快讯</a> — 微软取消AI相关合作，英国本土数据中心先锋企业遭遇重大挫折</li>
+<li><a href="https://www.36kr.com/newsflashes/4034191117194373">36氪快讯</a> — 特斯拉与保加利亚企业将斥资超3.5亿欧元开发多个储能项目</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>海光信息：董事长提议回购5亿至8亿元股份</title>
-      <link>https://www.36kr.com/newsflashes/4031069444067713</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4031069444067713</guid>
+      <title>通用汽车计划回购200亿美元股票以提振股价</title>
+      <link>https://www.36kr.com/newsflashes/4034131318854792</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4034131318854792</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 08:15:01 GMT</pubDate>
-      <description><![CDATA[<p>36氪获悉，海光信息公告，公司董事长历军提议以自有资金通过集中竞价交易方式回购公司股份，回购资金总额不低于5亿元且不超过8亿元，回购股份将用于员工持股计划或股权激励。提议人历军在提议前6个月内不存在买卖公司股份情况，回购期间无增减持计划。</p>
+      <pubDate>Tue, 20 Oct 2026 11:30:35 GMT</pubDate>
+      <description><![CDATA[<p>通用汽车董事会批准了一项规模达200亿美元的股票回购计划，旨在提振公司股价。通用汽车高管认为，该公司股票长期处于被低估的状态。通用汽车周二表示，这项授权允许公司随时回购股票。过去五年，通用汽车已累计回购近300亿美元的股票。（新浪财经）</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4031069444067713">36氪快讯</a> — 海光信息：董事长提议回购5亿至8亿元股份</li>
+<li><a href="https://www.36kr.com/newsflashes/4034131318854792">36氪快讯</a> — 通用汽车计划回购200亿美元股票以提振股价</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>ST绝味：撤销其他风险警示，10月20日复牌</title>
-      <link>https://www.36kr.com/newsflashes/4031072591696262</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4031072591696262</guid>
+      <title>如何看待2026年10月20日下午疑似国内所有mc相关下载被封禁？</title>
+      <link>https://www.zhihu.com/question/2095905104423662975</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095905104423662975</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 08:07:02 GMT</pubDate>
-      <description><![CDATA[<p>36氪获悉，ST绝味公告，公司股票将于2026年10月19日停牌1天，自2026年10月20日起复牌交易，公司股票将撤销其他风险警示，A股股票简称由“ST绝味”变更为“绝味食品”，证券代码仍为“603517”。撤销其他风险警示后，公司股票转出风险警示板交易，公司股票交易的日涨跌幅限制为10%。</p>
+      <pubDate>Tue, 20 Oct 2026 07:51:56 GMT</pubDate>
+      <description><![CDATA[<p>pcl2，hmcl，网易的代理服务器等统统被封禁了</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4031072591696262">36氪快讯</a> — ST绝味：撤销其他风险警示，10月20日复牌</li>
+<li><a href="https://www.zhihu.com/question/2095905104423662975">知乎热榜</a> — 如何看待2026年10月20日下午疑似国内所有mc相关下载被封禁？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>港股IPO火爆募资刷新近15年纪录，香港证监会警示可疑认购</title>
-      <link>https://www.36kr.com/newsflashes/4030951397429895</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4030951397429895</guid>
+      <title>女子打喷嚏震断肋骨，这和每天喝2杯以上咖啡的关系有多大？为什么现在骨质疏松年轻化了？可以如何预防？</title>
+      <link>https://www.zhihu.com/question/2095832295131145840</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095832295131145840</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 07:12:42 GMT</pubDate>
-      <description><![CDATA[<p>2026年前三季度，港股IPO市场交出一份远超预期的成绩单，共有115家企业上市，募资总额3855.66亿港元，这一募资规模已超过2011年以来任何一年的全年水平。在展望四季度时，德勤、毕马威近期先后表示，港股全年IPO融资额有机会逼近5000亿港元。市场火热也让中介机构受益。头部效应十分明显，前三家承销商的承销规模合计占比已达42%。不过，保荐机构的资源紧张问题以及执业质量仍然受到监管关注。10月13日香港证监会表示，当前资源紧张有所缓解，体现在五家最活跃保荐人的在审上市申请占比由年初的77%降至9月的65%；负担过重的主要签署人员数量减少78%。香港证监会特别提醒，当前保荐机构要警惕涉及首次公开招股及上市后活动的不透明安排，这些安排可能会产生可疑的认购指示、人为夸大首次公开招股的股份需求，或助长上市后潜在操纵买卖的交易活动。（券商中国）</p>
+      <pubDate>Tue, 20 Oct 2026 03:02:37 GMT</pubDate>
+      <description><![CDATA[<p>10月16日，浙江医院开展公益日活动，骨科、心血管内科等专家现场义诊，为老年朋友答疑解惑。在义诊现场，一个关于35岁女性的案例，让不少年轻人颇感意外。 35岁女性打喷嚏断肋骨 咖啡每天2杯以上 浙江医院副院长、骨科宋柏杉主任医师在义诊现场分享了另一个令人意外的案例：一名35岁左右的女性，打喷嚏时竟然断了一根肋骨，原因竟是她爱好喝咖啡，每天2杯以上。 宋柏杉表示，这个案例看似极端，却反映出骨质疏松年轻化的趋势。长期大量饮用咖啡会影响钙的吸收，户外活动太少，骨密度就可能提前下降，导致骨头变“脆”。 终日室内工作，外出时隔离霜，防晒霜使用阻断了太阳光里的紫外线照射刺激皮肤对维生素D的转化。浙江35岁女子每天两杯咖啡，打喷嚏断了一根肋骨！医生紧急提醒</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4030951397429895">36氪快讯</a> — 港股IPO火爆募资刷新近15年纪录，香港证监会警示可疑认购</li>
+<li><a href="https://www.zhihu.com/question/2095832295131145840">知乎热榜</a> — 女子打喷嚏震断肋骨，这和每天喝2杯以上咖啡的关系有多大？为什么现在骨质疏松年轻化了？可以如何预防？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>客观来看，贫困生能花三千块治牙吗？为何这会引发热议，和之前的贫困生看演唱会、9.9元咖啡等区别在哪？</title>
-      <link>https://www.zhihu.com/question/2095125555620177239</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095125555620177239</guid>
+      <title>如何看待 00 后小伙自学机械手搓载人飞行滑板，成功飞越长江？这个飞行滑板的技术原理是什么？</title>
+      <link>https://www.zhihu.com/question/2095632163530077628</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095632163530077628</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 04:14:18 GMT</pubDate>
-      <description><![CDATA[<p>[图片]</p>
+      <pubDate>Mon, 19 Oct 2026 13:47:22 GMT</pubDate>
+      <description><![CDATA[<p>https://news.qq.com/rain/a/20261019A00AB800?pullappbar=1 14岁辍学，曾被骗负债240万，湖北00后小伙踩着自制飞行滑板，成功飞越长江，灵感来自《蜘蛛侠》中“绿魔”；网友：中国人会飞，不是吹牛 “我造了一块会飞的滑板”，近日，科技博主神奇阿宇在其社交媒体账号上发布的一则视频在全网爆火。视频中，神奇阿宇历时两个月手工制作了一块载人飞行滑板，乘着它飞跃恩施的崇山峻岭，横跨长江。 央视等多家媒体对其进行了报道。 他叫宋兴宇，00后，来自湖北巴东。受电影《蜘蛛侠》中“绿魔”的飞行滑板启发，决定尝试制作载人飞行滑板。他自学机械、飞控与AI技术，历时两个多月的反复打磨，自制了能载人的电动飞行滑板，滑板借助AI进行数据监测，可完成悬停和直线飞行。经过十多天反复训练，他终于能熟练操控滑板，随后，他乘着滑板飞跃了家乡恩施的城市和山川。 据极目新闻，今年…</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.zhihu.com/question/2095125555620177239">知乎热榜</a> — 客观来看，贫困生能花三千块治牙吗？为何这会引发热议，和之前的贫困生看演唱会、9.9元咖啡等区别在哪？</li>
+<li><a href="https://www.zhihu.com/question/2095632163530077628">知乎热榜</a> — 如何看待 00 后小伙自学机械手搓载人飞行滑板，成功飞越长江？这个飞行滑板的技术原理是什么？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>许愿式编程发布，谁说梁文锋不宠“小白”？</title>
-      <link>https://www.36kr.com/p/4030781004502915</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4030781004502915</guid>
+      <title>如何看待模仿王源博主「王扁」被前经纪人用锤子击打头部约 10 分钟，双方有什么矛盾？</title>
+      <link>https://www.zhihu.com/question/2095221593614164784</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095221593614164784</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 02:55:25 GMT</pubDate>
-      <description><![CDATA[<p>梁文锋曾在投资者闭门会上说，“我们没有在C端上花很多力气，甚至一度我们都不想维护那些用户了”。可现在看来，梁文锋是口是心非，嘴上说不在乎C端，实际上非常注重C端。 DeepSeek 在10月17日发布的 DeepSeek V4.1 Flash 1017中，最大的特点就是支持“许愿式编程”了。用户只需要跟 DeepSeek 说想法，不需要各种参数、细节、素材，它就能替用户完成整个生产闭环。 这是一个典型的“to 小白”功能，资深工程师们都不一定用得上这个功能，毕竟他们能给模型输入完整的提示词，不需要“许愿”，直接“下命令”就可以了。可见 DeepSeek 有多么在乎C端用户体验。 除了许愿式更新这一核心亮点以外，新版本还通过基于自反馈的强化学习训练，提升了在游戏开发、3D建模等方面“从零开始构建完整项目”的能力。 下面这些视频是由V4.1 Flash 1017、Gemini 4 Argon以…</p>
+      <pubDate>Sun, 18 Oct 2026 10:35:55 GMT</pubDate>
+      <description><![CDATA[<p>近日，网红王扁在重庆观音桥附近摆摊遭一名男子持械殴打受伤住院的消息在社交平台流传。 10月19日，王扁（简万军）代理律师受其委托就此事发布说明与澄清，律师称，17日晚上，王扁摆摊时，打人者张某携带刀具和锤子突然从王扁摊位的后部冲出，对王扁的头部进行击打，并一直追逐击打王扁，王扁的头部事后到医院缝了9针，左手手掌骨折，背部也受到多处伤害，此外王扁的一名粉丝为帮助阻拦打人者张某，头部也被张某打伤，伤势比较严重。 视频称，打人者张某此前与王扁有过合作，合作期间 ，张某以王扁的经纪人或王扁的法人自称，后因王扁账号被某平台认定涉嫌违规后遭注销，无法再发布的自媒体内容，因此王扁无法再持续获得收入，后来被迫到长沙摆摊，经营小吃，两人在此期间合作关系破裂。此后，张某突然转变方向，开始在多个平台注册自媒体账号，发布以曝光、抹黑王扁为主题的内容，并利用AI创作类似王扁的形象来进行内涵和攻击，王扁已对上述行为提…</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/p/4030781004502915">36Kr 热榜</a> — 许愿式编程发布，谁说梁文锋不宠“小白”？</li>
+<li><a href="https://www.zhihu.com/question/2095221593614164784">知乎热榜</a> — 如何看待模仿王源博主「王扁」被前经纪人用锤子击打头部约 10 分钟，双方有什么矛盾？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>AI 带来的效率，可能会毁掉下一代专业人才</title>
-      <link>https://www.36kr.com/p/3987041583676160</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F3987041583676160</guid>
+      <title>四川南充一9岁男童被发现多处烫伤双手变形，当地回应称孩子未受虐待，伤疤系意外所致，具体情况如何？</title>
+      <link>https://www.zhihu.com/question/2094084342637187570</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2094084342637187570</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 00:30:17 GMT</pubDate>
-      <description><![CDATA[<p>神译局是36氪旗下编译团队，关注科技、商业、职场、生活等领域，重点介绍国外的新技术、新观点、新风向。 编者按：AI大幅提升工作效率的同时，正在悄悄夺走新人积累实战经验的基础岗位。航空领域的历史教训警示我们，完全依赖自动化会造成人的技能退化。加入人工干预环节，短期看似牺牲效率，实则是为未来储备专业判断力，避免危机来临之时，无人能够兜底。本文来自编译，希望对您有所启发。 图片来源：JAMES STEINBERG 十多年前，我牵头为美国一座核电站设计一套开创性的全数字化控制系统。从纸面参数来看，这套系统堪称完美：仿照现代民航客机的模式，系统可以自主运行，操作人员只负责监控，几乎无需人为介入。但当时我们做了一个在追求效率的人看来十分倒退的决定：在系统本可以全自动完成的流程里，刻意保留若干人工操作步骤。 我们意在解决一个现实问题——如果操作人员只负责监控自动化系统，久而久之，他们就不再是真正意义上的…</p>
+      <pubDate>Thu, 15 Oct 2026 07:16:53 GMT</pubDate>
+      <description><![CDATA[<p>10月14日，有网友发布视频称，四川南充仪陇县三河镇一名9岁男童，胸口处有较为大块的烫伤疤痕，双手也有疤痕且手指扭曲变形。该视频发布网络后，有网友担心孩子是否受到虐待。 10月16日，仪陇县妇联工作人员向极目新闻记者介绍，妇联已接到此事的反映。经过当地调查，确认孩子身上的伤都有证据或是记录证明，并非虐待。孩子胸口处的烫伤疤痕是老人烧了开水后，孩子玩耍意外打翻开水烫伤；手部的伤是因为此前孩子长了冻疮，家长用土办法泡热水处理时欠妥，虽然就医但手未能完全恢复。 上述妇联工作人员介绍，经了解，家长对这个孩子还是很关爱，并不存在虐待的情况。目前政府多个部门都介入并长期关注，以保障孩子生活、医疗和教育，同时也安排了就近爱心妈妈志愿者以便提供帮助，其身体状况也已请专业人士查看。 三河镇政府工作人员也表示，孩子未受虐待，后续当地会长期跟进其生活各方面情况。9岁男童胸口和双手有大片烫伤疤痕，当地妇联回应网友…</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/p/3987041583676160">36Kr 热榜</a> — AI 带来的效率，可能会毁掉下一代专业人才</li>
+<li><a href="https://www.zhihu.com/question/2094084342637187570">知乎热榜</a> — 四川南充一9岁男童被发现多处烫伤双手变形，当地回应称孩子未受虐待，伤疤系意外所致，具体情况如何？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>路由的威力：AI的长尾博弈里谁能通吃？</title>
-      <link>https://www.36kr.com/p/3993327066151944</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F3993327066151944</guid>
+      <title>2026《全球前 2％ 顶尖科学家榜单》出炉，你或者你熟识的人入选了么？</title>
+      <link>https://www.zhihu.com/question/2091926847034318849</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2091926847034318849</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 00:00:52 GMT</pubDate>
-      <description><![CDATA[<p>神译局是36氪旗下编译团队，关注科技、商业、职场、生活等领域，重点介绍国外的新技术、新观点、新风向。 编者按：“自建专属AI”或是场自嗨。仿真数据显示，对手踩坑经验的提炼效果反超私有数据，中心化路由平台正重构算力分发。文章来自编译。 本月早些时候，Stripe同意以75亿美元收购OpenRouter。 这引发了一阵密集的评论热潮。Slow Ventures的Sam Lessin直言： OpenRouter一点技术含量都没有，不过是个加上了极佳营销手段的API密钥中转站罢了。 而@patrickmandia则表示： 过去几周涌现出的路由器浪潮让我感到费解。每一家现代应用层企业自身都会演变成一个路由器。这是它们生存的根基，绝对不会外包给另一家公司。 我直觉上感到Sam和Patrick根本没有看懂本质。我最近愈发坚信，“按结果定价”（Outcomes Pricing）最适合在路由器层扎根（视算力…</p>
+      <pubDate>Fri, 09 Oct 2026 08:23:46 GMT</pubDate>
+      <description><![CDATA[<p>当地时间10月7日，美国斯坦福大学（Stanford University）John P.A.Ioannidis教授团队和爱思唯尔（Elsevier）共同发布最新斯坦福全球前2%顶尖科学家榜单（World&apos;s Top 2% Scientists）。 榜单共分为“终身科学影响力榜单”（Career-long Impact）和“年度科学影响力榜单”（Single-year Impact），其中终身科学影响力榜单关注整个学术生涯迄今的影响力，年度科学影响力榜单聚焦上一年度的学术成就。 该榜单基于Scopus数据库，以全球约一千万科学家的论文被引次数、H指数（“H-index”，用于评估研究人员的学术产出数量与学术产出水平）、经合著者调整后的HM指数、单独或第一作者的文章引用数等综合指标统计研究，反映科学家的产出量和学术影响力，收录了来自20个学科领域、174个子学科领域全球排名2%的科学家。 据…</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/p/3993327066151944">36Kr 热榜</a> — 路由的威力：AI的长尾博弈里谁能通吃？</li>
+<li><a href="https://www.zhihu.com/question/2091926847034318849">知乎热榜</a> — 2026《全球前 2％ 顶尖科学家榜单》出炉，你或者你熟识的人入选了么？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>网传 DeepSeek V4.1 Flash 1017指纹测出 GPT-6 Astra，这是怎么回事？</title>
-      <link>https://www.zhihu.com/question/2094959269275878409</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2094959269275878409</guid>
+      <title>以人类今天的科技，能否应对白垩纪那颗小行星？</title>
+      <link>https://www.zhihu.com/question/1987858443344815205</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F1987858443344815205</guid>
       <category>热门话题</category>
-      <pubDate>Sat, 17 Oct 2026 17:13:32 GMT</pubDate>
-      <description><![CDATA[<p>模型指纹检测究竟是怎么测的？</p>
+      <pubDate>Fri, 26 Dec 2025 04:13:05 GMT</pubDate>
+      <description><![CDATA[<p></p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.zhihu.com/question/2094959269275878409">知乎热榜</a> — 网传 DeepSeek V4.1 Flash 1017指纹测出 GPT-6 Astra，这是怎么回事？</li>
+<li><a href="https://www.zhihu.com/question/1987858443344815205">知乎热榜</a> — 以人类今天的科技，能否应对白垩纪那颗小行星？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>张雪回记者九号自动驾驶技术看法称“有点搞笑”引热议，发文回应仔细剖析争议点，有哪些信息值得关注？</title>
-      <link>https://www.zhihu.com/question/2094696922921563605</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2094696922921563605</guid>
+      <title>ADP：截至10月3日四周，美国私营部门就业人数平均每周增加1.85万人</title>
+      <link>https://www.36kr.com/newsflashes/4034198593410180</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4034198593410180</guid>
       <category>热门话题</category>
-      <pubDate>Fri, 16 Oct 2026 23:51:04 GMT</pubDate>
-      <description><![CDATA[<p>张雪回应：不看好两轮车自动驾驶，认为：两轮自动驾驶没有生存空间。 一边是九号等公司极度推崇宣传两轮自动驾驶技术，一边是张雪分析两轮自动驾驶存在的问题，你支持哪一边？</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.zhihu.com/question/2094696922921563605">知乎热榜</a> — 张雪回记者九号自动驾驶技术看法称“有点搞笑”引热议，发文回应仔细剖析争议点，有哪些信息值得关注？</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>冯远征苦恼话剧院招不到一米六几的女演员，现在演员同质化有多严重？艺术院校培养是否应倾向更多元的标准？</title>
-      <link>https://www.zhihu.com/question/2094427246341485364</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2094427246341485364</guid>
-      <category>热门话题</category>
-      <pubDate>Fri, 16 Oct 2026 05:59:28 GMT</pubDate>
-      <description><![CDATA[<p>冯远征苦恼招不到一米六几的女演员 选角难题凸显。近日，冯远征提到话剧院在招聘时面临困难，特别是难以找到身高在一米六以下的女演员和一米七以下的男演员。实际上，身高受限的演员往往只能出演一些边缘角色。影视作品选角时也对身高有严格要求。当前，演员同质化现象严重，部分剧中的角色长相辨识度不高。非科班出身的演员选择范围有限，这类演员很难接到影视作品的机会，仅靠话剧演出收入难以维持生活，因此不少人最终选择放弃话剧表演。冯远征苦恼招不到一米六几的女演员 选角难题凸显</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.zhihu.com/question/2094427246341485364">知乎热榜</a> — 冯远征苦恼话剧院招不到一米六几的女演员，现在演员同质化有多严重？艺术院校培养是否应倾向更多元的标准？</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>英伟达辟谣RTX 5090停产：只是产能不足，不会断供</title>
-      <link>https://www.36kr.com/newsflashes/4031111952191872</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4031111952191872</guid>
-      <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 08:32:06 GMT</pubDate>
-      <description><![CDATA[<p>10月18日消息，据TechPowerUp报道，有关英伟达RTX 5090显卡停产的消息引发行业关注。英伟达个人计算业务高级副总裁杰夫・费舍尔日前在台北相关活动上公开回应相关传闻，明确否认停产说法，表示RTX 5090仍为企业核心产品，后续将继续保持供货。（环球网）</p>
-<p><b>1 家媒体报道 · 重要度 4.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.36kr.com/newsflashes/4031111952191872">36氪快讯</a> — 英伟达辟谣RTX 5090停产：只是产能不足，不会断供</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>多家涂料企业产品涨价，国产涂料海外订单爆发</title>
-      <link>https://www.36kr.com/newsflashes/4031139858813571</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4031139858813571</guid>
-      <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 09:37:28 GMT</pubDate>
-      <description><![CDATA[<p>今年以来，国内多类化工原料价格持续上涨，其中树脂、溶剂、助剂等涂料核心原材料涨幅明显。最近，国内多家涂料企业上调产品价格，不少企业也积极开拓海外市场。佛山海关数据显示，今年前九个月，佛山市出口初级形状合成树脂5.3亿元，同比增长23.5%；非水介质油漆清漆2.03亿元，增长50%；水性介质油漆清漆6508.06万元，增长45.3%；玻璃油灰、嵌缝胶等涂装配套产品4822.5万元，增长86.7%，对新兴市场的出口增长明显。（央视财经）</p>
+      <pubDate>Tue, 20 Oct 2026 12:39:01 GMT</pubDate>
+      <description><![CDATA[<p>ADP Research和斯坦福数字经济实验室10月20日的初步估算显示，截至10月3日的四周内，美国私营部门就业人数平均每周增加1.85万人。（界面）</p>
 <p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4031139858813571">36氪快讯</a> — 多家涂料企业产品涨价，国产涂料海外订单爆发</li>
+<li><a href="https://www.36kr.com/newsflashes/4034198593410180">36氪快讯</a> — ADP：截至10月3日四周，美国私营部门就业人数平均每周增加1.85万人</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>银行托管新规后，首个持牌专营中心开业</title>
-      <link>https://www.36kr.com/newsflashes/4030952139166337</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4030952139166337</guid>
+      <title>理想汽车推出连山电池保障计划</title>
+      <link>https://www.36kr.com/newsflashes/4034193626059908</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4034193626059908</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 08:18:30 GMT</pubDate>
-      <description><![CDATA[<p>获批筹建8个月后，10月16日，北京金融监管局批复了广发银行资产托管中心的开业。该资产托管中心也由此成为了今年2月1日《商业银行托管业务监督管理办法（试行）》（下称银行托管新规）施行后，首家获批并开业的独立专营托管业务的持牌机构。据记者了解，广发银行此前将资产托管部设为一级部门。行内较早将托管业务定位为重要业务板块，并充分借力股东中国人寿资源，在系统建设、协同托管等方面持续投入。记者查阅该行2025年年报，部分措辞透露了该行托管业务经营业绩：截至2025年末，广发银行资产托管及运营外包业务规模达4.33万亿元。2025年该行公私募基金托管规模突破万亿元，实现托管业务手续费收入5.86亿元。（券商中国）</p>
+      <pubDate>Tue, 20 Oct 2026 12:33:58 GMT</pubDate>
+      <description><![CDATA[<p>36氪获悉，理想汽车推出连山电池保障计划，其中包含两项终身保障：电池不自燃终身保障、碰撞不起火终身保障。</p>
 <p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4030952139166337">36氪快讯</a> — 银行托管新规后，首个持牌专营中心开业</li>
+<li><a href="https://www.36kr.com/newsflashes/4034193626059908">36氪快讯</a> — 理想汽车推出连山电池保障计划</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>中科曙光：董事长提议3亿元至5亿元回购公司股份</title>
-      <link>https://www.36kr.com/newsflashes/4031070438265475</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4031070438265475</guid>
+      <title>大族数控：前三季度净利润15.44亿元，同比增长214.03%</title>
+      <link>https://www.36kr.com/newsflashes/4034170465997957</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4034170465997957</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 07:45:52 GMT</pubDate>
-      <description><![CDATA[<p>36氪获悉，中科曙光公告，公司董事会收到董事长、总经理历军提议，拟使用自有资金以集中竞价交易方式回购公司A股股份，回购资金总额不低于3亿元、不超过5亿元，回购股份拟用于员工股权激励或员工持股计划。</p>
+      <pubDate>Tue, 20 Oct 2026 12:10:24 GMT</pubDate>
+      <description><![CDATA[<p>36氪获悉，大族数控披露三季报，2026年前三季度实现营业收入78.41亿元，同比增长100.9%；归属于上市公司股东的净利润15.44亿元，同比增长214.03%。其中，第三季度实现营业收入28.56亿元，同比增长87.77%；归属于上市公司股东的净利润5.87亿元，同比增长157.08%。</p>
 <p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4031070438265475">36氪快讯</a> — 中科曙光：董事长提议3亿元至5亿元回购公司股份</li>
+<li><a href="https://www.36kr.com/newsflashes/4034170465997957">36氪快讯</a> — 大族数控：前三季度净利润15.44亿元，同比增长214.03%</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>业绩强劲增长，港股保险龙头获资金连续21日净买入</title>
-      <link>https://www.36kr.com/newsflashes/4030953584022151</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4030953584022151</guid>
+      <title>美光投资纽约关键矿物加工，合作方为铟泰公司</title>
+      <link>https://www.36kr.com/newsflashes/4034149758719108</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4034149758719108</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 07:30:54 GMT</pubDate>
-      <description><![CDATA[<p>本周南向资金合计净卖出66.37亿港元。友邦保险获南向资金，连续21日净买入。本周（10月12日至10月16日）港股市场主要股指小幅回调，恒生指数累计跌0.1%，恒生科技指数跌2.13%，恒生中国企业指数跌0.24%。据统计，本周南向资金合计净卖出66.37亿港元。本周南向资金对互联网巨头以买入为主，腾讯控股获净买入14.34亿港元，阿里巴巴-W获净买入7.34亿港元，美团-W获净买入2.78亿港元；小米集团-W遭净卖出7.56亿港元。数据显示，友邦保险已连续21个交易日获南向资金持股量增长。（证券时报）</p>
+      <pubDate>Tue, 20 Oct 2026 11:49:20 GMT</pubDate>
+      <description><![CDATA[<p>美光科技今日宣布投资关键矿物加工和高纯度材料制造，预计将支持铟泰公司（Indium Corporation）在纽约中部的业务扩展，重启对先进半导体制造至关重要的关键矿物的美国本土加工。该投资是其总额最高30亿美元的美国供应链计划的一部分。（财联社）</p>
 <p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4030953584022151">36氪快讯</a> — 业绩强劲增长，港股保险龙头获资金连续21日净买入</li>
+<li><a href="https://www.36kr.com/newsflashes/4034149758719108">36氪快讯</a> — 美光投资纽约关键矿物加工，合作方为铟泰公司</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>4549家店狂奔，必胜客却“栽”在一只蟑螂手里</title>
-      <link>https://www.36kr.com/p/4030746088345990</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4030746088345990</guid>
+      <title>近期生猪品种价格波动较大，大商所发布市场风险提示函</title>
+      <link>https://www.36kr.com/newsflashes/4034139961889925</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4034139961889925</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 02:29:21 GMT</pubDate>
-      <description><![CDATA[<p>回访电话是在收到外卖后几分钟就接到的。 王丽丽已经不是第一次点必胜客，但每次门店员工都会打来电话，细致询问用餐体验、收集优化建议，彰显品牌精细化服务的姿态。 只是同一套服务，落到不同的消费者身上，却是两个版本的故事。 佛山消费者林里不会忘记，中秋前夕那份送到家门口的榴莲披萨——外包装完好，盒外还附着一张提示纸，可打开盖子，一只被压扁的蟑螂就躺在披萨盒里。 图 / 必胜客服务提示纸 正是这张再寻常不过的提示纸，让他忍不住往更坏处想：同类卫生问题，是不是这家门店的常态？“本来是信任这个连锁大品牌，现在不得不质疑门店后厨环境和品控管理到底有没有落实到位。” 截至2026年6月30日，必胜客已在中国超过1200个城镇经营4549家餐厅，百胜中国（必胜客中国品牌所有者）更喊出“五年再造一个必胜客”的目标。 但规模跑在前面的同时，黑猫投诉平台上涉及必胜客的投诉已累计数千条，大量指向食材不熟、异物混入、…</p>
+      <pubDate>Tue, 20 Oct 2026 11:39:22 GMT</pubDate>
+      <description><![CDATA[<p>36氪获悉，大商所发布市场风险提示函，近期生猪品种价格波动较大。请各会员单位切实加强投资者教育和风险防范工作，提醒投资者理性参与，合规交易。</p>
 <p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/p/4030746088345990">36Kr 热榜</a> — 4549家店狂奔，必胜客却“栽”在一只蟑螂手里</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>华尔街口中“不诚实”的人，正在大笔抄底彪马和安德玛</title>
-      <link>https://www.36kr.com/p/4030094900400769</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4030094900400769</guid>
-      <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 00:51:30 GMT</pubDate>
-      <description><![CDATA[<p>安踏宣布收购彪马之后，Frasers Group在37天内成了彪马第二大股东。七个月后，这家公司又出现在了安德玛的股东名单上。 10月1日，Frasers Group向美国证券交易委员会提交Schedule 13G文件，披露已持有安德玛16,576,500股A类普通股，占该类别流通股约8.8%，按当时股价计算市值约8010万美元。彭博社在报道这笔交易时用了这么一句话：扩展其在“困境运动品牌”中的押注。 Frasers Group到底是什么来头？ 这家公司的创始人Mike Ashley，一个没有上过大学的英国人，1982年用从家族借来的1万英镑在伯克郡梅登黑德开了一家体育用品店。2007年，公司在伦敦证券交易所上市，同年他还收购了英超纽卡斯尔联足球俱乐部，2021年，又以约3.05亿英镑将俱乐部卖给沙特主权财富基金支持的财团。卖掉俱乐部的第二年，他退居幕后。 ▲ Frasers Group创…</p>
-<p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.36kr.com/p/4030094900400769">36Kr 热榜</a> — 华尔街口中“不诚实”的人，正在大笔抄底彪马和安德玛</li>
+<li><a href="https://www.36kr.com/newsflashes/4034139961889925">36氪快讯</a> — 近期生猪品种价格波动较大，大商所发布市场风险提示函</li>
 </ul>]]></description>
     </item>
   </channel>
