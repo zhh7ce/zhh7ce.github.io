@@ -5,348 +5,372 @@
     <link>https://zhh7ce.github.io/static/news-digest/feed-hot.xml</link>
     <description>多源报道优先的每日新闻摘要</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 21 Oct 2026 18:25:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 18:28:07 GMT</lastBuildDate>
     <atom:link href="https://zhh7ce.github.io/static/news-digest/feed-hot.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI 三个神秘模型曝光；DeepSeek 开放搜索与网页抓取 API；智界将获独立造车资格，公司计划上市 ｜ 极客早知道</title>
-      <link>http://www.geekpark.net/news/372514</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372514</guid>
+      <title>如何看待10月21日前后nodejs PHP Oracle Chrome Linux都爆出超高危漏洞？</title>
+      <link>https://www.zhihu.com/question/2096392948342579875</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2096392948342579875</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 21 Oct 2026 12:15:15 GMT</pubDate>
-      <description><![CDATA[<p>OpenAI 三个神秘模型曝光 10 月 18 日，有开发者发现，OpenAI 的 API 模型列表中突然出现了三个陌生名字： aurora-red-alpha、aurora-green-alpha、aurora-blue-alpha。三个模型都以 Aurora（极光）命名，分别对应红、绿、蓝三种颜色。但相关条目很快便从模型列表中消失。 此次发现来自第三方维护的 OpenAI 模型列表镜像，并非官方公告。因此，这些模型究竟是什么、是否会正式发布，目前都还是未知数。 有网友推测，这些模型极有可能是 GPT-6 Astra 后续版本的内部检查点，专门对标 Fable 5.5 的强项，创意编码、长程 agent、视觉 / 3D。也有网友推测：三个模型对应 OpenAI 三个图像模型。（消息来源：机器之心） Anthropic 与法律专家讨论 AI Agent 谈判规则，未来可替用户砍价、处理纠纷…</p>
-<p><b>3 家媒体报道 · 重要度 7.5/10</b></p>
+      <pubDate>Thu, 22 Oct 2026 08:47:03 GMT</pubDate>
+      <description><![CDATA[<p></p>
+<p><b>2 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="http://www.geekpark.net/news/372514">极客公园</a> — OpenAI 三个神秘模型曝光；DeepSeek 开放搜索与网页抓取 API；智界将获独立造车资格，公司计划上市 ｜ 极客早知道</li>
-<li><a href="https://www.36kr.com/p/4035275515598721">36Kr 热榜</a> — 梁文锋把赚钱的秘密开源了</li>
-<li><a href="https://www.36kr.com/p/4034839431795586">36Kr 热榜</a> — 曝OpenAI急融2000亿，跟Anthropic抢金主</li>
-<li><a href="https://www.36kr.com/newsflashes/4035590806492294">36氪快讯</a> — OpenAI与谷歌云达成合作，将开放前沿模型及Codex</li>
-<li><a href="https://www.36kr.com/newsflashes/4035583366681737">36氪快讯</a> — PerturbAI与OpenAI合作开发AI推理智能体，加速生物医学研究</li>
+<li><a href="https://www.zhihu.com/question/2096392948342579875">知乎热榜</a> — 如何看待10月21日前后nodejs PHP Oracle Chrome Linux都爆出超高危漏洞？</li>
+<li><a href="https://www.36kr.com/p/4036566939292806">36Kr 热榜</a> — AI 到处挖漏洞一整年，终于给人类爆了个大的</li>
+<li><a href="https://www.36kr.com/p/4036210178134916">36Kr 热榜</a> — PHP大暴雷，全球程序员熬夜加班，超级漏洞还是ChatGPT发现的</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>法国爆发严重暴力骚乱，超50万人上街抗议，马克龙公开谴责，冲突的深层根源是什么？折射出法国怎样的危机？</title>
-      <link>https://www.zhihu.com/question/2095436236819096015</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095436236819096015</guid>
+      <title>利率上升冲击投资回报，黑石集团下调房地产资产估值</title>
+      <link>https://www.36kr.com/newsflashes/4036973273781123</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4036973273781123</guid>
       <category>热门话题</category>
-      <pubDate>Mon, 19 Oct 2026 00:48:50 GMT</pubDate>
-      <description><![CDATA[<p>△当地时间10月18日，法国总统马克龙发表电视讲话。 当地时间10月18日，法国总统马克龙发表电视讲话时，谴责17日法国多地发生的暴力事件。他强调，任何理由都不能为这些行为开脱。他呼吁不要将诉求表达与暴力混为一谈，并表示将对其中的违法行为追究法律责任。 马克龙向受暴力事件影响的执法人员、官员和商户表达声援。他称，总理勒科尔尼将于19日主持召开危机应对小组会议，尽快动员相关援助。同时，马克龙要求政府总结17日暴力事件教训，特别是加强信息收集和预判，确保此类事件不再发生。 马克龙还对青年群体的焦虑表示理解，宣布政府将在未来一周与学生、教师、工会等共同研究应对措施，回应青年群体关切。 他说，此次抗议活动反映出民众对生活成本和燃油价格的担忧。他宣布将于19日访问海湾国家，以确保法国能源供应。 当地时间17日，法国首都巴黎及多个城市爆发示威游行，抗议生活成本高涨，部分地区发生暴力冲突。法国内政部长努…</p>
-<p><b>1 家媒体报道 · 重要度 8.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.zhihu.com/question/2095436236819096015">知乎热榜</a> — 法国爆发严重暴力骚乱，超50万人上街抗议，马克龙公开谴责，冲突的深层根源是什么？折射出法国怎样的危机？</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>谷歌云与英伟达宣布Vera Rubin基础设施即将商用</title>
-      <link>https://www.36kr.com/newsflashes/4035611894027143</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4035611894027143</guid>
-      <category>热门话题</category>
-      <pubDate>Wed, 21 Oct 2026 12:36:42 GMT</pubDate>
-      <description><![CDATA[<p>10月21日，谷歌云与英伟达宣布，搭载英伟达Vera Rubin NVL72系统的A5X实例将于下月正式开放，计划进一步扩展至欧洲市场，为AI智能体推理和强化学习提供基础设施。（界面）</p>
+      <pubDate>Thu, 22 Oct 2026 12:30:21 GMT</pubDate>
+      <description><![CDATA[<p>黑石集团总裁乔纳森·格雷表示，市场波动加剧阻碍了公司通过首次公开募股（IPO）迅速向投资者返还资金的计划。黑石集团总裁表示，利率飙升及地缘政治动荡已迫使这家全球最大的私募资本管理公司下调多项房地产资产的估值，同时推迟旗下投资组合公司的上市计划。乔纳森·格雷（Jon Gray）表示，管理资产规模达1.4万亿美元的黑石集团（Blackstone）已下调部分增长较慢的房地产资产估值，包括其在欧洲持有的大规模房地产资产组合，以及在美国持有的多户住宅物业，以反映近期利率上升的影响。（新浪财经）</p>
 <p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4035611894027143">36氪快讯</a> — 谷歌云与英伟达宣布Vera Rubin基础设施即将商用</li>
+<li><a href="https://www.36kr.com/newsflashes/4036973273781123">36氪快讯</a> — 利率上升冲击投资回报，黑石集团下调房地产资产估值</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>医保个人账户跨省共济落地全国，意味着什么？将带来哪些利好？</title>
-      <link>https://www.zhihu.com/question/2096149013556721446</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2096149013556721446</guid>
+      <title>刚刚，黄仁勋柏林震撼演讲，PC已死，AI智能体时代全面爆发</title>
+      <link>https://www.36kr.com/p/4036220967752838</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4036220967752838</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 21 Oct 2026 00:01:09 GMT</pubDate>
-      <description><![CDATA[<p>近日，国家医保局上线医保钱包2.0版。自10月16日起，全国各省、自治区、直辖市及新疆生产建设兵团已全部上线运行，职工医保个人账户跨省共济在全国全面落地。 职工医保个人账户跨省共济，依托全国统一医保信息平台设立个人医保钱包、设置共济额度，实现职工个人账户资金按规定支付近亲属在定点医药机构就医、购药发生的个人负担费用，以及参保缴费。 国家医保局医保中心相关负责人解释，医保钱包是跨省共济的载体与桥梁，实行虚拟额度管理，并非实体资金账户，医保基金不会实际拨付进入医保钱包，全程遵守医保基金监管要求。 在跨省共济对象上，共济人须为正常参保职工医保人员；被共济人为外省职工医保或居民医保参保人，仅限近亲属：配偶、父母、子女、兄弟姐妹、祖父母、外祖父母、孙子女、外孙子女，除此之外的其他人不能作为被共济对象。 数据显示，截至2025年末，医保个人账户累计结存15080.16亿元，五年增长28.3%，约占医保…</p>
+      <pubDate>Wed, 21 Oct 2026 23:34:22 GMT</pubDate>
+      <description><![CDATA[<p>十年前要两个人抬上楼的机器，今天被老黄 单手举在了台上！ 刚刚，GTC柏林的舞台上，黄仁勋举起一台轻薄的笔记本 RTX Spark ，内存128GB。 2016年8月，他把刚发布的DGX-1送到OpenAI的旧金山办公室。那台机器的内存同样是128GB，却得两个人才抬得上楼。 老黄说，唯一的区别是，他现在能这样单手拿着它。 十年过去， AI性能涨了100万倍， 同期摩尔定律只涨了约100倍。 差出来的部分，靠的是 「极致协同设计」 ，每一层软件、每一台计算机、每一种新算法，连同架构一起改。 这是一场新工业革命的宣言。 这一个半小时里，老黄掏出了一大波硬货： AI工厂装箱发货 ：DSX POD在工厂里装好、测完，场地水电就绪后，部署从约六个月 缩到最短14天。 Agent上了锁 ：OpenShell参考架构 把规矩写在Agent之外， 越界操作由BlueField-4毫秒级隔离。 机器鸭子上…</p>
 <p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.zhihu.com/question/2096149013556721446">知乎热榜</a> — 医保个人账户跨省共济落地全国，意味着什么？将带来哪些利好？</li>
+<li><a href="https://www.36kr.com/p/4036220967752838">36Kr 热榜</a> — 刚刚，黄仁勋柏林震撼演讲，PC已死，AI智能体时代全面爆发</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>两部门发布公告，对盾构机、挖泥船、高端无人机等实施出口管制，释放了哪些信号？</title>
-      <link>https://www.zhihu.com/question/2095840965227561820</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095840965227561820</guid>
+      <title>腾讯股价跌破 400 港元创新低，市值较高点缩水近四成，问题出在哪？市场对腾讯的估值逻辑发生哪些转变？</title>
+      <link>https://www.zhihu.com/question/2096284238119228758</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2096284238119228758</guid>
       <category>热门话题</category>
-      <pubDate>Tue, 20 Oct 2026 03:37:04 GMT</pubDate>
-      <description><![CDATA[<p>商务部新闻发言人就优化调整无人机相关物项出口管制措施答记者问 问：2026年10月19日，商务部会同相关部门联合发布公告，优化调整无人机相关物项出口管制措施。请问有何考虑？ 答：根据《中华人民共和国出口管制法》等有关法律法规，10月19日，商务部会同相关部门发布关于优化调整无人机相关物项出口管制措施的公告。相关措施将于11月18日起正式实施。此前，我们已经向与中方建立了出口管制对话机制的有关国家和地区作了通报。 此次措施涉及的无人机相关物项具有明显的军民两用属性，中方依法依规优化调整有关措施，目的是维护国家安全和利益，履行防扩散等国际义务。与此同时，中方致力于维护全球产业链供应链安全稳定，依法依规对相关出口许可申请进行审查，对符合规定的申请，中方将予以批准。 动态调整出口管制措施是国际通行做法。近年来，全球无人机产业和技术发展迅速，部分原来先进的产品如今已属于大众消费类产品。中方在实施出口…</p>
+      <pubDate>Wed, 21 Oct 2026 08:58:29 GMT</pubDate>
+      <description><![CDATA[<p>10月21日，截至港股收盘，腾讯控股股价跌破400港元，收报393.8港元，创下近一年新低，跌幅达4.04%。今年年初，腾讯股价一度冲高至633.7港元附近，对应市值约5.76万亿港元，目前其总市值回落至3.58万亿港元，年内累计跌幅接近四成。 https://mp.weixin.qq.com/s/dGGAWILCkLDvQnH93gWD1A</p>
 <p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.zhihu.com/question/2095840965227561820">知乎热榜</a> — 两部门发布公告，对盾构机、挖泥船、高端无人机等实施出口管制，释放了哪些信号？</li>
+<li><a href="https://www.zhihu.com/question/2096284238119228758">知乎热榜</a> — 腾讯股价跌破 400 港元创新低，市值较高点缩水近四成，问题出在哪？市场对腾讯的估值逻辑发生哪些转变？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>如何评价山东“仙人跳”犯罪团伙作案38起，其中3名受害者拒不付款被采取强制措施，有哪些细节值得关注？</title>
-      <link>https://www.zhihu.com/question/2095821509633774542</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095821509633774542</guid>
+      <title>中国拟出台的「AI 出口禁令」会影响使用 AI 产品和中企海外业务吗？将对中美 AI 竞争有何影响？</title>
+      <link>https://www.zhihu.com/question/2096230307561037909</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2096230307561037909</guid>
       <category>热门话题</category>
-      <pubDate>Tue, 20 Oct 2026 02:19:46 GMT</pubDate>
-      <description><![CDATA[<p>山东泰安一个以 “00 后” 为核心、成员包含多名在校大学生的 “仙人跳” 团伙已被提起公诉。 检方起诉书指控：2023年10月至2025年1月，该团伙利用社交软件布下陷阱，实施 “仙人跳”38起，敲诈勒索得手155万余元；全案共22名被告人，其中13 人被检察机关认定构成恶势力犯罪团伙，全案涉案金额二百余万元。 主犯陈某出生于2001年。他通过统一管控赃款、向团伙成员放贷、承担食宿消费等方式笼络、控制团伙成员。案件造成多名被害人家庭破裂、背负债务或遭受严重精神创伤；另有三名被害人曾遭团伙诬告，一度被采取刑事强制措施，后续检察机关认定该三人不构成犯罪，作出不起诉决定。 起诉书载明，2024年10月，主犯陈某伙同团伙成员陈某宇（2007年出生，作案时系未成年人）针对泰安市某区女局长霍某设局。二人与霍某接触并发生关系后，以陈某宇身体出现病症为由，同时捏造霍某存在包养未成年男孩、挪用公款的问题，…</p>
+      <pubDate>Wed, 21 Oct 2026 05:24:11 GMT</pubDate>
+      <description><![CDATA[<p>10月16日，拟出台的“中国AI禁令”，震动全球科技界。 中国商务部和科技部发布第48号公告，拟对人工智能（AI）、生物医药、光伏三大领域的共40项关键技术进行出口管制（14项禁止、26项限制），并在新规正式实施前同步开启出口前登记的临时管理措施。 这一政策引发了AI产业界的广泛讨论，讨论核心集中以下三个方面：一是该禁令是否会影响人们日常使用AI产品，并影响中国企业的海外业务；二是哪些AI技术成为“国家核心资产”而受出口管制；三是政策背后有何战略考量，将对中美AI竞争产生何种影响？跑不了了，中国“AI禁令”震动全球</p>
 <p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.zhihu.com/question/2095821509633774542">知乎热榜</a> — 如何评价山东“仙人跳”犯罪团伙作案38起，其中3名受害者拒不付款被采取强制措施，有哪些细节值得关注？</li>
+<li><a href="https://www.zhihu.com/question/2096230307561037909">知乎热榜</a> — 中国拟出台的「AI 出口禁令」会影响使用 AI 产品和中企海外业务吗？将对中美 AI 竞争有何影响？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>亚马逊据悉提前接收英伟达AI服务器机架</title>
-      <link>https://www.36kr.com/newsflashes/4035618180174985</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4035618180174985</guid>
+      <title>留美在读女博士答辩失利，向实验室同门咖啡机投毒「丙烯酰胺」，如何看待这一事件？</title>
+      <link>https://www.zhihu.com/question/2096228188099540232</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2096228188099540232</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 21 Oct 2026 12:43:06 GMT</pubDate>
-      <description><![CDATA[<p>10月21日，据报道，亚马逊云科技（AWS）通过新的提前接收流程，预计在美国设施接收约50亿美元的英伟达GB300服务器机架，此后每月还将接收约30亿美元的相关设备。（界面）</p>
+      <pubDate>Wed, 21 Oct 2026 05:15:46 GMT</pubDate>
+      <description><![CDATA[<p>据 10 月 13 日报道，32 岁的中国生物学准博士王爱丽（Aili Wang，音译），涉嫌多次向同事咖啡壶中投放有毒化学物质，导致对方出现手脚麻木、腿部无力、疲劳，失眠等神经中毒症状，至今仍未康复。 而她涉嫌使用的这种物质，各位研究生们再熟悉不过了，正是 Western blot 实验中都会用到的丙烯酰胺。 随后，王爱丽于 10 月 6 日准备返回国内时，在洛杉矶国际机场被警方逮捕。 王爱丽 图源：http://cowboystatedaily.com 毕业答辩未通过，博士生用实验试剂给同门投毒 据警方调查，该起投毒案件发生在怀俄明大学（University of Wyoming），受害人是化名「K.T.」的越南籍研究生，他与嫌疑人王爱丽均在 Mark Gomelsky 教授课题组学习。 Mark Gomelsky 图源：http://uwyo.edu Mark Gomelsky 教授…</p>
+<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.zhihu.com/question/2096228188099540232">知乎热榜</a> — 留美在读女博士答辩失利，向实验室同门咖啡机投毒「丙烯酰胺」，如何看待这一事件？</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>日本关键稀土钇储备将耗尽，求助美国敦促中方放宽管制，稀土将耗尽一事将对日方产生多大影响？</title>
+      <link>https://www.zhihu.com/question/2096043493517013110</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2096043493517013110</guid>
+      <category>热门话题</category>
+      <pubDate>Tue, 20 Oct 2026 17:01:51 GMT</pubDate>
+      <description><![CDATA[<p>据英国《金融时报》10月20日报道，有知情人士透露，日本关键金属钇的供应仅能维持数月，已经请求美国协助劝说中方放宽稀土出口管制，以避免制造业停产。 一位日本政府官员称：“（我们）所谈论的时间表不是以年计，而是以月计，眼下要考虑的是如何熬过明年。”(环球时报记者 郑璇) 10月21日，外交部发言人毛宁主持例行记者会。 法新社记者提问，据报道，日本关键稀土元素钇的储备即将耗尽，仅能维持数月。日方已请求美国协助，敦促中国放宽相关的出口管制。请问外交部对此有何评论？ 毛宁指出，中方依法依规对日本实施出口管制，目的是制止日本“再军事化”和拥核企图。中方维护关键矿产全球产供链稳定与安全的立场没有变化，各方都有责任为此发挥建设性作用。日本请求美国协助敦促中方放宽稀土管制，中方回应 | 极目新闻英媒：日本关键稀土仅够维持数月，日本已请求美国劝说中方放宽稀土出口管制</p>
+<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.zhihu.com/question/2096043493517013110">知乎热榜</a> — 日本关键稀土钇储备将耗尽，求助美国敦促中方放宽管制，稀土将耗尽一事将对日方产生多大影响？</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>Meta信用风险指标创纪录新高，AI扩产发债预期引发市场担忧</title>
+      <link>https://www.36kr.com/newsflashes/4037043141661831</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4037043141661831</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 22 Oct 2026 12:52:38 GMT</pubDate>
+      <description><![CDATA[<p>Meta Platforms一项信用风险指标飙升至历史新高，公司债券同步下跌。Meta加码资本开支的计划再度引发市场担忧：在本已趋于饱和的市场中，科技巨头或将为AI扩建大举发债。洲际交易所数据显示，反映投资者担忧程度的Meta五年期信用违约互换（CDS）报价一度上行8.9个基点，至约119.3个基点/年，创下该合约上市以来盘中最高水平。Meta此前披露，已签署多项租赁与合约，未来承诺支出规模达8250亿美元，大量资金用于人工智能算力及基础设施建设；7月该公司披露的未来支出承诺尚接近7000亿美元。（新浪财经）</p>
+<p><b>1 家媒体报道 · 重要度 7.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.36kr.com/newsflashes/4037043141661831">36氪快讯</a> — Meta信用风险指标创纪录新高，AI扩产发债预期引发市场担忧</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>高盛承诺投入5亿美元成立小企业AI研究院，联手OpenAI、谷歌等推动AI应用</title>
+      <link>https://www.36kr.com/newsflashes/4036943149864064</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4036943149864064</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 22 Oct 2026 12:00:46 GMT</pubDate>
+      <description><![CDATA[<p>高盛宣布承诺投入5亿美元，成立小企业AI研究院，并扩大其“10,000 Small Businesses”项目，计划为另外1万家企业提供教育、融资渠道及支持服务。该研究院将与Anthropic、谷歌、Meta和OpenAI合作，帮助美国小企业将AI融入日常运营。具体而言，研究院将与OpenAI合作，为社区学院合作伙伴覆盖的企业提供定制化AI培训；与谷歌合作，为近2万名小企业主及员工提供AI专业证书课程，并提供3个月免费Google AI Pro使用权限。高盛表示，该计划旨在帮助小企业提升AI应用能力、扩大业务规模。（财联社）</p>
 <p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4035618180174985">36氪快讯</a> — 亚马逊据悉提前接收英伟达AI服务器机架</li>
+<li><a href="https://www.36kr.com/newsflashes/4036943149864064">36氪快讯</a> — 高盛承诺投入5亿美元成立小企业AI研究院，联手OpenAI、谷歌等推动AI应用</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>AI员工泡沫破裂，Meta紧急叫停裁员计划，小扎：还是人类好用</title>
-      <link>https://www.36kr.com/p/4034913072747394</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4034913072747394</guid>
+      <title>特朗普称将砸逾 4 亿美元助共和党选举，或成美国历史上烧钱最多的中期选举，共和党胜算有多大？</title>
+      <link>https://www.zhihu.com/question/2096563694825992624</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2096563694825992624</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 21 Oct 2026 01:35:57 GMT</pubDate>
-      <description><![CDATA[<p>说好的用AI替代员工上岗呢？ 这怎么人都被广进了，AI也没顶上啊...... 此前，Meta原定于11月展开的第二轮裁员计划，因AI没展现预期工作能力而暂停。 小扎：都是骗人的，根本没有这么好用的AI员工。（哭） 与此同时，微软也在复盘中表示：自家的业务并没有随着大规模推广AI而变好。 几个月的加速之后，大厂开始重算AI效率账了...... Meta取消第二轮裁员 要说小扎对AI员工有多大信心，看看Meta的重组方案就知道了。 今年1月，扎克伯格与高管们在夏威夷开会时，讨论了一项名为 Project OT 的计划。 OT全称Organization Transformation，即组织转型。 按当时的设想，未来Meta的组织架构要围绕AI重新设计。 过去一个产品开发团队需要10到20个人，工程师、产品经理、设计师各司其职。 以后呢？ 3到5人足矣。 △ 新团队被称为Pod，豆荚，一种硅谷常…</p>
+      <pubDate>Thu, 22 Oct 2026 03:28:57 GMT</pubDate>
+      <description><![CDATA[<p>美国总统特朗普20日在社交媒体表示，将在11月国会中期选举前为他所在的共和党投入超过4亿美元用于竞选。 特朗普称，在“美国历史上最重要的中期选举”中支持共和党候选人是他的“巨大荣耀”。他未披露这笔4亿美元资金出自何处。据英国《金融时报》报道，支持特朗普的美国超级政治行动委员会“让美国再次伟大”拥有数额基本相当的资金。 报道说，共和党试图在这次选举中保住国会两院掌控权，但共和党面临严峻选情。两党竞争激烈，本次选举料将成为美国历史上烧钱最多的中期选举。世界首富马斯克上周宣布斥资超过2.75亿美元助选共和党；美国富豪、前纽约市长布隆伯格被曝已斥资超过8000万美元支持民主党候选人。 另据美国《政治报》网站20日报道，特朗普19日在堪萨斯州为选情危急的共和党籍联邦参议员候选人罗杰·马歇尔助选，其间宣布将针对美国农业州，特别是中西部地区的堪萨斯、艾奥瓦和密歇根等州提供80亿美元，以缓解这些地区农户面…</p>
 <p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/p/4034913072747394">36Kr 热榜</a> — AI员工泡沫破裂，Meta紧急叫停裁员计划，小扎：还是人类好用</li>
+<li><a href="https://www.zhihu.com/question/2096563694825992624">知乎热榜</a> — 特朗普称将砸逾 4 亿美元助共和党选举，或成美国历史上烧钱最多的中期选举，共和党胜算有多大？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>女子下班后绕道买菜，遭遇车祸身亡，人社部门不予认定工伤，法院判决算工伤，如何理解？</title>
-      <link>https://www.zhihu.com/question/2095276237493102205</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095276237493102205</guid>
+      <title>儿子逼父母贷款替其还债被拒，欲断绝父子关系被父亲打致轻伤二级，如何理解法院判父亲免予刑事处罚？</title>
+      <link>https://www.zhihu.com/question/2096553146264674983</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2096553146264674983</guid>
       <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 14:13:03 GMT</pubDate>
-      <description><![CDATA[<p>据《法治日报》，员工李某下班后没有直接回家，计划采购葱、姜、蔬菜等日常食材。从单位到李某住处的沿途虽然有三家超市，但都不出售蔬菜，李某只能绕道前往定期开市的集市采买蔬菜。返程途中，李某遭遇车祸不幸身亡。李某这次绕行能否被认定为“上下班途中”，他的死亡又能否认定为工伤？ 今年6月，山东省临沂市平邑县人民法院审结了这起工伤保险资格认定纠纷案。 2025年11月，李某结束当天工作后，驾驶电动车前往位于甲公司正东方向的B村集市，采购葱、姜、蔬菜等日常食材。该集市距离甲公司约1.5公里，骑行仅需约6分钟。采购完成后，李某沿原路返回住处，途中与一辆重型自卸货车相撞，身受重伤，经送医抢救后仍不幸离世。交警部门经调查认定，李某对本次事故承担次要责任。从李某下班离岗到事故发生，前后仅相隔约25分钟。 交警部门认定李某负事故次要责任，但相关人社部门认为该绕行不属于上下班途中，作出了不予认定工伤的决定。 法院审…</p>
+      <pubDate>Thu, 22 Oct 2026 02:47:02 GMT</pubDate>
+      <description><![CDATA[<p>近日，据法治日报报道，成年儿子经营欠债，逼迫父母贷款25万元替其还债，遭到父亲拒绝后，持《断绝父子关系协议书》上门争执，父子发生互殴，父亲持扫帚击打儿子致轻伤二级。案件审理过程中，虽然父亲有自首情节、筹款支付赔偿，但儿子不接受赔偿、拒绝出具谅解书，坚持要求从重处罚。 这是今年1月，山东省菏泽市郓城县人民法院审理的一起家庭内部矛盾引发的故意伤害案。法官综合考量案件起因、双方过错、家庭纠纷属性等多重因素，认定被害人存在重大过错，判决父亲构成故意伤害罪，免予刑事处罚。 小刘因做生意资金周转困难，欠下30万余元债务，该债务即将到期。为偿还欠款，小刘向父母提出要求，希望父母办理25万元贷款帮其清偿债务，被父亲老刘拒绝。次日，小刘携带两份《断绝父子关系协议书》来到父母家中，逼迫老刘签字。 据母亲赵某证言，小刘情绪激动，将协议书拍在桌上，老刘一怒之下撕碎协议书。二人随即发生激烈争吵，从屋内推搡至院子，进…</p>
 <p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.zhihu.com/question/2095276237493102205">知乎热榜</a> — 女子下班后绕道买菜，遭遇车祸身亡，人社部门不予认定工伤，法院判决算工伤，如何理解？</li>
+<li><a href="https://www.zhihu.com/question/2096553146264674983">知乎热榜</a> — 儿子逼父母贷款替其还债被拒，欲断绝父子关系被父亲打致轻伤二级，如何理解法院判父亲免予刑事处罚？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>雷军：未来5年，小米在硬核科技领域投资预计超2000亿元</title>
-      <link>https://www.36kr.com/newsflashes/4035551783572358</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4035551783572358</guid>
+      <title>红果短剧日活超「爱优腾芒」四家总和，原因有哪些？</title>
+      <link>https://www.zhihu.com/question/2087882162238382615</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2087882162238382615</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 21 Oct 2026 11:35:33 GMT</pubDate>
-      <description><![CDATA[<p>10月21日，在2026世界智能网联汽车大会上，小米集团创始人、董事长兼CEO雷军表示，到目前为止，小米已经构建了全球最大规模的消费级loT平台，截至二季度末，小米全球loT的设备连接数已经超过11亿台，为了把整个生态的体验做好，过去几年，小米一直在芯片、操作系统、AI具身智能等底层硬核技术上持续加大研发投资，在过去的5年里，小米在硬核科技的研发上投入了1055亿元，预计在未来的5年相关投资会超过2000亿元。（证券时报）</p>
+      <pubDate>Mon, 28 Sep 2026 04:31:38 GMT</pubDate>
+      <description><![CDATA[<p>红果一打四，爱优腾芒集体沉默科技狐·2026年09月26日 10:05进入全民大红果时代。 最近，文青们的天塌了。 因为，贾樟柯发博说自己在看红果，而且一刷就是一百多部，还专门从最土的开始看的。 这帮人集体破大防，说好的文艺片大导呢？ 结果你猜怎么着，果子不吃压力，反手把贾导请去代言了。 我管你再小众，再文艺，再与众不同，你能忍住不看红果视频吗？ 据说，现在已经进入全民大红果时代，这话可不是空穴来风。 QuestMobile 刚公布了一组数据：截至今年 7 月，红果日活 1.68 亿，一年翻了一倍还多。 光听你可能没什么概念。 这么说吧，腾讯视频日活 5000 万，爱奇艺 4500 万，优酷芒果各 3000 万上下，四家加起来 1.55 亿。 红果一个 APP，把四个老大哥按在地上摩擦。 最扎心的不是人数，是时长，人均每天刷 125 分钟，比追两部电视剧还久。 爱优腾芒那边，过去一年月度时…</p>
+<p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.zhihu.com/question/2087882162238382615">知乎热榜</a> — 红果短剧日活超「爱优腾芒」四家总和，原因有哪些？</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>乒乓亚锦赛女团决赛，中国队 2-3 不敌日本获女团亚军，如何评价本场比赛？</title>
+      <link>https://www.zhihu.com/question/2096725438974224368</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2096725438974224368</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 22 Oct 2026 14:11:39 GMT</pubDate>
+      <description><![CDATA[<p>乒乓亚锦赛-陈熠两负 王艺迪输决胜盘 中国队2-3不敌日本获女团亚军 - 今日头条https://www.toutiao.com/article/7699428037603754531/?app=news_article&amp;module_name=Android_tt_url&amp;share_did=MS4wLjACAAAA6wn9DThG3HBbweb2SLirm8c80K4xUnoEdXo4r3ucGBQ&amp;share_token=695e1abf-c24e-4429-808f-8ac682f545d4&amp;share_uid=MS4wLjABAAAA3cIw3HXtliPim35Yvx6B4yV3VDGnlcXuh1N-gA5RWXw×tamp=1792678163&amp;tt_from=copy_link&amp;upstream_biz=Android_url&amp;use_new_style=1&amp;utm_ca…</p>
 <p><b>1 家媒体报道 · 重要度 6.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4035551783572358">36氪快讯</a> — 雷军：未来5年，小米在硬核科技领域投资预计超2000亿元</li>
+<li><a href="https://www.zhihu.com/question/2096725438974224368">知乎热榜</a> — 乒乓亚锦赛女团决赛，中国队 2-3 不敌日本获女团亚军，如何评价本场比赛？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>连英伟达都承认消费级显卡已超出其控制，AI 显卡内存涨价狂潮何时结束?</title>
-      <link>https://www.zhihu.com/question/2095674841978488596</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095674841978488596</guid>
+      <title>美股大型科技股盘前普跌，英特尔跌超4%</title>
+      <link>https://www.36kr.com/newsflashes/4037034051097733</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4037034051097733</guid>
       <category>热门话题</category>
-      <pubDate>Mon, 19 Oct 2026 16:36:58 GMT</pubDate>
-      <description><![CDATA[<p>面对全球玩家一卡难求、旗舰显卡价格翻数倍的窘境，英伟达回应“超出控制”。 近日，英伟达开发者关系副总裁艾达·凯塔（Ida Keita）在首尔三成洞COEX举行的RTX Spark发布会后接受媒体采访时表示，消费级图形处理器（GPU）短缺的根源在于内存供应不足，而这“不是英伟达能够控制的事情”。 问题出在整个半导体供应链 凯塔指出，包括游戏玩家在内的消费者面临的供应困难，反映的是更广泛的半导体供应链问题——这些问题不仅涉及GPU本身，还涉及DRAM。“这不是英伟达能够控制的事情，”他在回答有关消费级GPU短缺的问题时说道。 英伟达：消费级GPU短缺“超出控制”，内存涨价潮短期难解-电子工程专辑https://www.eet-china.com/news/202610197203.html 根据韩媒THE ELEC报道，最近英伟达副总裁在RTX Spark 发布活动上被问到游戏显卡供应短缺的问…</p>
-<p><b>1 家媒体报道 · 重要度 6.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.zhihu.com/question/2095674841978488596">知乎热榜</a> — 连英伟达都承认消费级显卡已超出其控制，AI 显卡内存涨价狂潮何时结束?</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>8点1氪丨将实施“消费才可入座”？星巴克中国回应；Anthropic上半年净亏807亿美元；日本优衣库宣布涨价</title>
-      <link>https://www.36kr.com/p/4034867385537670</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4034867385537670</guid>
-      <category>热门话题</category>
-      <pubDate>Wed, 21 Oct 2026 00:02:13 GMT</pubDate>
-      <description><![CDATA[<p>今日热点导览 官方定调L2禁用智驾“小蓝灯” 10月LPR报价出炉 特斯拉与支付宝达成合作 谷歌前CEO施密特据悉持有Anthropic约1%股份 马斯克去年薪酬超1万亿，但到手为零 TOP 3 大新闻 “强制消费入座”？星巴克中国回应 星巴克门店要求消费后才能入座？10月20日，针对网传今日起星巴克门店“消费入座”的相关规定，星巴克中国方面回应澎湃新闻记者称，“星巴克一直致力于为顾客提供舒适的第三空间体验，基于对全国顾客和伙伴声音的持续倾听，我们会持续投入提升顾客的门店体验。” 澎湃新闻记者当天探访上海多家星巴克门店，均未看到店内有与“消费入座”相关的提示。有门店人员表示，“相关提示物料还没有到店，可能11月开始就会正式使用，并非强制消费入座，只是提倡第三空间氛围。”另有多家门店人员向记者表示，目前提倡消费入座，是为了给其他顾客更好的体验，但不是强制，暂未收到相关官方通知。记者还以消费者…</p>
-<p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.36kr.com/p/4034867385537670">36Kr 热榜</a> — 8点1氪丨将实施“消费才可入座”？星巴克中国回应；Anthropic上半年净亏807亿美元；日本优衣库宣布涨价</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>一家三口被困酒店卫生间超4小时，其间消防喷淋失控致婴儿险失温，当事人索赔15万，从法律角度如何解读？</title>
-      <link>https://www.zhihu.com/question/2095917714824853457</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095917714824853457</guid>
-      <category>热门话题</category>
-      <pubDate>Tue, 20 Oct 2026 08:42:03 GMT</pubDate>
-      <description><![CDATA[<p>卫生间门锁故障反锁 一家三口求救无门 傅先生告诉记者，9月30日晚9点多，他和妻子准备给年幼的宝宝洗澡。考虑到洗浴时间较短，夫妻俩并未携带手机进入卫生间。未曾想洗浴结束后，随手关上的卫生间门锁突发故障、自动反锁，从内部无法开启，一家三口被困在狭小的卫生间内。 卫生间门锁坏了导致门反锁 夫妻二人变换各种角度，反复按压马桶旁的SOS紧急呼叫按钮，但全程没有任何应答，也无工作人员前来排查。狭小空间内室温较低，孩子赤裸身体极易着凉。傅先生随即打开花洒，放热水，想用蒸汽提升室温。可短暂升温后，卫生间顶部两个消防喷淋头突然同时启动，冰冷的高压水流倾泻而下。 看着浑身赤裸、受惊吓大哭的孩子，傅先生心急如焚，拿起铁质垃圾桶猛砸卫生间钢化采光玻璃，试图破窗逃生，但钢化玻璃质地坚硬，多次撞击均未能砸开，还导致他右手手腕软骨骨折。为尽快逃出，他又撞门，但因地面全是积水，他又滑倒摔断了肋骨。 喷淋失控喷水超两小时…</p>
-<p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.zhihu.com/question/2095917714824853457">知乎热榜</a> — 一家三口被困酒店卫生间超4小时，其间消防喷淋失控致婴儿险失温，当事人索赔15万，从法律角度如何解读？</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>伊朗已有超3万名女性忍者，熟练使用弓、剑、飞镖等武器等训练画面走热，背后是怎样的社会文化环境？</title>
-      <link>https://www.zhihu.com/question/2095115972684112468</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095115972684112468</guid>
-      <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 03:36:13 GMT</pubDate>
-      <description><![CDATA[<p>近日，一段展示伊朗全女性忍者学校训练场景的视频在社交平台走热。 视频中，伊朗姑娘们个个身手矫捷，能熟练使用弓、剑、双截棍、飞镖等各种武器，格斗技能满分！ 事实上，在伊朗，女性忍者被称为 “库内奇”，目前伊朗已有超3万名女性忍者。 伊朗女性忍者运动始于1989年，由教练阿克巴尔·法拉吉在德黑兰附近创立了第一家忍术俱乐部。在学校，姑娘们的训练内容非常全面。体能上包括空翻、攀爬墙壁、穿越障碍等；武器上则要熟练使用武士刀、双节棍、弓箭、手里剑等。 此前伊朗媒体报道，伊朗女性忍者学校的教练和学员反复强调，练习忍术的核心目的并非战斗，而是修身养性。 虽然练习忍术不是为了战斗，但美以伊战事以来，不少伊朗姑娘选择保家卫国。此前伊朗最高领袖穆杰塔巴曾表示，过去七个月，有超过3000万伊朗人民表达了为国牺牲的决心。他认为，当下在伊朗的某些领域，女人甚至比男人还要勇敢。 如今，伊朗已宣布组建1000个“抵抗营”…</p>
-<p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.zhihu.com/question/2095115972684112468">知乎热榜</a> — 伊朗已有超3万名女性忍者，熟练使用弓、剑、飞镖等武器等训练画面走热，背后是怎样的社会文化环境？</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>《电动汽车动力蓄电池在役检测试验方法》国标发布</title>
-      <link>https://www.36kr.com/newsflashes/4035626143388800</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4035626143388800</guid>
-      <category>热门话题</category>
-      <pubDate>Wed, 21 Oct 2026 12:51:12 GMT</pubDate>
-      <description><![CDATA[<p>市场监管总局近日发布国家标准《电动汽车动力蓄电池在役检测试验方法》，自2027年3月1日正式实施。该标准适用于电动汽车在役动力蓄电池检测，覆盖电池隐患排查、二手车交易与功能检测等应用场景。该标准规定了动力蓄电池在服役状态下通用测试条件，明确外观、气密性、绝缘、热管理系统等检测项目，给出可用容量保持率、电压与内阻一致性的估算方式。该标准的发布解决了新能源汽车动力蓄电池在役检测缺乏统一试验方法的问题，提升电池技术状况和交易信息透明度、保障消费者权益，推动新能源汽车后市场规范运行，以标准化检测、试验方式赋能新能源汽车产业高质量可持续发展。（央视新闻）</p>
+      <pubDate>Thu, 22 Oct 2026 12:43:24 GMT</pubDate>
+      <description><![CDATA[<p>36氪获悉，美股大型科技股盘前普跌，截至发稿，SK海力士、英特尔、闪迪跌超4%，特斯拉跌超3%，英伟达、Meta、亚马逊跌超2%，谷歌跌超1%，微软跌0.32%，苹果跌0.04%。</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4035626143388800">36氪快讯</a> — 《电动汽车动力蓄电池在役检测试验方法》国标发布</li>
+<li><a href="https://www.36kr.com/newsflashes/4037034051097733">36氪快讯</a> — 美股大型科技股盘前普跌，英特尔跌超4%</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>《金融支持建设北京（京津冀）国际科技创新中心实施方案》发布</title>
-      <link>https://www.36kr.com/newsflashes/4035609871668105</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4035609871668105</guid>
+      <title>美国上周首次申领失业救济人数为19.4万人</title>
+      <link>https://www.36kr.com/newsflashes/4037028841411462</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4037028841411462</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 21 Oct 2026 12:34:39 GMT</pubDate>
-      <description><![CDATA[<p>从北京举办的2026金融街论坛年会获悉，《金融支持建设北京（京津冀）国际科技创新中心实施方案》（以下简称《实施方案》）正式发布，由六方面十五条组成，为打造京津冀科技金融协同发展高地、实现高水平科技自立自强提供有力支撑。据介绍，《实施方案》是在近日中国人民银行等多部门联合印发《关于金融支持建设北京（京津冀）、上海（长三角）、粤港澳大湾区国际科技创新中心的指导意见》后出台的首份区域落地方案，也是北京国际科技创新中心扩围为北京（京津冀）国际科技创新中心后的首份系统性金融支持方案。（央视新闻）</p>
+      <pubDate>Thu, 22 Oct 2026 12:38:06 GMT</pubDate>
+      <description><![CDATA[<p>美国上周首次申领失业救济人数为19.4万人，预估为20万人，前值19.85万人。（界面）</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/newsflashes/4035609871668105">36氪快讯</a> — 《金融支持建设北京（京津冀）国际科技创新中心实施方案》发布</li>
+<li><a href="https://www.36kr.com/newsflashes/4037028841411462">36氪快讯</a> — 美国上周首次申领失业救济人数为19.4万人</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>如何看待乘客错过高铁检票后情绪崩溃跪求工作人员，12306 回应无论是否发车不会例外放行？</title>
-      <link>https://www.zhihu.com/question/2096332490944110660</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2096332490944110660</guid>
+      <title>全网呼叫陈广宇</title>
+      <link>https://www.36kr.com/p/4036567752905602</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4036567752905602</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 21 Oct 2026 12:10:13 GMT</pubDate>
-      <description><![CDATA[<p>10月21日，南宁车务段发布情况说明： 近日，网传“女子迟到错过检票”视频引发网民关注。我单位组织开展了核查，具体情况为： 10月19日18时40分，一名女性旅客赶到来宾北站检票口欲乘坐G2895次列车。由于该列车已停止检票，为确保旅客乘降安全与列车运行秩序，车站工作人员按规定未予放行。该旅客情绪激动，车站工作人员对其进行了解释安抚，并引导其改乘后续车次前往目的地。 铁路部门温馨提示：请广大旅客合理安排出行时间，提前到站候车，避免因到站过晚影响行程。 官方通报“女子错过检票跪求工作人员”_凤凰网官方通报“女子错过检票跪求工作人员”</p>
+      <pubDate>Thu, 22 Oct 2026 07:22:20 GMT</pubDate>
+      <description><![CDATA[<p>这几天，全网都在找一个人：陈广宇。 起因是有传闻说，他拿到了年薪100万美金的offer。这个数字在硅谷不算天花板，一个资深工程师加上股票，拿到这个数不稀奇。但他今年才17岁。 就算不谈年薪，一个17岁的少年，被硅谷各家公司抢着要，这件事本身就够魔幻了。 接下来，他的去向传闻一个接一个。有人说去Anthropic了，不过后来这条消息被陈广宇本人否认。 随后又有人说他去卡内基梅隆继续进修了，还有人说他加入了谷歌元老杰夫·迪恩（Jeff Dean）创办的Discovery Loop，方向是用AI去自动化科学研究。 但最重要的是，上到AI大厂下到AI圈VC，到底为什么大家都在找他？ 1 10月15日，陈广宇在社交媒体上发帖，宣布离开月之暗面。他说，在这里度过的一年，是“迄今为止最美好的时光”。 帖子下面，Anthropic研究员肖尔托·道格拉斯（Sholto Douglas）留言，先是祝贺，然后…</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.zhihu.com/question/2096332490944110660">知乎热榜</a> — 如何看待乘客错过高铁检票后情绪崩溃跪求工作人员，12306 回应无论是否发车不会例外放行？</li>
+<li><a href="https://www.36kr.com/p/4036567752905602">36Kr 热榜</a> — 全网呼叫陈广宇</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>马斯克画饼「全民高收入」，AI干了我的活，还能给我分钱？</title>
-      <link>https://www.36kr.com/p/4035092270125958</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4035092270125958</guid>
+      <title>奶茶失宠？2026，年轻人开始抢着喝“大水”</title>
+      <link>https://www.36kr.com/p/4036441413998467</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4036441413998467</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 21 Oct 2026 03:53:49 GMT</pubDate>
-      <description><![CDATA[<p>最近 AI 巨头们不是捣鼓新模型，就在忙着发钱。 10 月 18 日，Anthropic 公布了要设立一个公共福利基金，并且已经得到了股东们的批准，在此基础上会将相当于公司 5% 的股份投入到该基金当中去。 马斯克看完了立刻附和，与其把股份交给基金公司，倒不如直接发放给广大投资者。 说完之后他真的这么做了：10月19日，马斯克表示打算从2027年起向每一个美国孩子发放一份SpaceX股票。 除了马斯克还提出一个概念「全民高收入」，这是一个生产能力很强、物质供应很充足的社会，并不是简单的向每一个人发放一笔钱。 不是，AI 对就业影响的焦虑还没结束，「全民高收入」的好日子就要来？ Anthropic 要把 3000 多亿分给普通人 这并不是一次普通的现金捐款，Anthropic 的公告里有几个值得注意的细节。 Anthropic 计划以一家由公司全资持有的有限责任公司（LLC）来设立基金，并不…</p>
+      <pubDate>Thu, 22 Oct 2026 03:33:43 GMT</pubDate>
+      <description><![CDATA[<p>“现在起，严肃进入喝大水时代！” 最近，大家腰不酸了、腿不疼了，开始疯狂研究起“大水理论”。 所谓“大水理论”， 就是放下奶茶等含糖或高溢价饮品，转而拥抱1.5L左右的超大瓶白水，主打一个简单补给、返璞归真。 自10月初起，“喝大水”现象在社媒平台热度急剧走高，网友纷纷晒出自己的“雷霆大水”，分享喝水心得。 图片来源：小红书 截至10月21日，抖音 #大水理论 相关话题已经累计达到了2.4亿次播放量。 不少人表示，自己早就开始喝大水，眼睁睁看着小众习惯变成时尚单品。如今终于熬出头，不仅要给自己颁一个“时代先锋”奖，还要顺便争一争大水领域的“学术带头人”。 图片来源：抖音评论 这股热潮也从线上蔓延到了线下。 商超货架上，大包装水开始占据醒目位置，结账区多了一群提着大瓶水排队的人。 有意思的是，大水的概念边界还在不断扩大。短短几天，喝大水已经不满足于喝白水。 有人把大瓶装无糖茶、中式养生水，甚…</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/p/4035092270125958">36Kr 热榜</a> — 马斯克画饼「全民高收入」，AI干了我的活，还能给我分钱？</li>
+<li><a href="https://www.36kr.com/p/4036441413998467">36Kr 热榜</a> — 奶茶失宠？2026，年轻人开始抢着喝“大水”</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>VR、XR、MR 的 2026，谁在真正赚钱？</title>
-      <link>https://www.36kr.com/p/4034920386614406</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4034920386614406</guid>
+      <title>女子离婚后发现前夫婚内继承 400 多万房款，起诉要求分割这笔钱财，法院判决支持，如何从法律角度解读？</title>
+      <link>https://www.zhihu.com/question/2096547342124172821</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2096547342124172821</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 21 Oct 2026 01:44:45 GMT</pubDate>
-      <description><![CDATA[<p>2026 年过半，中国 XR 产业交出一份分裂的成绩单：全球 VR 头显出货量同比下滑 18%，AR 设备却暴涨 138%；中国智能眼镜上半年销量同比翻倍，7 月线上零售却掉头向下。 冰与火之间，这个行业正在完成一次身份切换——从科技展台上的概念，变成货架上、景区里能收钱的产品。 终端： AI 眼镜接棒，MR 头显二次起跑 字节跳动 PICO 把筹码押在 MR 头显上。内部代号&quot;Project Swan&quot;的旗舰定名PICO Space Pro：microOLED 约 4000 PPI、约 40 PPD，双芯片架构——自研 XR 感知芯片把延迟压到约 12ms，用于 SLAM、运动补偿与反畸变，搭配的旗舰 SoC 在 CPU/GPU 上据称超 XR2 Gen 2 两倍。原定 9 月 2 日的北京发布会因软件体验升级推迟至四季度。同期 PICO 账号体系升级为&quot; 豆包 通行证&quot;，创始人周宏伟被…</p>
+      <pubDate>Thu, 22 Oct 2026 02:23:58 GMT</pubDate>
+      <description><![CDATA[<p>在一场离婚纠纷中，女方发现婚姻存续期间男方继承母亲房产份额。婚内继承的遗产，离婚时是否要分割？北京市第三中级人民法院的法官对此进行解读。 李女士与张先生在离婚时签署协议，约定分割婚后夫妻共同购买的房产以及存款，男方自愿补偿女方100万元。离婚后，因张先生未按约支付100万元补偿款，李女士诉至法院。 庭审中，李女士意外得知，张先生母亲在自己与张先生婚姻存续期间去世，还留有一套房产，张先生与其他兄弟姐妹办理继承公证，并按遗嘱继承62.5%的份额。 后四人共同将该房出售，张先生分得售房款400余万元。李女士认为，继承发生在婚姻存续期间，该笔售房款应属夫妻共同财产，于是再次起诉，要求分割张先生所得售房款。 该案核心争议在于，婚姻关系存续期间一方继承所得的财产，离婚后另一方是否有权要求分割？https://mp.weixin.qq.com/s/lL-XetZ8VgYqUy_BsHtf_A</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.36kr.com/p/4034920386614406">36Kr 热榜</a> — VR、XR、MR 的 2026，谁在真正赚钱？</li>
+<li><a href="https://www.zhihu.com/question/2096547342124172821">知乎热榜</a> — 女子离婚后发现前夫婚内继承 400 多万房款，起诉要求分割这笔钱财，法院判决支持，如何从法律角度解读？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>樊振东发文称不管啥心态，都无法改变偷拍不尊重人的本质，如何看待以爱为名的侵扰？怎样算真正支持运动员？</title>
-      <link>https://www.zhihu.com/question/2096173845665117950</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2096173845665117950</guid>
+      <title>女子地铁站内看书 5 个小时被扣 15 元，怎么看待地铁超时收费？其中读书空间等消费场景的设置合理吗？</title>
+      <link>https://www.zhihu.com/question/2096527240208938063</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2096527240208938063</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 21 Oct 2026 01:39:49 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 01:04:05 GMT</pubDate>
+      <description><![CDATA[<p>近日，市民方女士（化姓）向记者反映，她在地铁站内设置的读书空间看书，停留近5小时，出站时被扣除15元“超时费”。 记者以乘客身份致电广州地铁，工作人员称，广州地铁确实设有270分钟（4小时30分）的乘车时限规定，“地铁是让人快速搭乘通过的地方，不是让人长时间滞留的场景”。对于地铁站内存在的消费场景，工作人员表示，乘客仍需根据自身行程对停留时间进行综合考量。 站内停留一下午，出站被扣15元 此前，方女士搭乘18号线抵达番禺广场站，本打算直接出站，路过地铁站内一处读书空间时临时起意，读完一整本书才离开，前后停留约5个小时。“除了当次车费，还额外被扣了15元，我这才知道有超时费。”林女士说。 有网友被扣15元超时费 无独有偶，另一网友也有类似遭遇。该网友家住花都区，近期正在求职，几乎每天都要前往广州各区面试。“昨天上午去天河区面试，面完之后就在站内找个位置坐着继续投简历，想着有合适的岗位，就可以…</p>
+<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.zhihu.com/question/2096527240208938063">知乎热榜</a> — 女子地铁站内看书 5 个小时被扣 15 元，怎么看待地铁超时收费？其中读书空间等消费场景的设置合理吗？</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>AI 写代码太快，Review 不过来，要不要违背祖训放弃 Review？</title>
+      <link>https://www.zhihu.com/question/2094239068095602796</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2094239068095602796</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 15 Oct 2026 17:31:42 GMT</pubDate>
+      <description><![CDATA[<p></p>
+<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.zhihu.com/question/2094239068095602796">知乎热榜</a> — AI 写代码太快，Review 不过来，要不要违背祖训放弃 Review？</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>如何评价英雄联盟 S16 全球总决赛入围赛因阴间时间，解说及二路主播集体加班播到「神志不清」？</title>
+      <link>https://www.zhihu.com/question/2095377732439912769</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095377732439912769</guid>
+      <category>热门话题</category>
+      <pubDate>Sun, 18 Oct 2026 20:56:21 GMT</pubDate>
+      <description><![CDATA[<p>在刚刚结束的英雄联盟 S16 全球总决赛入围赛中，由于比赛时间本身较晚，直接拉满了官方解说和二路主播的节目效果：官方解说米勒在连续加班三场后原地麻住，看自己解说时的表情都充满了苦笑与无奈。二路主播如 sask、水晶哥等人纷纷开启熬夜模式，观战 C9、FUR、MVK 等队伍的离谱操作与爆冷翻盘。许多主播一直播到凌晨甚至早上九点，在直播间留下了各种“神志不清”、“胡言乱语”的名场面。</p>
+<p><b>1 家媒体报道 · 重要度 4.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.zhihu.com/question/2095377732439912769">知乎热榜</a> — 如何评价英雄联盟 S16 全球总决赛入围赛因阴间时间，解说及二路主播集体加班播到「神志不清」？</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>中国古代人民为什么不用煤炭当燃料呢？</title>
+      <link>https://www.zhihu.com/question/331837590</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F331837590</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 27 Jun 2019 01:03:26 GMT</pubDate>
+      <description><![CDATA[<p>山西，新疆露天煤炭那么多，古代人民为什么不用煤炭当燃料做饭</p>
+<p><b>1 家媒体报道 · 重要度 4.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.zhihu.com/question/331837590">知乎热榜</a> — 中国古代人民为什么不用煤炭当燃料呢？</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>沃尔沃集团宣布设立Volvo Mining</title>
+      <link>https://www.36kr.com/newsflashes/4036991939826561</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4036991939826561</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 22 Oct 2026 12:57:24 GMT</pubDate>
+      <description><![CDATA[<p>沃尔沃集团宣布设立Volvo Mining。根据规划，Volvo Mining将面向矿业客户及其承包商，提供沃尔沃卡车、建筑设备及自动驾驶解决方案。Volvo Mining将于2027年1月1日正式成立，并设立于沃尔沃建筑设备旗下。现任沃尔沃卡车国际部高级副总裁Per-Erik Lindström已被任命为Volvo Mining负责人。初期，Volvo Mining将重点服务瑞典、挪威和芬兰的矿业客户及承包商，并计划分阶段拓展至更多市场。（界面）</p>
+<p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.36kr.com/newsflashes/4036991939826561">36氪快讯</a> — 沃尔沃集团宣布设立Volvo Mining</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>洛克希德·马丁三季度营收增长11%至207亿美元，上调全年指引</title>
+      <link>https://www.36kr.com/newsflashes/4036979597366406</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4036979597366406</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 22 Oct 2026 12:43:49 GMT</pubDate>
+      <description><![CDATA[<p>洛克希德·马丁公布2026年第三季度业绩，销售额为207.11亿美元，同比增长11%；净利润为18.45亿美元，同比增长14%；摊薄后每股收益为7.97美元，上年同期为6.95美元。公司第三季度经营现金流为34.38亿美元，自由现金流为29.99亿美元。截至9月27日，公司积压订单总额创纪录地达到2919.84亿美元，较第二季度增长27%，其中包括与PAC-3 MSE拦截弹多年期生产合同相关的525亿美元订单。洛克希德·马丁同时上调全年销售额、每股收益及自由现金流指引，预计全年销售额为800亿至820亿美元，摊薄后每股收益为30.35至30.75美元，自由现金流为78亿至80亿美元。（财联社）</p>
+<p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.36kr.com/newsflashes/4036979597366406">36氪快讯</a> — 洛克希德·马丁三季度营收增长11%至207亿美元，上调全年指引</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>联讯仪器：订单交付有序，扩产按需推进</title>
+      <link>https://www.36kr.com/newsflashes/4037009385673859</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4037009385673859</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 22 Oct 2026 12:18:18 GMT</pubDate>
+      <description><![CDATA[<p>今日光通信板块整体回调。联讯仪器股价也出现大跌。针对市场关注的公司经营情况，记者从公司方面了解到，公司目前生产经营活动正常有序，订单交付工作正常开展。面向800G、1.6T高速光模块测试的采样示波器、误码分析仪、时钟恢复单元等核心测试仪器，是今年交付的主力产品，市场需求旺盛。公司为全球第二家推出1.6T光模块全部核心测试仪器的厂商，产能扩充正按业务需求稳步推进。此前披露的业绩预告显示，2026年前三季度实现净利润19亿元至21亿元，同比增长1866%至2072.95%。（证券时报）</p>
+<p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.36kr.com/newsflashes/4037009385673859">36氪快讯</a> — 联讯仪器：订单交付有序，扩产按需推进</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>智元成为香港引进办重点企业 将加码在港布局、推进国际研发与人才培养</title>
+      <link>https://www.36kr.com/newsflashes/4036989828813700</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fnewsflashes%2F4036989828813700</guid>
+      <category>热门话题</category>
+      <pubDate>Thu, 22 Oct 2026 11:59:16 GMT</pubDate>
+      <description><![CDATA[<p>香港特区政府引进重点企业办公室（以下简称“引进办”）举行了新一批重点企业签署仪式。在香港特区政府财政司司长陈茂波的见证下，智元（AGIBOT）正式签约成为引进办新一批重点引进企业之一。此次入选，标志着智元在港长期布局又迈出重要一步。智元将以香港作为国际研发、产业合作和连接全球市场的重要支点，持续推进科研合作、人才培养和具身智能技术的实际应用。（证券时报）</p>
+<p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.36kr.com/newsflashes/4036989828813700">36氪快讯</a> — 智元成为香港引进办重点企业 将加码在港布局、推进国际研发与人才培养</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>吴艳妮面对采访说自己训练强度能达到12秒7、12秒6的程度，但是比赛就是达不到，你怎么看？</title>
+      <link>https://www.zhihu.com/question/2095964207070105819</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095964207070105819</guid>
+      <category>热门话题</category>
+      <pubDate>Tue, 20 Oct 2026 11:46:48 GMT</pubDate>
       <description><![CDATA[<p>[图片]</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
+<p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.zhihu.com/question/2096173845665117950">知乎热榜</a> — 樊振东发文称不管啥心态，都无法改变偷拍不尊重人的本质，如何看待以爱为名的侵扰？怎样算真正支持运动员？</li>
+<li><a href="https://www.zhihu.com/question/2095964207070105819">知乎热榜</a> — 吴艳妮面对采访说自己训练强度能达到12秒7、12秒6的程度，但是比赛就是达不到，你怎么看？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>如何看待人民锐评发表文章「特斯拉能飞，我们就被甩开了？」，中国汽车行业未来该如何发展？</title>
-      <link>https://www.zhihu.com/question/2096169041811478462</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2096169041811478462</guid>
+      <title>你有哪些感悟或者人生经验告诉现在的年轻人？</title>
+      <link>https://www.zhihu.com/question/1919785941905684215</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F1919785941905684215</guid>
       <category>热门话题</category>
-      <pubDate>Wed, 21 Oct 2026 01:20:44 GMT</pubDate>
-      <description><![CDATA[<p>最近，特斯拉发布“会飞的汽车”，引发热议。有人惊呼“我们被甩开了”；也有人嗤之以鼻，称其不过是“蹦高的大号玩具”。两种论断各走极端，过于武断。那么，热闹之后，我们当以怎样的眼光和格局，看待这样一场技术展示？ 首先，要有一份清醒的定力。不必妄自菲薄，切莫一看见新鲜演示，就全盘否定中国新能源汽车攒下的家底。 特斯拉这次“飞行”，靠的是冷气推进系统等实现短时腾空、空中翻转，确实炫酷。可法规、场景、安全认证，样样还是未知数；又有多少人愿意坐在两个大压缩罐前开车，恐怕也得打个问号。目前，官方给出2028年的量产预期，但比起一款能日常开的车，它更像一场漂亮的概念秀。 而中国汽车手里攥着的，是一套系统性的硬功夫：看速度，比亚迪仰望U9 Xtreme以496.22km/h的成绩，登顶世界汽车极速榜首；看充电，宁德时代第三代神行超充电池，6分钟常温满电，刷新全球纪录；看智驾，华为、理想等发布舱驾一体或端到端…</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
+      <pubDate>Sat, 21 Jun 2025 07:57:16 GMT</pubDate>
+      <description><![CDATA[<p></p>
+<p><b>1 家媒体报道 · 重要度 4.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.zhihu.com/question/2096169041811478462">知乎热榜</a> — 如何看待人民锐评发表文章「特斯拉能飞，我们就被甩开了？」，中国汽车行业未来该如何发展？</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>网红国货“被迫”改名：亏损6000万、品牌一夜清零</title>
-      <link>https://www.36kr.com/p/4034904904815748</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.36kr.com%2Fp%2F4034904904815748</guid>
-      <category>热门话题</category>
-      <pubDate>Wed, 21 Oct 2026 00:49:03 GMT</pubDate>
-      <description><![CDATA[<p>“因为一个疏忽，我亏了6000万，团队散了，品牌一夜清零，公司命悬一线。” 近日，国货美妆品牌唐魅可（TOMMARK）创始人应娅妮在社交平台发布视频，讲述一场商标风波给企业带来的经营冲击。 据其披露，唐魅可收到雅诗兰黛集团旗下MAC相关商标权利主体提出的无效宣告申请，涉及“唐魅可”与“魅可”的近似争议，前者相关商标被宣告无效，原有名称无法继续使用。 曾拿下电商平台BB霜类目第一、累计销售额突破15亿的美妆黑马，如今不得不更换品牌名称。创始人自述中，由于这次争议，“唐魅可”已改名为“唐魅”，同时面临包装物料作废、库存积压、员工离职等一系列问题，损失约6000万元。 唐魅可的改名风波，也折射出新消费品牌从流量驱动走向长期经营时容易被忽视的一道关卡：当品牌规模壮大，知识产权保护是否跟上了扩张脚步？ 靠一款抹茶气垫走红，曾爆卖超15亿 在商标风波之前，唐魅可曾是国货美妆赛道的一匹黑马。 公开资料显…</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.36kr.com/p/4034904904815748">36Kr 热榜</a> — 网红国货“被迫”改名：亏损6000万、品牌一夜清零</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>为啥这几年双十一、双十二活动周期被拉长、玩法不断改进，反而热度好像还不如以前了？你今年有「剁手」吗？</title>
-      <link>https://www.zhihu.com/question/2095972167292643045</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095972167292643045</guid>
-      <category>热门话题</category>
-      <pubDate>Tue, 20 Oct 2026 12:18:25 GMT</pubDate>
-      <description><![CDATA[<p>以前都开玩笑说剁手、全民疯狂购物节，现在活动时长变长、各种各样五花八门的玩法越来越多，反而好像大家兴趣没那么强了。大家今年双十一有剁手吗？你觉得现在双十一越来越无人在意的原因是啥？</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.zhihu.com/question/2095972167292643045">知乎热榜</a> — 为啥这几年双十一、双十二活动周期被拉长、玩法不断改进，反而热度好像还不如以前了？你今年有「剁手」吗？</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>陶哲轩和邓煜的对谈《数学与 AI 究竟是什么关系？》，如何理解他们各自的观点？</title>
-      <link>https://www.zhihu.com/question/2095840244973004152</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095840244973004152</guid>
-      <category>热门话题</category>
-      <pubDate>Tue, 20 Oct 2026 03:34:13 GMT</pubDate>
-      <description><![CDATA[<p>有了这些模型，人的哪些方面能力会变得重要？它怎样才能与人合作，真正帮助人而不是取代人？ 陶哲轩 关键是增强人的能力。也就是说，要设法为科学家提供工具，也为从业者等人提供工具，让他们的能力真正增强。当你使用这些工具时，你自己也会变得更聪明，理解得更深，而不是牺牲自己的能力，依赖 AI 来获得答案。 所以还是那句话，任何技术都是如此。拿汽车来说，如果到哪儿都开车，久而久之，你会忘了怎么走路，或者身体变差，但这并不意味着你该彻底放弃汽车。你需要有意识、有分寸地使用这些交通工具。 而且我觉得，我们可以相信大家，尤其是年轻一代。眼下可能有很多焦虑，甚至绝望，因为许多数学领域的老规矩都在发生变化。但一旦大家明白可以做些什么，尤其是当工具真正到了他们手里，他们就会迎接挑战，想出极富创意的新做法，让我们忍不住惊叹，我怎么没想到呢？这太棒了。我对年轻一代充满希望，只要有合适的工具，他们就能做出惊人的成果。 …</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.zhihu.com/question/2095840244973004152">知乎热榜</a> — 陶哲轩和邓煜的对谈《数学与 AI 究竟是什么关系？》，如何理解他们各自的观点？</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>日本独立游戏开发者称发出去就被 AI 抄走，你觉得独立开发者该怎么办？</title>
-      <link>https://www.zhihu.com/question/2095491583533658157</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095491583533658157</guid>
-      <category>热门话题</category>
-      <pubDate>Mon, 19 Oct 2026 04:28:45 GMT</pubDate>
-      <description><![CDATA[<p>一位做独立游戏的开发者在网上发消息问发行朋友：「最近独立游戏向发行的风声怎么样？网上现在有点吓人了，demo 刚发出来一天，第二天就有核心玩法被 AI 复制到免费平台上的例子。」 这不是空担心。日本开发者林风肖（做过《罪恶王权》《恸哭之星》的制作人和总监）正在和发行商 Alliance Arts 做新作《酒鬼女神的酒诡》，一款结合俄罗斯轮盘赌和饮酒生存的独立游戏，12 月 8 日上 Steam，原计划 10 月 19 日参加 Steam 新品节、推出能体验开头 20 分钟的免费 Demo。就在前一天，官方突然取消公开发行，改成通过 Discord 招募、抽签发资格的封闭试玩。理由很无奈：原本想限制试玩视频和直播，可人手不够管不住；更担心有人拿 AI 照着 Demo 公开的内容快速模仿画面和玩法，赶在正式版前面推出类似作品。新的试玩协议里专门列了禁令：禁止把试玩版用于 AI 训练、禁止用 A…</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.zhihu.com/question/2095491583533658157">知乎热榜</a> — 日本独立游戏开发者称发出去就被 AI 抄走，你觉得独立开发者该怎么办？</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>丹麦男子卖中国包子一天赚 5 万元，中式面食在海外有多受欢迎？还有哪些中国传统小吃最有可能在海外走红？</title>
-      <link>https://www.zhihu.com/question/2095237911004145500</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-hot.xml#https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F2095237911004145500</guid>
-      <category>热门话题</category>
-      <pubDate>Sun, 18 Oct 2026 11:40:45 GMT</pubDate>
-      <description><![CDATA[<p>10月17日，一位外国博主在社交平台分享视频，展示了丹麦中国文化节上，一位丹麦大汉卖包子的火热场景：集市上众人排起百米长龙连续9小时抢购包子，最后有人连生包子都要买走。 包子刚出摊，场面立即失控，队伍排的一眼看不到头。许多外国人买到包子后直接开吃，还频频竖起大拇指点赞。似乎没有任何人能抵抗“顶级中式碳水”的跨国杀伤力！ 据了解，这位丹麦大汉一天就卖了5万元人民币。回家路上，教手艺的中国丈母娘激动流泪：“做梦都没有想到，我这个手艺传给你，你还在丹麦做火了，真的很激动。没想到这么多丹麦人喜欢中国包子。” 丹麦大汉则表示：“我很自豪能学到这一切，这样我们才能把真正的中国菜带到丹麦。”</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.zhihu.com/question/2095237911004145500">知乎热榜</a> — 丹麦男子卖中国包子一天赚 5 万元，中式面食在海外有多受欢迎？还有哪些中国传统小吃最有可能在海外走红？</li>
+<li><a href="https://www.zhihu.com/question/1919785941905684215">知乎热榜</a> — 你有哪些感悟或者人生经验告诉现在的年轻人？</li>
 </ul>]]></description>
     </item>
   </channel>
