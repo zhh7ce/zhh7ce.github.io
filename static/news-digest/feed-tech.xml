@@ -5,86 +5,176 @@
     <link>https://zhh7ce.github.io/static/news-digest/feed-tech.xml</link>
     <description>多源报道优先的每日新闻摘要</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 21 Oct 2026 18:25:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 18:28:07 GMT</lastBuildDate>
     <atom:link href="https://zhh7ce.github.io/static/news-digest/feed-tech.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>苹果 iPhone Duo 将于今年晚些时候支持“便捷访问”单手模式</title>
-      <link>https://www.ithome.com/1/016/146.htm</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F016%2F146.htm</guid>
+      <title>编程语言PHP严重漏洞引发全球紧急修复 多地网站暂时下线</title>
+      <link>https://finance.sina.com.cn/world/2026-10-22/doc-iniwchpc5209421.shtml</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Ffinance.sina.com.cn%2Fworld%2F2026-10-22%2Fdoc-iniwchpc5209421.shtml</guid>
       <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 15:14:23 GMT</pubDate>
-      <description><![CDATA[<p>IT之家 10 月 21 日消息，苹果首款折叠屏手机 iPhone Duo 将在 10 月 23 日发售。《连线》杂志今日报道称，苹果计划于今年晚些时候，为这款手机推出“便捷访问”单手模式。 据报道，苹果计划为 iPhone Duo 加入新版“便捷访问”功能， 让手比较小的用户只需要轻点屏幕 ， 就能更轻松地触及屏幕左侧 / 右侧边缘 。 IT之家了解到，“便捷访问”是苹果 iOS 系统的一项功能，最早于 2014 年随 iPhone 6、iPhone 6 Plus 一同推出，帮助用户单手操作手机时，更轻松地触及屏幕顶部区域。 在配备主屏幕按钮的 iPhone 上，只需要轻轻地轻点两下主屏幕按钮就能打开“便捷访问”；在配备面容 ID 的 iPhone 上，只需在屏幕底部边缘向下轻扫就能打开。</p>
-<p><b>5 家媒体报道 · 重要度 5.0/10</b></p>
+      <pubDate>Thu, 22 Oct 2026 14:08:12 GMT</pubDate>
+      <description><![CDATA[<p>围绕一种广泛使用的编程语言PHP所曝出的漏洞，全球网站加紧更新并采取防护措施的行动进入第二天。研究人员警告称，黑客已经尝试利用这些漏洞发动攻击。 安全问题造成的影响始于周三，此前研究人员披露，他们在PHP中发现了两个严重漏洞，使用PHP搭建网站和软件平台的机构可能因此面临网络攻击风险。 推荐阅读： 编程语言PHP曝严重漏洞引发欧美警戒 欧洲多地政府网站暂时下线防风险 英国太空、网络与监管改革大臣Elizabeth Lloyd周四在提交给英国上议院的一份声明中表示，在部署安全更新期间，英国仍有30多项政府服务处于下线状态。她表示，“在完成相关修复工作后，我们正与各部门一道谨慎推进服务恢复工作，确保服务安全恢复。” 电信运营商Orange周四在一份声明中表示，在为相关漏洞部署安全补丁期间，公司暂停了部分网站和应用程序的访问。 PHP是互联网上应用最广泛的技术之一，为数以百万计的网站提供支持，多…</p>
+<p><b>5 家媒体报道 · 重要度 8.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.ithome.com/1/016/146.htm">IT之家</a> — 苹果 iPhone Duo 将于今年晚些时候支持“便捷访问”单手模式</li>
-<li><a href="https://www.ithome.com/1/016/133.htm">IT之家</a> — 苹果 iPhone Duo 更新 iOS 27.2 后可使用 Apple Pencil</li>
-<li><a href="https://www.leiphone.com/category/industrynews/1kN394wi9h0iFG43.html">雷锋网</a> — 双11 iPhone Duo货源大战：苹果为什么把更多货交给天猫？</li>
+<li><a href="https://finance.sina.com.cn/world/2026-10-22/doc-iniwchpc5209421.shtml">新浪新闻滚动</a> — 编程语言PHP严重漏洞引发全球紧急修复 多地网站暂时下线</li>
+<li><a href="https://www.leiphone.com/category/yanxishe/tvPJIsotGRQWkdwV.html">雷锋网</a> — 深度解读全球 72 小时安全风暴：PHP 事件只是第一枪</li>
+<li><a href="https://www.ifanr.com/1685507?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了</li>
+<li><a href="https://www.ifanr.com/1685446?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网</li>
+<li><a href="https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/">Hacker News 首页</a> — Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure</li>
+<li><a href="https://eliastaylor.com/noexploit/">Hacker News Best</a> — There isn&apos;t an easy exploit for this PHP vulnerability</li>
+<li><a href="https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/">Hacker News Best</a> — Today&apos;s PHP security release, and how we&apos;re strengthening security</li>
+<li><a href="https://www.wiz.io/blog/php2shell-php-rce">Hacker News Best</a> — PHP2Shell: AI uncovers critical RCE in PHP</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>我用 iPhone Duo 刷小红书、淘宝、飞书，发现作用不只是装「阔」</title>
+      <link>http://www.geekpark.net/news/372710</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372710</guid>
+      <category>科技前沿</category>
+      <pubDate>Thu, 22 Oct 2026 03:50:17 GMT</pubDate>
+      <description><![CDATA[<p>头图图片来源：极客公园 我在 iPhone Duo 上，把淘宝、高德、小红书、腾讯视频、飞书、WPS、XMind，还有篮球游戏 NBA 巅峰对决，这 8 个为它做过适配的 App 挨个用了一遍。淘宝从首页到客服消息，整条购物链路都动过；高德把路线和地图拆成了左右两半；小红书的笔记，变成了左边看图、右边看正文和评论。 这台手机的国行首批预订已经售罄。据环球时报 10 月 17 日的报道，苹果官网显示的预计交付时间，排到了明年二月，等货的这几个月，其实大家最关心答案的问题只有一个： 除了更「阔」，它和我们用了这么多年的直板 iPhone，体验到底有什么不一样。 对 iPhone 来讲答案是，合上的时候，它最像一台普通 iPhone，区别只是程序坞、状态栏和灵动岛挪到了屏幕侧边，竖着排。真正的不同发生在另外两种状态里：完全展开，App 会把一屏分成左右两栏；半折立在桌上，上半屏用来看，下半屏用来…</p>
+<p><b>4 家媒体报道 · 重要度 5.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="http://www.geekpark.net/news/372710">极客公园</a> — 我用 iPhone Duo 刷小红书、淘宝、飞书，发现作用不只是装「阔」</li>
 <li><a href="http://www.geekpark.net/news/372583">极客公园</a> — 1 分钟售罄、发货排到明年，iPhone Duo 卖爆背后的真相</li>
 <li><a href="http://www.geekpark.net/news/372509">极客公园</a> — 1 分钟售罄、发货排到明年，iPhone Duo 卖爆背后的真相</li>
 <li><a href="http://www.geekpark.net/news/372488">极客公园</a> — iPhone Duo 一秒售罄，发货排到明年；马斯克：考虑自建电商平台；谷歌创始人：AI 正开始自己造自己</li>
+<li><a href="https://www.ifanr.com/1685251?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 首发｜我们用了一周的 iPhone Duo，这里有你关心的一切</li>
+<li><a href="https://www.ifanr.com/1685223?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统</li>
 <li><a href="https://www.ifanr.com/1685170?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 首发 | 我用 2 万的 iPhone Duo，指挥 8 万的 Mac Studio 干活</li>
-<li><a href="https://www.ifanr.com/1684782?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 早报｜iPhone Duo开启预购，发货排到明年/特斯拉超跑发布会现场飞了/华为阔直板出货量超71万台</li>
-<li><a href="https://www.huxiu.com/article/4899371.html">虎嗅</a> — 我们用了一周的iPhone Duo，这里有你关心的一切</li>
+<li><a href="https://www.zhihu.com/question/2096569066114610825">知乎热榜</a> — iPhone Duo要开卖了微信等应用还没适配，为何会出现这样的错位？这会对购买意愿有多大影响？</li>
+<li><a href="https://www.zhihu.com/question/2096555342171563789">知乎热榜</a> — iPhone Duo测评出炉，折叠3000次后，折痕明显加深，高负载下发热明显，还有哪些问题值得关注？</li>
+<li><a href="https://www.36kr.com/p/4036266730886018">36Kr 热榜</a> — 8点1氪丨宝马离职补偿最高487万，员工争着离职挤爆系统；iPhone Duo全球限购，每位顾客限购2台；Meta第三季度营收646亿美元，同比增长26%</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>停止加薪！大众计划冻结全球大量员工薪酬至2030年；突发！美国发布DeepSeek禁令；马斯克：明年向全美儿童赠送SpaceX股票</title>
-      <link>https://www.leiphone.com/category/zaobao/Y7039p8HsmmeQClm.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.leiphone.com%2Fcategory%2Fzaobao%2FY7039p8HsmmeQClm.html</guid>
+      <title>苹果和 Meta 和好了，是 AI 逼的</title>
+      <link>http://www.geekpark.net/news/372458</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372458</guid>
       <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 12:48:54 GMT</pubDate>
-      <description><![CDATA[<p>要闻提示 1.停止加薪！大众计划冻结员工薪酬至2030年，涉及全球大量员工 2.突发！美国发布DeepSeek禁令 3.花钱之前先问网友意见！「钱包请等等」突然爆火：主打「劝你别买」 4.豆包辟谣超一半算力在造爽剧：不靠谱，只有10% 5.特斯拉喊话：没有「速成车」 6.“山姆品质暴跌你还敢去吗”热搜第一，山姆回应：热搜视频系AI造假 7.字节Seed模型评测负责人黄文灏离职 8.马斯克：明年向全美儿童赠送 SpaceX 股票 今日头条 停止加薪！大众计划冻结员工薪酬至2030年，涉及全球大量员工 10 月 19 日消息，外媒披露的高管内部文件显示，大众汽车计划在 2030 年之前，冻结（不加薪）其全球 60 万名员工中大部分人的薪资。在被问及此事时，大众汽车表示不对“此类猜测”置评，仅表示即将展开的新一轮集体薪酬谈判，才是劳资双方在企业内部沟通并敲定各项协议的正规渠道。 这一不涨薪的计划…</p>
+      <pubDate>Thu, 22 Oct 2026 12:31:54 GMT</pubDate>
+      <description><![CDATA[<p>没有永远的敌人，只有永远的 AI 焦虑。 10 月 2 日，苹果做了一件很少见的事，因为一个第三方 App，宣布要调整系统规则。 起因是《Inc.》杂志的科技专栏作者 Jason Aten 公开指控，Meta 的 AI 智能体 Muse 在他的 Mac 上读取了私人消息。Muse 是 Meta 力推的「能替你办事」的 Agent，会帮你退订闲置会员，甚至替你砍价。 苹果随即表态， 今后 AI 请求读取 Mac 数据时，系统会主动提示用户 。 这几乎就是苹果和 Meta 过去五年关系的缩影，Meta 想拿数据，苹果出面拦着。 然而仅仅两周后，故事发生了反转。 当地时间 10 月 15 日，Meta 发布开放权重模型 Muse Spark Open，扎克伯格在 X 上发帖，感谢「John Ternus 和苹果」的合作，让这个模型能在新款 Mac Studio 上流畅运行。 苹果 CEO Ter…</p>
 <p><b>3 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.leiphone.com/category/zaobao/Y7039p8HsmmeQClm.html">雷锋网</a> — 停止加薪！大众计划冻结全球大量员工薪酬至2030年；突发！美国发布DeepSeek禁令；马斯克：明年向全美儿童赠送SpaceX股票</li>
-<li><a href="https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/">Hacker News Best</a> — DeepSeek banned from U.S. federal civilian agencies under new DHS order</li>
-<li><a href="https://www.36kr.com/newsflashes/4035623887246465">36氪快讯</a> — 美股大型科技股盘前涨跌不一，SpaceX涨超8%</li>
+<li><a href="http://www.geekpark.net/news/372458">极客公园</a> — 苹果和 Meta 和好了，是 AI 逼的</li>
+<li><a href="https://www.huxiu.com/article/4899688.html">虎嗅</a> — 扎克伯格杀回来了，但Meta还没赢</li>
+<li><a href="https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html">Hacker News Best</a> — Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价</title>
-      <link>https://www.qbitai.com/2026/10/504517.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.qbitai.com%2F2026%2F10%2F504517.html</guid>
+      <title>AI 到处挖漏洞一整年，终于给人类爆了个大的</title>
+      <link>http://www.geekpark.net/news/372731</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372731</guid>
       <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 04:09:00 GMT</pubDate>
-      <description><![CDATA[<p>兔皮底下，竟然是MiniMax！</p>
-<p><b>3 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.qbitai.com/2026/10/504517.html">量子位</a> — 国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价</li>
-<li><a href="https://www.leiphone.com/category/yanxishe/IMOE7FfuhC0qGxZk.html">雷锋网</a> — 大肥鱼遇劲敌：MiniMax M3.1 Flash 拿下 Agent 任务第一，我们实测了</li>
-<li><a href="https://www.infoq.cn/article/7Twa7KBWIzi8JGOdVwCK?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — 比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀“回王座，顺手拿了个 Agent 国模第一</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>DeepSeek 新模型登顶开源模型榜首；国内 55% 算力用于视频和短剧？豆包发言人辟谣；微信发起公众号小说改编微短剧激励｜极客早知道</title>
-      <link>http://www.geekpark.net/news/372568</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372568</guid>
-      <category>科技前沿</category>
-      <pubDate>Tue, 20 Oct 2026 09:08:54 GMT</pubDate>
-      <description><![CDATA[<p>DeepSeek 新模型登顶 Code Arena WebDev 开源模型榜首 10 月 19 日，AI 模型评测平台 Arena 宣布，DeepSeek-V4.1-Flash-1017（Max）超过 Kimi K3（Max），成为 Code Arena: WebDev 榜单排名最高的开源模型。 截至目前，DeepSeek-V4.1-Flash-1017 在该榜单上得分为 1670 分，超过了Kimi K3（Max）、Mimo-V2.6 Flash等开源模型，也超过了Muse Spark 1.3（Max）、Claude Opus 5（High）、Grok 4.7（xHigh）等闭源模型，仅落后 GPT-6 Sol（Max）12 分。 该模型于 10 月 17 日推出，在软件工程能力 DeepSWE v1.1 测试中，其得分超GPT-6 Astra、GPT-6.1 Sol、Claude Op…</p>
+      <pubDate>Thu, 22 Oct 2026 12:13:17 GMT</pubDate>
+      <description><![CDATA[<p>头图图片来源：Wiz 10 月 21 日晚，如果你有在社交媒体冲浪的习惯，可能会发现一个奇怪的网站关闭潮：几乎是在同一时间，全球多个国家和地区的各种重要基础设施网站纷纷宣布临时关闭。 周三。芬兰政府把所有对外的网络服务关掉了；荷兰国家网络安全中心连自己的官网也撤了下来，鹿特丹港、荷兰足协、五大政党的网站和多家医院紧随其后；法国内政部让各省政府网站暂时下线，德国联邦 IT 服务商关掉了多个站点，比利时外交部、维基媒体基金会、任天堂，也相继停掉了部分服务。 荷兰政府宣布 DigiD 等网站预防性下线｜图片来源：Rijksoverheid 但这些网站其实都没有被黑，而是自己主动关掉的。 原因是 PHP 的两个漏洞：PHP 是世界上用得最多的网站后端语言，W3Techs 的统计里，能识别出后端语言的网站约七成跑在它上面。这两个漏洞被合称为 PHP2Shell，攻击者不需要登录，就有可能远程控制整台…</p>
 <p><b>2 家媒体报道 · 重要度 8.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="http://www.geekpark.net/news/372568">极客公园</a> — DeepSeek 新模型登顶开源模型榜首；国内 55% 算力用于视频和短剧？豆包发言人辟谣；微信发起公众号小说改编微短剧激励｜极客早知道</li>
-<li><a href="http://www.geekpark.net/news/372512">极客公园</a> — DeepSeek 新模型上线，价格更低能力更强；传华为将推新品牌「星芒」主打性价比；天文学家发现第一颗绿色恒星｜极客早知道</li>
-<li><a href="https://github.com/deepseek-ai/DeepInfer">Hacker News Best</a> — DeepInfer: High-performance inference framework for DeepSeek models</li>
+<li><a href="http://www.geekpark.net/news/372731">极客公园</a> — AI 到处挖漏洞一整年，终于给人类爆了个大的</li>
+<li><a href="https://www.huxiu.com/article/4899690.html">虎嗅</a> — 全球运维忙坏了，AI把互联网埋了14年的雷挖出来了</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>请立即更新：Node.js 发布最高严重级别高危安全更新</title>
-      <link>https://www.ithome.com/1/016/143.htm</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F016%2F143.htm</guid>
+      <title>多个 Linux 内核漏洞被误公开，部分漏洞 CVSS 评分达 9.0</title>
+      <link>https://www.ithome.com/1/016/705.htm</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F016%2F705.htm</guid>
       <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 15:03:53 GMT</pubDate>
-      <description><![CDATA[<p>IT之家 10 月 21 日消息，开源 JavaScript 运行时环境 Node.js 今日针对 26.x 、 24.x 和 22.x 系列版本发布安全更新，修复 10 余个安全漏洞， 包含 4 个高危漏洞 。 IT之家附本次更新修复漏洞如下： dns.resolve 会截断包含 NUL 字符的域名（CVE-2026-105482）—— 高危 该漏洞影响 Node.js 26.x 、 24.x 和 22.x 。 感谢 hasanfleyah 的报告，并感谢 jasnell 修复该问题。 当 IP 地址使用全角数字表示时，可绕过 TLS 证书主机名验证（CVE-2026-105483）—— 高危 该漏洞影响 Node.js 26.x 和 24.x 。 感谢 hasanfleyah 的报告，并感谢 jasnell 修复该问题。 当主机名通过宽松解析可被解析为 IP 地址时，可绕过 TLS 证…</p>
+      <pubDate>Thu, 22 Oct 2026 14:09:01 GMT</pubDate>
+      <description><![CDATA[<p>IT之家 10 月 22 日消息，据 Phoronix 今日报道，似乎是出于偶然，Trend Micro 旗下零日漏洞计划（ZDI）提交的多份新的 Linux 内核漏洞报告被发布到了公开的 Linux 内核邮件列表（LKML）中。截至IT之家发稿，部分问题尚未合入 Linux 主线内核，已有修复方案处于测试或候选分支中。 此次涉及的漏洞分布在 Linux 内核多个子系统，影响范围包括网络通信、文件共享、虚拟化图形驱动和存储服务等。其中，SMB Direct 相关漏洞 ZDI-CAN-33549 与 KSMBD 相关漏洞 ZDI-CAN-33774 的 CVSS 评分均为 9.0，存在导致远程代码执行的风险。 另一项漏洞 ZDI-CAN-33367 涉及网络代码中的 skb_zerocopy，可能被用于本地权限提升。报告称，内核开发者此前已从其他渠道收到关于该问题的安全报告，预计很快会提交修…</p>
 <p><b>2 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.ithome.com/1/016/143.htm">IT之家</a> — 请立即更新：Node.js 发布最高严重级别高危安全更新</li>
-<li><a href="https://news-web.php.net/php.announce/509">Hacker News Best</a> — Upcoming critical PHP security release (CVE-2026-109618 / -109619)</li>
+<li><a href="https://www.ithome.com/1/016/705.htm">IT之家</a> — 多个 Linux 内核漏洞被误公开，部分漏洞 CVSS 评分达 9.0</li>
+<li><a href="https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities">Hacker News 首页</a> — Several Linux kernel vulnerabilities accidentally posted to public mailing list</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>被迫下场，Anthropic 推出个人 AI 助理 Claude Duet</title>
+      <link>http://www.geekpark.net/news/372740</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372740</guid>
+      <category>科技前沿</category>
+      <pubDate>Thu, 22 Oct 2026 07:23:08 GMT</pubDate>
+      <description><![CDATA[<p>作者｜桦林舞王 编辑｜靖宇 用过各种 AI 助手的人大概都有过同一种疲劳：你不开口，它就装死；你一旦开口，它又把所有选择抛回给你。 过去两个多月，硅谷巨头们几乎排着队想打破这种被动状态。8 月 xAI 推出能多智能体分工的 Grok Bot，9 月 Meta 带着能在 WhatsApp 里帮人砍账单的 Muse 席卷千万用户，紧接着 OpenAI 在开发者大会上发布 Dots。行业似乎达成了一个默契：聊天框该翻篇了，AI 应该自己找事做。 美国时间 10 月 21 日，Anthropic 终于拿出了自己的答案：Claude Duet。 Claude Duet 的早报界面｜图片来源：Anthropic 这是四家里最晚亮相的一个，也是最「奇怪」的一个。在所有人都急着证明自家 AI 无所不能的时候，Anthropic 像个严肃过头的管家，不仅是唯一主动承认「订票这类生活杂事我们做得没那么好」的厂…</p>
+<p><b>2 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="http://www.geekpark.net/news/372740">极客公园</a> — 被迫下场，Anthropic 推出个人 AI 助理 Claude Duet</li>
+<li><a href="http://www.geekpark.net/news/372461">极客公园</a> — 为什么 Anthropic 不做 Personal AI</li>
+<li><a href="https://www.36kr.com/p/4035658058126464">36Kr 热榜</a> — 不建议跟风Personal Agent</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>苹果新发布会官宣：iPad mini 终于配「高刷」，MacBook 要能「上手」了</title>
+      <link>https://www.ifanr.com/1684978?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ifanr.com%2F1684978%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3D</guid>
+      <category>科技前沿</category>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 GMT</pubDate>
+      <description><![CDATA[<p>苹果又双叒发邀请函了——这已经是两个月内，苹果开的第三场发布会了。 北京时间 10 月 29 日凌晨 1 点，苹果将在洛杉矶举行 10 月第二场新品发布活动，主题是「Pro and tell」（高端局，高手来）。 半个月前，苹果刚用一场「Welcome home.」更新了智能家居产品。这一次，聚光灯转向 Mac 和 iPad。 综合彭博社、分析师郭明錤及近期代码泄露的信息，触屏 MacBook Pro、新款 OLED iPad mini，以及搭载 M6 芯片的 iMac，将组成这场活动的主要阵容。 其中，最值得关注的，当然是苹果终于做出了「违背祖训」的决定，将 MacBook 的显示屏变成触屏—— 终于可以在同事的电脑上指点江山了！ 图｜Apple MacBook 的屏幕，终于能摸了 过去几年，MacBook Pro 的更新，大多围绕芯片展开。 Apple Silicon 带来了显著的性能…</p>
+<p><b>2 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.ifanr.com/1684978?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 苹果新发布会官宣：iPad mini 终于配「高刷」，MacBook 要能「上手」了</li>
+<li><a href="https://sspai.com/post/116923">少数派</a> — 前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>OpenAI 三个神秘模型曝光；DeepSeek 开放搜索与网页抓取 API；智界将获独立造车资格，公司计划上市 ｜ 极客早知道</title>
+      <link>http://www.geekpark.net/news/372514</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372514</guid>
+      <category>科技前沿</category>
+      <pubDate>Thu, 22 Oct 2026 06:05:21 GMT</pubDate>
+      <description><![CDATA[<p>OpenAI 三个神秘模型曝光 10 月 18 日，有开发者发现，OpenAI 的 API 模型列表中突然出现了三个陌生名字： aurora-red-alpha、aurora-green-alpha、aurora-blue-alpha。三个模型都以 Aurora（极光）命名，分别对应红、绿、蓝三种颜色。但相关条目很快便从模型列表中消失。 此次发现来自第三方维护的 OpenAI 模型列表镜像，并非官方公告。因此，这些模型究竟是什么、是否会正式发布，目前都还是未知数。 有网友推测，这些模型极有可能是 GPT-6 Astra 后续版本的内部检查点，专门对标 Fable 5.5 的强项，创意编码、长程 agent、视觉 / 3D。也有网友推测：三个模型对应 OpenAI 三个图像模型。（消息来源：机器之心） Anthropic 与法律专家讨论 AI Agent 谈判规则，未来可替用户砍价、处理纠纷…</p>
+<p><b>2 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="http://www.geekpark.net/news/372514">极客公园</a> — OpenAI 三个神秘模型曝光；DeepSeek 开放搜索与网页抓取 API；智界将获独立造车资格，公司计划上市 ｜ 极客早知道</li>
+<li><a href="https://www.zhihu.com/question/2096603053763846842">知乎热榜</a> — 如何评价SemiAnalysis认为DeepSeek与华为已形成共生关系？</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>PingCAP 遭大规模数据泄露！黑客声称窃取 10.6TB 数据，涉及 18 万条组织记录</title>
+      <link>https://www.infoq.cn/article/2KQlziFu7oBa9Q2ZEZyr?utm_source=rss&amp;utm_medium=article</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.infoq.cn%2Farticle%2F2KQlziFu7oBa9Q2ZEZyr%3Futm_source%3Drss%26utm_medium%3Darticle</guid>
+      <category>科技前沿</category>
+      <pubDate>Wed, 21 Oct 2026 14:52:56 GMT</pubDate>
+      <description><![CDATA[<p>点击查看原文&gt;</p>
+<p><b>2 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.infoq.cn/article/2KQlziFu7oBa9Q2ZEZyr?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — PingCAP 遭大规模数据泄露！黑客声称窃取 10.6TB 数据，涉及 18 万条组织记录</li>
+<li><a href="https://fulcrumsec.vg/pingcap/">Hacker News Best</a> — PingCap TiDB Leaks</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>曝高通启动全球裁员；上线 40 天，Muse 下载量突破 1000 万次；ChatGPT 上线幻灯片工具</title>
+      <link>http://www.geekpark.net/news/372650</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372650</guid>
+      <category>科技前沿</category>
+      <pubDate>Thu, 22 Oct 2026 09:10:03 GMT</pubDate>
+      <description><![CDATA[<p>DeepSeek 开源大规模云服务推理框架 10 月 20 日下午，DeepSeek 宣布，在此前开源一系列大模型、TileLang 编译工具及推理算子库的基础上，决定进一步将内部推理框架 DeepInfer 全面开源。 DeepSeek 称，基于 DeepInfer，已实现 DeepSeek V4.1 Flash 高吞吐、低延迟的大规模推理服务。未来，DeepSeek 新模型的推理代码及后续优化也将在此持续更新。 券有商分析师认为，开源模型与 Agent 工具链的持续完善，有望降低应用开发成本，推动 AICoding 向游戏开发、3D 内容制作、企业软件及自动化工作流等场景扩展，具备开发者入口和应用生态的平台有望优先受益。（来源：证券时报） 上线 40 天，Muse 下载量突破 1000 万 市场情报机构 Sensor Tower 的最新数据显示，Meta 的人工智能助手 Muse 自 …</p>
+<p><b>2 家媒体报道 · 重要度 5.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="http://www.geekpark.net/news/372650">极客公园</a> — 曝高通启动全球裁员；上线 40 天，Muse 下载量突破 1000 万次；ChatGPT 上线幻灯片工具</li>
+<li><a href="https://sspai.com/post/115437">少数派</a> — 把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等</title>
+      <link>https://sspai.com/post/116953</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fsspai.com%2Fpost%2F116953</guid>
+      <category>科技前沿</category>
+      <pubDate>Thu, 22 Oct 2026 00:29:05 GMT</pubDate>
+      <description><![CDATA[<p>OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。 查看全文</p>
+<p><b>2 家媒体报道 · 重要度 5.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://sspai.com/post/116953">少数派</a> — 派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等</li>
+<li><a href="https://github.com/google-pytorch/torch_tpu">Hacker News Best</a> — Google open-sources TorchTPU, a native PyTorch back end for TPUs</li>
 </ul>]]></description>
     </item>
     <item>
@@ -102,46 +192,48 @@
 </ul>]]></description>
     </item>
     <item>
-      <title>SpaceX 盘中暴涨 11% 市值超台积电：与特斯拉合并传闻 + 超预期业绩</title>
-      <link>https://www.ithome.com/1/016/135.htm</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F016%2F135.htm</guid>
+      <title>又一国产决策模型发布！准确率超过微软和Jev等决策模型</title>
+      <link>https://www.leiphone.com/category/industrynews/IshbO1ikAgjvB6G9.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.leiphone.com%2Fcategory%2Findustrynews%2FIshbO1ikAgjvB6G9.html</guid>
       <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 14:19:40 GMT</pubDate>
-      <description><![CDATA[<p>IT之家 10 月 21 日消息，今晚美股开盘后，SpaceX 股价上涨 11.18%，报 164.308 美元 / 股，总市值报 2.23 万亿美元 （IT之家注：现汇率约合 14.92 万亿元人民币） ， 超越台积电，位列美股总市值第六大上市公司 （前五分别为英伟达、苹果、AlphaBet、微软、亚马逊）。 IT之家注意到，SpaceX 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：145.75 亿美元 （IT之家注：现汇率约合 975.6 亿元人民币） ， 同比增长 161% ，环比增长 86.52% 毛利润 ：90.97 亿美元 （现汇率约合 608.92 亿元人民币） ， 同比增长 216.86% 毛利率 ：62.42%， 同比增长 10.93 个百分点 归母净利润 ：44.04…</p>
-<p><b>2 家媒体报道 · 重要度 5.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.ithome.com/1/016/135.htm">IT之家</a> — SpaceX 盘中暴涨 11% 市值超台积电：与特斯拉合并传闻 + 超预期业绩</li>
-<li><a href="http://www.geekpark.net/news/372430">极客公园</a> — DeepSeek 出现服务故障，官方补偿 1 周 Token 消耗；库克：苹果智能月底在华发测试版；特斯拉、SpaceX 最快年底合并｜极客早知道</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>腾讯盯上了字节的摇钱树</title>
-      <link>http://www.geekpark.net/news/372435</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372435</guid>
-      <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 13:47:17 GMT</pubDate>
-      <description><![CDATA[<p>头图来源：Chatgpt 生成 短剧正在成为互联网行业最吸金的时长黑洞。 QuestMobile 数据显示，2026 年 7 月，红果短剧日活达到 1.68 亿，超过腾讯视频、爱奇艺、优酷、芒果 TV 四大长视频平台的日活总和，用户人均单日刷剧时长达到 125 分钟，甚至一度超过抖音主站同期的人均使用时长。 而据第三方监测数据，到 10 月其日活规模已攀升至 2.2 亿上下，半年时间净增超 5000 万，增速依然没有放缓的迹象。 从三年前上线，到如今字节跳动旗下实打实的现金牛，红果短剧把免费广告（IAA）短剧的商业模式彻底跑通，也成了字节拉动用户时长的核心引擎。 腾讯不是没做短剧，但在红果一路狂奔的同时，前者的短剧布局却始终慢了半拍。此前在 2021 年，腾讯就上线了十分剧场主打精品横屏短剧，走会员分账路线；微信生态里也先后试过火星短剧社、官方短剧小程序，但始终是小范围试水，没有形成规模化…</p>
+      <pubDate>Thu, 22 Oct 2026 19:16:58 GMT</pubDate>
+      <description><![CDATA[<p>10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。该模型专为快速决策打造，在处理结构化决策任务时，具备准确率更高、响应更快、Token成本更低等优势，尤其适合产业AI场景。LingDT-Decision-1.0提供4B和27B两个版本，目前，模型已经在蚂蚁数科 DTMaaS 平台上线，开发者可限时免费体验。 蚂蚁数科团队在客服、风控、金融等真实业务场景测试显示，在处理同样任务时，LingDT-Decision-1.0相比于大语言模型，可将Token消耗降低超90%，响应时效提升10倍，并且性能表现更优。 相比于其他决策模型，LingDT-Decision-1.0首创支持原生多选与按序决策能力，更适配企业真实应用场景。在23项开源评测基准中，LingDT-Decision-1.0的综合评分超过了Microsoft-Decision-1、Jev 1.13.等热门决…</p>
 <p><b>2 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="http://www.geekpark.net/news/372435">极客公园</a> — 腾讯盯上了字节的摇钱树</li>
-<li><a href="https://www.huxiu.com/article/4899379.html">虎嗅</a> — 红果与绿泡泡之争，腾讯这次能赢吗？</li>
+<li><a href="https://www.leiphone.com/category/industrynews/IshbO1ikAgjvB6G9.html">雷锋网</a> — 又一国产决策模型发布！准确率超过微软和Jev等决策模型</li>
+<li><a href="https://www.infoq.cn/article/wyGrRsTrfHM7i9MhuV5P?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — 又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>Eight Bits of Trust; eMudhra&apos;s CA keys cracked in milliseconds</title>
-      <link>https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fscotthelme.co.uk%2Feight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds%2F</guid>
+      <title>极米记得 AI 记忆手环 L1 上架：两种形态自由切换，全天候 AI 录音</title>
+      <link>https://www.ithome.com/1/016/753.htm</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F016%2F753.htm</guid>
       <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 09:08:08 GMT</pubDate>
-      <description><![CDATA[<p>Article URL: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/ Comments URL: https://news.ycombinator.com/item?id=50177916 Points: 621 # Comments: 272</p>
+      <pubDate>Thu, 22 Oct 2026 15:48:13 GMT</pubDate>
+      <description><![CDATA[<p>IT之家 10 月 22 日消息，极米记得 AI 记忆手环 L1 今日上架，提供黑色、米色配色，售价信息暂未公布。 据介绍，该产品支持两种形态自由切换，腕上是手环，胸前是吊坠；全天候 AI 录音，所有记忆，自动记录并整理；基于你个人记忆的 AI 对话，发生过的事它都知道；自动整理纪要、待办，到点轻轻提醒，无需刻意记录；原始音频用完即删，记忆加密存于手机；综合续航 2-5 天，短途差旅无需补电。 IT之家注意到，极米记得 AI 记忆眼镜 G1 也在今日上架，在功能上与这款 AI 记忆手环相近， 均支持全天候 AI 录音、自动整理纪要等功能 。</p>
 <p><b>2 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/">Hacker News Best</a> — Eight Bits of Trust; eMudhra&apos;s CA keys cracked in milliseconds</li>
-<li><a href="https://emudhra.we-have-a-problem.com/">Hacker News Best</a> — eMudhra intermediate CA compromise</li>
-<li><a href="https://www.zhihu.com/question/2096267545154172328">知乎热榜</a> — 印度 CA 机构 eMudhra 私钥存严重缺陷遭各大厂商阻断，将带来哪些影响？</li>
+<li><a href="https://www.ithome.com/1/016/753.htm">IT之家</a> — 极米记得 AI 记忆手环 L1 上架：两种形态自由切换，全天候 AI 录音</li>
+<li><a href="https://www.ithome.com/1/016/723.htm">IT之家</a> — 极米记得 AI 记忆眼镜 G1 上架：轻至 17.9g，自动整理纪要</li>
+<li><a href="http://www.geekpark.net/news/372428">极客公园</a> — 手机大厂开始做穿戴录音，卷的已经不是转写：OPPO 心力球体验</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>eMudhra to exit global SSL/TLS certificate business</title>
+      <link>https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Femudhra.com%2Fen%2Fpress-release%2Femudhra-to-exit-global-ssl-tls-certificate-business</guid>
+      <category>科技前沿</category>
+      <pubDate>Thu, 22 Oct 2026 13:33:39 GMT</pubDate>
+      <description><![CDATA[<p>Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 605 # Comments: 459</p>
+<p><b>2 家媒体报道 · 重要度 5.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business">Hacker News 首页</a> — eMudhra to exit global SSL/TLS certificate business</li>
+<li><a href="https://nvd.nist.gov/vuln/detail/cve-2026-111943">Hacker News Best</a> — CVE-2026-111943: Compromised Intermediate Certificate Authority</li>
+<li><a href="https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b">Hacker News Best</a> — mitmproxy adds --emudhra option</li>
+<li><a href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/">Hacker News Best</a> — Eight Bits of Trust: eMudhra&apos;s CA keys cracked in milliseconds</li>
 </ul>]]></description>
     </item>
     <item>
@@ -149,13 +241,27 @@
       <link>http://www.geekpark.net/news/372612</link>
       <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372612</guid>
       <category>科技前沿</category>
-      <pubDate>Tue, 20 Oct 2026 05:46:53 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 23:51:16 GMT</pubDate>
       <description><![CDATA[<p>2025 年，Lovart 作为全球首款设计 Agent 开始出现在各大设计师社区。第一次用 AI 能力把整个设计流程串联起来。从最初的设计思路、到最终图片或视频的设计物料，终于被完整的放到一块画布上完成。 随着在生成能力和指令遵循程度上的进步，AI 越发能够满足人们现实世界的真实需求，muse 此时带起关于 personal agent 的讨论显得恰逢其时。AI 在能力上已经具备了可观的解决问题的能力，下一步就是如何个性化的解决「我」的问题，以及更主动的解决问题。 放到设计里，Personal Agent 带来了一些新的想象力。比如一套物料做完，下一个项目还会来。设计师喜欢什么配色、哪些版式已被否过，总不能每次开工都重新交代，那它能否持续性的理解设计师的风格变化？又或者设计前期调研、每周做一批物料这些日常的重复性工作，能不能也交代一次，让 AI 往后按时做？ 这些事决定了，眼下 AI 能…</p>
 <p><b>2 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
 <li><a href="http://www.geekpark.net/news/372612">极客公园</a> — 设计师的第一个 Personal Agent，可能就是 Lovart 2.0 的 Arti 了</li>
-<li><a href="https://www.ifanr.com/1684840?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 实测 Lovart 2.0 ，设计 AI 进入个人助理时代</li>
+<li><a href="https://www.36kr.com/p/4036270014927749">36Kr 热榜</a> — 刚刚，Claude个人智能体空降，主动找你汇报，突袭Muse和Dot</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月</title>
+      <link>https://www.qbitai.com/2026/10/504730.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.qbitai.com%2F2026%2F10%2F504730.html</guid>
+      <category>科技前沿</category>
+      <pubDate>Wed, 21 Oct 2026 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p>10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播</p>
+<p><b>2 家媒体报道 · 重要度 5.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.qbitai.com/2026/10/504730.html">量子位</a> — 生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月</li>
+<li><a href="https://www.leiphone.com/category/industrynews/kgEaqVuNRRnvxpfp.html">雷锋网</a> — 生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月</li>
 </ul>]]></description>
     </item>
     <item>
@@ -173,69 +279,150 @@
 </ul>]]></description>
     </item>
     <item>
-      <title>RSI三块关键拼图，MemT 1.0从模型层补上「记忆」</title>
-      <link>https://www.qbitai.com/2026/10/504456.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.qbitai.com%2F2026%2F10%2F504456.html</guid>
+      <title>黑石集团总裁反驳 AI 泡沫论，称需求呈“抛物线式”增长</title>
+      <link>https://www.ithome.com/1/016/752.htm</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F016%2F752.htm</guid>
       <category>科技前沿</category>
-      <pubDate>Tue, 20 Oct 2026 12:50:34 GMT</pubDate>
-      <description><![CDATA[<p>把记忆原生焊进Transformer</p>
+      <pubDate>Thu, 22 Oct 2026 15:38:11 GMT</pubDate>
+      <description><![CDATA[<p>IT之家 10 月 22 日消息，据彭博社今日消息，黑石集团总裁乔恩 · 格雷（Jon Gray）发话，反驳亿万富豪肯 · 格里芬前几天关于 AI 存在泡沫的说法。 格雷表示：“说到泡沫，你想到的是先建设产能，然后期待需求出现。但在人工智能领域，你是在建设产能，同时希望自己能够跟得上需求。” IT之家注意到，这名总裁还认为， 如今人工智能的需求，与上世纪 90 年代电信泡沫等现象是“截然不同的局面” 。他提到黑石与 Anthropic 共同成立的 AI 咨询公司 Ode 时表示：“我们根本跟不上客户需求，这些需求近乎呈抛物线式增长。”</p>
 <p><b>2 家媒体报道 · 重要度 4.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.qbitai.com/2026/10/504456.html">量子位</a> — RSI三块关键拼图，MemT 1.0从模型层补上「记忆」</li>
+<li><a href="https://www.ithome.com/1/016/752.htm">IT之家</a> — 黑石集团总裁反驳 AI 泡沫论，称需求呈“抛物线式”增长</li>
+<li><a href="https://www.infoq.cn/article/GVcxHscrQqv9HXGRowJh?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — 推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>Flowtica Rian：硬件的旧规律没变，新机会是做好Memory丨未来创新50人</title>
+      <link>https://www.leiphone.com/category/weiwu/Sni49oUOM9rbTR7h.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.leiphone.com%2Fcategory%2Fweiwu%2FSni49oUOM9rbTR7h.html</guid>
+      <category>科技前沿</category>
+      <pubDate>Thu, 22 Oct 2026 09:31:00 GMT</pubDate>
+      <description><![CDATA[<p>大疆想收编的云台团队，十年做了四个硬件品类，现在押注 AI Memory。 作者 丨 吴优 编辑丨董子博 Plaud 爆火之后，国内一家叫 Flowtica 的公司也在短时间内闯入大众视野，去年上半年在 Kickstarter 平台上发布了世界首款 AI 笔 Flowtica Scribe，最终筹得 33 万美金。这支笔仅重 34.5 克笔，配备录音室级 MEMS 麦克风、280mAh 电池、最长约 30 小时连续录音，把记录、转写、摘要一体化。 鲜为人知的是，Flowtica 的创始团队并非从零起步。创始人 Rian 此前有超过十年的硬件创业经历，从手持云台到农业分拣机器人。这支团队在机器视觉和边缘 AI 上攒下的工程家底，现在要全部压在 Agent 原生硬件这条新赛道上 ，Flowtica 就是他们交出来的答卷。 和去年 VC 偏爱的“大疆系”画像略有不同，Rian 并非从大疆离职创业…</p>
+<p><b>2 家媒体报道 · 重要度 4.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.leiphone.com/category/weiwu/Sni49oUOM9rbTR7h.html">雷锋网</a> — Flowtica Rian：硬件的旧规律没变，新机会是做好Memory丨未来创新50人</li>
+<li><a href="https://www.leiphone.com/category/ai/jvyFCFgqJxJtOvjo.html">雷锋网</a> — 具身记忆赛道持续升温，长记忆迎来新 SOTA</li>
 <li><a href="https://www.ifanr.com/1684997?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 押注记忆原生，MemT 1.0 破局养成系 AI 下半场</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>谷歌 CEO 桑达尔 · 皮查伊：公司正牺牲云业务短期收入支持前沿 AI 研发，2027 年算力难以锁定</title>
-      <link>https://www.ithome.com/1/016/137.htm</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F016%2F137.htm</guid>
+      <title>DeepSeek 新模型登顶开源模型榜首；国内 55% 算力用于视频和短剧？豆包发言人辟谣；微信发起公众号小说改编微短剧激励｜极客早知道</title>
+      <link>http://www.geekpark.net/news/372568</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372568</guid>
       <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 14:31:01 GMT</pubDate>
-      <description><![CDATA[<p>IT之家 10 月 21 日消息，谷歌首席执行官桑达尔 · 皮查伊今日表示，公司正将部分算力从云业务转向前沿 AI 研发，以全力支持前沿 AI 发展。 对谷歌而言，开发前沿 AI 成本高昂，需要耗费大量计算资源和芯片，但这些资源原本可以拿给云业务高价出售。皮查伊对此表示，将资源投入前沿人工智能研发是谷歌的“根本所在”。 这名 CEO 还表示，若客户目前寻求锁定 2027 年算力，将面临极大困难，原因包括数据中心从决策到投运需两至三年，以及智能体任务需求激增。他解释称：“我们的云业务在任何特定时刻都能放弃短期收入，因为我们正做出计算方面的权衡，以支持前沿 AI 发展。”</p>
+      <pubDate>Tue, 20 Oct 2026 01:01:44 GMT</pubDate>
+      <description><![CDATA[<p>DeepSeek 新模型登顶 Code Arena WebDev 开源模型榜首 10 月 19 日，AI 模型评测平台 Arena 宣布，DeepSeek-V4.1-Flash-1017（Max）超过 Kimi K3（Max），成为 Code Arena: WebDev 榜单排名最高的开源模型。 截至目前，DeepSeek-V4.1-Flash-1017 在该榜单上得分为 1670 分，超过了Kimi K3（Max）、Mimo-V2.6 Flash等开源模型，也超过了Muse Spark 1.3（Max）、Claude Opus 5（High）、Grok 4.7（xHigh）等闭源模型，仅落后 GPT-6 Sol（Max）12 分。 该模型于 10 月 17 日推出，在软件工程能力 DeepSWE v1.1 测试中，其得分超GPT-6 Astra、GPT-6.1 Sol、Claude Op…</p>
 <p><b>1 家媒体报道 · 重要度 8.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.ithome.com/1/016/137.htm">IT之家</a> — 谷歌 CEO 桑达尔 · 皮查伊：公司正牺牲云业务短期收入支持前沿 AI 研发，2027 年算力难以锁定</li>
+<li><a href="http://www.geekpark.net/news/372568">极客公园</a> — DeepSeek 新模型登顶开源模型榜首；国内 55% 算力用于视频和短剧？豆包发言人辟谣；微信发起公众号小说改编微短剧激励｜极客早知道</li>
+<li><a href="http://www.geekpark.net/news/372512">极客公园</a> — DeepSeek 新模型上线，价格更低能力更强；传华为将推新品牌「星芒」主打性价比；天文学家发现第一颗绿色恒星｜极客早知道</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>马斯克正在下一盘大棋</title>
-      <link>https://www.huxiu.com/article/4899373.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.huxiu.com%2Farticle%2F4899373.html</guid>
+      <title>欧洲乱成一锅粥</title>
+      <link>https://www.huxiu.com/article/4899693.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.huxiu.com%2Farticle%2F4899693.html</guid>
       <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 13:23:18 GMT</pubDate>
-      <description><![CDATA[<p>SpaceX交出一份很难再用&quot;火箭公司&quot;概括的成绩单：第三季度，SpaceX营收146亿美元，同比增长161%，净利润44亿美元，超出分析师平均预期逾一倍。财报电话会上，马斯克确认：SpaceX和特斯拉已分别成立由独立董事组成的特别委员会，讨论可能的合并。两家公司合并估值约3.5万亿美元。马斯克先说自己是在&quot;...... 本文来自微信公众号： 华尔街见闻 ， SpaceX交出一份很难再用&quot;火箭公司&quot;概括的成绩单：第三季度，SpaceX营收146亿美元，同比增长161%，净利润44亿美元，超出分析师平均预期逾一倍。 财报电话会上，马斯克确认：SpaceX和特斯拉已分别成立由独立董事组成的特别委员会，讨论可能的合并。两家公司合并估值约3.5万亿美元。 马斯克先说自己是在&quot;雷区里跳踢踏舞&quot;。几秒之后还是给了答案，合并&quot;有很多好处&quot;。Deepwater Asset Management的Gene …</p>
-<p><b>1 家媒体报道 · 重要度 8.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.huxiu.com/article/4899373.html">虎嗅</a> — 马斯克正在下一盘大棋</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>DeepSeek开源最新推理框架：单集群日吞吐155万亿Token，KVCache可保存7天</title>
-      <link>https://www.infoq.cn/article/NBXP966Bz3eqr6Qidvaf?utm_source=rss&amp;utm_medium=article</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.infoq.cn%2Farticle%2FNBXP966Bz3eqr6Qidvaf%3Futm_source%3Drss%26utm_medium%3Darticle</guid>
-      <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 12:06:48 GMT</pubDate>
-      <description><![CDATA[<p>点击查看原文&gt;</p>
-<p><b>1 家媒体报道 · 重要度 8.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.infoq.cn/article/NBXP966Bz3eqr6Qidvaf?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — DeepSeek开源最新推理框架：单集群日吞吐155万亿Token，KVCache可保存7天</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线</title>
-      <link>http://www.geekpark.net/news/372304</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372304</guid>
-      <category>科技前沿</category>
-      <pubDate>Wed, 14 Oct 2026 00:28:51 GMT</pubDate>
-      <description><![CDATA[<p>谷歌最强 AI 模型：Gemini 4 Argon 上线，输出词元上限 100 万个、专攻最棘手难题 10 月 14 日消息， Gemini 4 Argon 现已面向全球开发者和企业开放，可通过 AI Studio、 Gemini 平台 API 使用，同时支持 Google Antigravity 的 Google AI Ultra 订阅用户，以及 Gemini 应用和搜索 AI 模式的 Google AI Ultra 和 Pro 订阅用户。 该模型目前限时入门定价如下，2026 年 11 月 30 日入门促销结束后价格会翻倍： 输入：每百万 Tokens 2 美元 输出：每百万 Tokens 10 美元 缓存输入：每百万 Tokens 0.1 美元 Gemini 4 Argon 擅长在编码、金融、法律、网络安全、科学等领域处理复杂的现实任务，在多步骤任务上的深度和精度使其在多个领域基准测…</p>
+      <pubDate>Thu, 22 Oct 2026 12:31:24 GMT</pubDate>
+      <description><![CDATA[<p>2026年10月的第三个周末，欧洲大陆同时燃起了不止一处火光。法国巴黎、里昂、马赛等城市，出现街头骚乱，部分演变为打砸抢烧，约3000家商铺受损，超2000人被捕，近千名执法人员受伤；意大利米兰、都灵、博洛尼亚也出现投掷石块、点燃垃圾桶、破坏商铺等行为，政府批准治安法令并向米兰增派500名军人；葡萄牙里斯本、...... 本文来自微信公众号： 格隆 ， 2026年10月的第三个周末，欧洲大陆同时燃起了不止一处火光。 法国巴黎、里昂、马赛等城市，出现街头骚乱，部分演变为打砸抢烧，约3000家商铺受损，超2000人被捕，近千名执法人员受伤； 意大利米兰、都灵、博洛尼亚也出现投掷石块、点燃垃圾桶、破坏商铺等行为，政府批准治安法令并向米兰增派500名军人； 葡萄牙里斯本、波尔图等城市，人们因为住房、燃油等生活成本上涨而上街，警方清理帐篷营地并逮捕部分示威者。 比利时布鲁塞尔、列日反紧缩、反教育削减…</p>
 <p><b>1 家媒体报道 · 重要度 8.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="http://www.geekpark.net/news/372304">极客公园</a> — 超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线</li>
+<li><a href="https://www.huxiu.com/article/4899693.html">虎嗅</a> — 欧洲乱成一锅粥</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>2027年，不让通用模型控制机器人，不算前沿AI</title>
+      <link>https://www.huxiu.com/article/4899714.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.huxiu.com%2Farticle%2F4899714.html</guid>
+      <category>科技前沿</category>
+      <pubDate>Thu, 22 Oct 2026 13:15:19 GMT</pubDate>
+      <description><![CDATA[<p>具身智能不再是闭门自嗨的游戏。如果物理AI是通往前沿的必经之路，那么，OpenAI、Anthropic与谷歌都会试图从上面碾过去。DeepSeek正在布局，也不是什么秘密。（GTC2026柏林）近期，奥特曼承认，OpenAI会造一个人形机器人，明年有一个很酷的演示。昨日，黄仁勋在柏林GTC现场宣布，正与Agi...... 本文来自微信公众号： 未尽研究 ， 具身智能不再是闭门自嗨的游戏。如果物理AI是通往前沿的必经之路，那么，OpenAI、Anthropic与谷歌都会试图从上面碾过去。DeepSeek正在布局，也不是什么秘密。 （GTC2026柏林） 近期，奥特曼承认，OpenAI会造一个人形机器人，明年有一个很酷的演示。昨日，黄仁勋在柏林GTC现场宣布，正与Agile Robot合作发布一款机器人，明年一季度发布，给行业打个样。前者侧重应用，后者瞄准平台，都在暗示2027年是具身智能的关…</p>
+<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.huxiu.com/article/4899714.html">虎嗅</a> — 2027年，不让通用模型控制机器人，不算前沿AI</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>日志不再说谎：它开始不存在了——潜空间推理时代的AI安全账</title>
+      <link>https://www.huxiu.com/article/4899704.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.huxiu.com%2Farticle%2F4899704.html</guid>
+      <category>科技前沿</category>
+      <pubDate>Thu, 22 Oct 2026 12:57:33 GMT</pubDate>
+      <description><![CDATA[<p>一、由头思考这件事，三年搬了三次家。GPT-4时代，模型的思考写在文本里——思维链（CoT），一步一步，白纸黑字，谁都能看。审计员核对一个模型有没有好好想事，读的就是这些字。o3时代，思考开始半遮面：隐藏思维链。模型照样想，但只给你一份摘要，原文锁进抽屉。官方口径是防蒸馏、安全合规与用户体验——效率与安全的取...... 本文来自微信公众号： 穷奇商业 ， ，原文标题：《日志不再说谎：它开始不存在了——潜空间推理时代的AI安全账》 一、由头 思考这件事，三年搬了三次家。 GPT-4时代，模型的思考写在文本里——思维链（CoT），一步一步，白纸黑字，谁都能看。审计员核对一个模型有没有好好想事，读的就是这些字。 o3时代，思考开始半遮面：隐藏思维链。模型照样想，但只给你一份摘要，原文锁进抽屉。官方口径是防蒸馏、安全合规与用户体验——效率与安全的取舍，第一次压到了可观测性头上。 现在，第三帧来了…</p>
+<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.huxiu.com/article/4899704.html">虎嗅</a> — 日志不再说谎：它开始不存在了——潜空间推理时代的AI安全账</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>诺奖得主Hassabis改口：AGI最快2年内降临</title>
+      <link>https://www.huxiu.com/article/4899699.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.huxiu.com%2Farticle%2F4899699.html</guid>
+      <category>科技前沿</category>
+      <pubDate>Thu, 22 Oct 2026 12:42:50 GMT</pubDate>
+      <description><![CDATA[<p>刚刚，哈萨比斯重磅预判：AGI很快就会到来。就在未来2到3年内。在人才辈出的AI圈，哈萨比斯向来是公认的「谨慎的保守派」。但正是这位最稳重的「守门人」，在接受《华尔街日报》深度专访时，说出了这句惊人的预判。时间线疯狂坍缩：18个月内的「三次改口」如果你复盘一下哈萨比斯过去对AGI时间线的预测，会发现一条令人背...... 本文来自微信公众号： 新智元 ， ， ，原文标题：《诺奖得主Hassabis改口：AGI最快2年内降临！》 刚刚，哈萨比斯重磅预判： AGI很快就会到来。就在未来2到3年内。 在人才辈出的AI圈，哈萨比斯向来是公认的「谨慎的保守派」。 但正是这位最稳重的「守门人」，在接受《华尔街日报》深度专访时，说出了这句惊人的预判。 时间线疯狂坍缩：18个月内的「三次改口」 如果你复盘一下哈萨比斯过去对AGI时间线的预测，会发现一条令人背脊发凉的「预期坍缩曲线」。 在短短不到两年的时间…</p>
+<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.huxiu.com/article/4899699.html">虎嗅</a> — 诺奖得主Hassabis改口：AGI最快2年内降临</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>谁在给OpenAI供应具身数据？</title>
+      <link>https://www.qbitai.com/2026/10/504800.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.qbitai.com%2F2026%2F10%2F504800.html</guid>
+      <category>科技前沿</category>
+      <pubDate>Thu, 22 Oct 2026 07:05:59 GMT</pubDate>
+      <description><![CDATA[<p>挤进全球Physical AI核心供应链</p>
+<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.qbitai.com/2026/10/504800.html">量子位</a> — 谁在给OpenAI供应具身数据？</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>Mistral Large 4</title>
+      <link>https://mistral.ai/news/mistral-large-4/</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fmistral.ai%2Fnews%2Fmistral-large-4%2F</guid>
+      <category>科技前沿</category>
+      <pubDate>Wed, 21 Oct 2026 19:20:55 GMT</pubDate>
+      <description><![CDATA[<p>https://docs.mistral.ai/models/mistral-large-4-0 Comments URL: https://news.ycombinator.com/item?id=50186129 Points: 322 # Comments: 102</p>
+<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://mistral.ai/news/mistral-large-4/">Hacker News Best</a> — Mistral Large 4</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>Claude Duet</title>
+      <link>https://claude.com/product/claude-duet</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fclaude.com%2Fproduct%2Fclaude-duet</guid>
+      <category>科技前沿</category>
+      <pubDate>Wed, 21 Oct 2026 19:14:01 GMT</pubDate>
+      <description><![CDATA[<p>Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 523 # Comments: 482</p>
+<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://claude.com/product/claude-duet">Hacker News 首页</a> — Claude Duet</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>EA is shutting down BioWare</title>
+      <link>https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.theverge.com%2Fgames%2F1015647%2Fea-is-shutting-down-bioware</guid>
+      <category>科技前沿</category>
+      <pubDate>Wed, 21 Oct 2026 17:29:33 GMT</pubDate>
+      <description><![CDATA[<p>Article URL: https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware Comments URL: https://news.ycombinator.com/item?id=50184586 Points: 663 # Comments: 439</p>
+<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware">Hacker News Best</a> — EA is shutting down BioWare</li>
 </ul>]]></description>
     </item>
     <item>
@@ -252,159 +439,42 @@
 </ul>]]></description>
     </item>
     <item>
-      <title>PingCAP 遭大规模数据泄露！黑客声称窃取 10.6TB 数据，涉及 18 万条组织记录</title>
-      <link>https://www.infoq.cn/article/2KQlziFu7oBa9Q2ZEZyr?utm_source=rss&amp;utm_medium=article</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.infoq.cn%2Farticle%2F2KQlziFu7oBa9Q2ZEZyr%3Futm_source%3Drss%26utm_medium%3Darticle</guid>
+      <title>Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor</title>
+      <link>https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fsafedep.io%2Flitellm-pypi-compromise-credential-stealer-backdoor%2F</guid>
       <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 14:52:56 GMT</pubDate>
-      <description><![CDATA[<p>点击查看原文&gt;</p>
+      <pubDate>Wed, 21 Oct 2026 14:00:26 GMT</pubDate>
+      <description><![CDATA[<p>Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Comments URL: https://news.ycombinator.com/item?id=50181114 Points: 582 # Comments: 189</p>
 <p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.infoq.cn/article/2KQlziFu7oBa9Q2ZEZyr?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — PingCAP 遭大规模数据泄露！黑客声称窃取 10.6TB 数据，涉及 18 万条组织记录</li>
+<li><a href="https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/">Hacker News 首页</a> — Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>黄仁勋发布 AI“预制工厂”DSX POD：最快 14 天部署投产，英伟达计划 2027 年初全球交付</title>
-      <link>https://www.ithome.com/1/016/138.htm</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F016%2F138.htm</guid>
+      <title>OpenAI models are coming to Google Cloud</title>
+      <link>https://openai.com/index/openai-models-google-cloud/</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fopenai.com%2Findex%2Fopenai-models-google-cloud%2F</guid>
       <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 14:36:19 GMT</pubDate>
-      <description><![CDATA[<p>IT之家 10 月 21 日消息，英伟达 CEO 黄仁勋今日在德国柏林举行的 GTC 大会上宣布推出模块化 AI 工厂参考设计 DSX POD，面向以 Vera Rubin 平台为核心的完整 AI 工厂系统。 英伟达表示，该方案将计算、网络、布线、机架供电、液冷管路安装及功能验证等工作提前转移至工厂完成，计划于 2027 年初通过合作伙伴在全球交付。 DSX POD 的核心思路是将 AI 基础设施预先集成到“模块化集装箱”中，并在发货前完成系统集成与验证。设备抵达部署现场后，客户只需将其接入已经准备就绪的电力、冷却、网络等配套设施，即可开展后续部署。 英伟达称，这种方式能够减少传统数据中心建设过程中复杂的现场施工、专业人员协调和物流工作，并降低现场安装错误及零部件交付延误带来的影响。 英伟达表示，在部署场地及配套基础设施已经准备就绪的情况下，DSX POD 可将基础设施部署周期从传统方式的…</p>
+      <pubDate>Wed, 21 Oct 2026 12:53:11 GMT</pubDate>
+      <description><![CDATA[<p>Article URL: https://openai.com/index/openai-models-google-cloud/ Comments URL: https://news.ycombinator.com/item?id=50180079 Points: 316 # Comments: 139</p>
 <p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.ithome.com/1/016/138.htm">IT之家</a> — 黄仁勋发布 AI“预制工厂”DSX POD：最快 14 天部署投产，英伟达计划 2027 年初全球交付</li>
+<li><a href="https://openai.com/index/openai-models-google-cloud/">Hacker News Best</a> — OpenAI models are coming to Google Cloud</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>OpenAI 联手 PerturbAI：让近 2000 个 AI 智能体一起搞科研，加速新药研发</title>
-      <link>https://www.ithome.com/1/016/134.htm</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F016%2F134.htm</guid>
+      <title>Security advisory: Critical remote code execution vulnerabilities, update now</title>
+      <link>https://www.php.net/archive/2026.php#2026-10-21-5</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.php.net%2Farchive%2F2026.php%232026-10-21-5</guid>
       <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 14:16:44 GMT</pubDate>
-      <description><![CDATA[<p>北京时间 10 月 21 日，生物技术公司 PerturbAI 宣布与 OpenAI 合作的最新进展。双方联合斯克里普斯研究所（Scripps Research）开发了一套 AI 推理框架，通过近 2000 个 AI 智能体并行工作，帮助科学家分析复杂生物实验数据、检索文献，并提出可供后续实验检验的假说。 据 PerturbAI 介绍，这套系统在分析其全脑基因组图谱时，用 32 分钟完成数据分析与研究发现整合。公司估计，如果由人类按串行方式开展分析和文献审阅，相关工作可能需要数月至一年。这一时间对比来自公司估算，并非与人类团队开展的同期对照测试。 在具体流程中，AI 智能体分别分析细胞反应、搜索科学文献，将实验结果与已有生物学知识联系起来，再汇总形成“推理图谱”，串联基因、细胞反应、既有研究及可能的生物学机制，为科学家提供进一步调查的线索。 研究团队还邀请生物学专家，从新颖性、证据支持程度…</p>
+      <pubDate>Tue, 20 Oct 2026 20:15:50 GMT</pubDate>
+      <description><![CDATA[<p>https://cert.europa.eu/publications/security-advisories/2026... https://news.ycombinator.com/item?id=50167754 Comments URL: https://news.ycombinator.com/item?id=50172041 Points: 1539 # Comments: 656</p>
 <p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.ithome.com/1/016/134.htm">IT之家</a> — OpenAI 联手 PerturbAI：让近 2000 个 AI 智能体一起搞科研，加速新药研发</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>观察｜AI写的代码，人类来不及审：英伟达1.2万行代码优化Kimi K3，另开新战场？</title>
-      <link>https://www.huxiu.com/article/4899364.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.huxiu.com%2Farticle%2F4899364.html</guid>
-      <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 13:04:49 GMT</pubDate>
-      <description><![CDATA[<p>2026年10月16日，vLLM官方博客发布了一篇技术复盘，标题很技术流：《Hyper Optimizing Kimi K3 in vLLM:Moving Fast and Responsibly》。署名作者是英伟达CentML的工程师Benjamin Chislett。他做了一件事：用一段1.2万行CuTe...... 本文来自微信公众号： 斯凯碎碎侃 ， ，原文标题：《观察｜AI写的代码，人类来不及审：英伟达1.2万行代码优化Kimi K3，另开新战场？》 2026年10月16日，vLLM官方博客发布了一篇技术复盘，标题很技术流：《Hyper Optimizing Kimi K3 in vLLM:Moving Fast and Responsibly》。 署名作者是英伟达CentML的工程师Benjamin Chislett。他做了一件事：用一段1.2万行CuTe DSL编写的Mega…</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.huxiu.com/article/4899364.html">虎嗅</a> — 观察｜AI写的代码，人类来不及审：英伟达1.2万行代码优化Kimi K3，另开新战场？</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>Anthropic几乎停招初级员工！占比一年半骤降33%：Agent工时已是员工6倍</title>
-      <link>https://www.infoq.cn/article/bTVDaYaUJy2OvNlyuHgz?utm_source=rss&amp;utm_medium=article</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.infoq.cn%2Farticle%2FbTVDaYaUJy2OvNlyuHgz%3Futm_source%3Drss%26utm_medium%3Darticle</guid>
-      <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 12:01:59 GMT</pubDate>
-      <description><![CDATA[<p>点击查看原文&gt;</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.infoq.cn/article/bTVDaYaUJy2OvNlyuHgz?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — Anthropic几乎停招初级员工！占比一年半骤降33%：Agent工时已是员工6倍</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>Voxtral 3</title>
-      <link>https://mistral.ai/news/voxtral-3/</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fmistral.ai%2Fnews%2Fvoxtral-3%2F</guid>
-      <category>科技前沿</category>
-      <pubDate>Tue, 20 Oct 2026 16:02:07 GMT</pubDate>
-      <description><![CDATA[<p>Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 749 # Comments: 194</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://mistral.ai/news/voxtral-3/">Hacker News Best</a> — Voxtral 3</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>Google Cloud outage affects almost all banking and other operations in Europe</title>
-      <link>https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.neowin.net%2Fnews%2Fgoogle-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more%2F</guid>
-      <category>科技前沿</category>
-      <pubDate>Tue, 20 Oct 2026 10:26:02 GMT</pubDate>
-      <description><![CDATA[<p>Article URL: https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/ Comments URL: https://news.ycombinator.com/item?id=50163961 Points: 396 # Comments: 203</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/">Hacker News Best</a> — Google Cloud outage affects almost all banking and other operations in Europe</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>AfD Leak: What 421,179 Hacked Emails Show about the German Far Right</title>
-      <link>https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.heistberlin.com%2Fnews%2Fafd-leak-what-421-179-hacked-emails-show-about-the-german-far-right%2F</guid>
-      <category>科技前沿</category>
-      <pubDate>Tue, 20 Oct 2026 09:35:40 GMT</pubDate>
-      <description><![CDATA[<p>Article URL: https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/ Comments URL: https://news.ycombinator.com/item?id=50163502 Points: 382 # Comments: 549</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/">Hacker News Best</a> — AfD Leak: What 421,179 Hacked Emails Show about the German Far Right</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>苹果新发布会官宣：iPad mini 终于配「高刷」，MacBook 要能「上手」了</title>
-      <link>https://www.ifanr.com/1684978?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ifanr.com%2F1684978%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3D</guid>
-      <category>科技前沿</category>
-      <pubDate>Tue, 20 Oct 2026 01:00:07 GMT</pubDate>
-      <description><![CDATA[<p>苹果又双叒发邀请函了——这已经是两个月内，苹果开的第三场发布会了。 北京时间 10 月 29 日凌晨 1 点，苹果将在洛杉矶举行 10 月第二场新品发布活动，主题是「Pro and tell」（高端局，高手来）。 半个月前，苹果刚用一场「Welcome home.」更新了智能家居产品。这一次，聚光灯转向 Mac 和 iPad。 综合彭博社、分析师郭明錤及近期代码泄露的信息，触屏 MacBook Pro、新款 OLED iPad mini，以及搭载 M6 芯片的 iMac，将组成这场活动的主要阵容。 其中，最值得关注的，当然是苹果终于做出了「违背祖训」的决定，将 MacBook 的显示屏变成触屏—— 终于可以在同事的电脑上指点江山了！ 图｜Apple MacBook 的屏幕，终于能摸了 过去几年，MacBook Pro 的更新，大多围绕芯片展开。 Apple Silicon 带来了显著的性能…</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.ifanr.com/1684978?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 苹果新发布会官宣：iPad mini 终于配「高刷」，MacBook 要能「上手」了</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>MiniMax M3.1 Flash</title>
-      <link>https://www.minimax.io/blog/minimax-m31f</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.minimax.io%2Fblog%2Fminimax-m31f</guid>
-      <category>科技前沿</category>
-      <pubDate>Mon, 19 Oct 2026 16:39:09 GMT</pubDate>
-      <description><![CDATA[<p>Article URL: https://www.minimax.io/blog/minimax-m31f Comments URL: https://news.ycombinator.com/item?id=50154540 Points: 514 # Comments: 218</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.minimax.io/blog/minimax-m31f">Hacker News Best</a> — MiniMax M3.1 Flash</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>为什么 Anthropic 不做 Personal AI</title>
-      <link>http://www.geekpark.net/news/372461</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372461</guid>
-      <category>科技前沿</category>
-      <pubDate>Fri, 16 Oct 2026 06:50:02 GMT</pubDate>
-      <description><![CDATA[<p>不久前，9 月 29 日的 OpenAI DevDay 开发者日，舞台上飘出了几个圆滚滚的小气泡。 它们叫 dots，是 OpenAI 最新的个人 agent。每个 dot 跑在 GPT-6 Astra 上，拥有一台独立的云端电脑和浏览器，用户关掉 ChatGPT 之后，它还在后台继续干活。OpenAI 对它的描述是： 「 built to handle everything 」，什么都能接。 三周前的 9 月 8 日， Meta 推出了 Muse，同样有独立的云端虚拟机，同样能在后台持续工作，同样顶着一个萌萌的卡通形象，而且直接住进了 WhatsApp。市场的反馈相当热烈，Apptopia 的估算显示，Muse 上线 12 天全平台装机量约 280 万，一度冲上美区 App Store 总榜第一。 OpenAI CEO Sam Altman 发布个人助理 dots｜图片来源：PCMag …</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="http://www.geekpark.net/news/372461">极客公园</a> — 为什么 Anthropic 不做 Personal AI</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>苹果和 Meta 和好了，是 AI 逼的</title>
-      <link>http://www.geekpark.net/news/372458</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372458</guid>
-      <category>科技前沿</category>
-      <pubDate>Fri, 16 Oct 2026 06:41:48 GMT</pubDate>
-      <description><![CDATA[<p>没有永远的敌人，只有永远的 AI 焦虑。 10 月 2 日，苹果做了一件很少见的事，因为一个第三方 App，宣布要调整系统规则。 起因是《Inc.》杂志的科技专栏作者 Jason Aten 公开指控，Meta 的 AI 智能体 Muse 在他的 Mac 上读取了私人消息。Muse 是 Meta 力推的「能替你办事」的 Agent，会帮你退订闲置会员，甚至替你砍价。 苹果随即表态， 今后 AI 请求读取 Mac 数据时，系统会主动提示用户 。 这几乎就是苹果和 Meta 过去五年关系的缩影，Meta 想拿数据，苹果出面拦着。 然而仅仅两周后，故事发生了反转。 当地时间 10 月 15 日，Meta 发布开放权重模型 Muse Spark Open，扎克伯格在 X 上发帖，感谢「John Ternus 和苹果」的合作，让这个模型能在新款 Mac Studio 上流畅运行。 苹果 CEO Ter…</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="http://www.geekpark.net/news/372458">极客公园</a> — 苹果和 Meta 和好了，是 AI 逼的</li>
+<li><a href="https://www.php.net/archive/2026.php#2026-10-21-5">Hacker News Best</a> — Security advisory: Critical remote code execution vulnerabilities, update now</li>
 </ul>]]></description>
     </item>
     <item>
@@ -434,55 +504,55 @@
 </ul>]]></description>
     </item>
     <item>
-      <title>苹果给 Siri 做了一块能认出全家人的屏幕，售价 299 美元</title>
-      <link>http://www.geekpark.net/news/372302</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372302</guid>
+      <title>与 Redis 分道扬镳两年后，Valkey 不只要做缓存：单进程吞吐破百万，Rust 统一客户端底座</title>
+      <link>https://www.infoq.cn/article/ud4r6jvkmuKNAu9NTHxF?utm_source=rss&amp;utm_medium=article</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.infoq.cn%2Farticle%2Fud4r6jvkmuKNAu9NTHxF%3Futm_source%3Drss%26utm_medium%3Darticle</guid>
       <category>科技前沿</category>
-      <pubDate>Tue, 13 Oct 2026 13:51:34 GMT</pubDate>
-      <description><![CDATA[<p>头图来源：Apple 官网 北京时间 10 月 13 日晚，苹果召开了一次主题为「欢迎回家」的新品发布会，苹果这次放进客厅的新东西，是一块 7 英寸的屏幕。 它叫 Apple HomeView，美国售价 299 美元 ，10 月 13 日开放预订，11 月 13 日上市，一同曝光的还有第四代 Apple TV 4K、HomePod mini 2。三款产品在海外都以新一代 Siri AI 为卖点，但音箱要等后续软件更新才能用上。同期发布的，还有 Apple Home Collection 智能家居配件系列。 HomePod 和 Apple TV 早已支持家庭控制，HomePod 也有声音识别和个人请求。HomeView 给了 Siri 一块全家共用的屏幕，可以放在厨房台面、床头柜上，也可以装在玄关的墙上。 这次产品发布更有意思的变化，是 Siri 的回应多了一个可以随时看见、伸手操作的地方。…</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="http://www.geekpark.net/news/372302">极客公园</a> — 苹果给 Siri 做了一块能认出全家人的屏幕，售价 299 美元</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道</title>
-      <link>http://www.geekpark.net/news/372264</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372264</guid>
-      <category>科技前沿</category>
-      <pubDate>Tue, 13 Oct 2026 00:27:49 GMT</pubDate>
-      <description><![CDATA[<p>曝梁文锋密集接触具身智能创业者，DeepSeek 拟入局具身智能 据报道，DeepSeek 创始人梁文锋近期密集关注具身智能领域，并与多位该领域创业者交流，探讨机器人、大模型与现实世界交互等方向。 据知情人士透露，梁文锋正在考虑 DeepSeek 进入具身智能领域的可能性，可能会亲自组建团队下场研发，也可能通过投资相关企业切入。 此前，梁文锋已投资宇树科技，另据彭博社报道，DeepSeek 计划领投腾讯前 AI 科学家胡瀚创立的机器人公司 Winverse AI。（来源：新浪科技） Meta 发布 Muse Wonder 模型，拥有主动记忆和主动专注功能，瞄准个人超级智能 Meta 今天推出 Muse Wonder 系列，包括 Muse Wonder 和 Muse Wonder Full 两款功能最强大的型号，它们在个人和专业智能任务中均能提供卓越的性能。它们的推出标志着我们产品线的又一次…</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="http://www.geekpark.net/news/372264">极客公园</a> — 曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>史泰博遭黑客入侵：攻击者劫持员工会话生成超 1.5 万张礼品卡，面值逾 500 万美元</title>
-      <link>https://www.ithome.com/1/016/132.htm</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F016%2F132.htm</guid>
-      <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 14:01:35 GMT</pubDate>
-      <description><![CDATA[<p>IT之家 10 月 21 日消息，科技媒体 404 Media 昨日报道称，一伙黑客入侵了办公用品零售商史泰博（Staples）的内部客户服务系统，非法生成超过 1.5 万张礼品卡，总面值超过 500 万美元。 根据近期解封的搜查令申请，这些礼品卡随后被犯罪团伙用于在美国多家零售商购物，大量电子产品被集中存放后运往其他国家。 根据搜查令申请，攻击者从公司外部访问 Nexus 客户服务系统，并多次发起堆内存转储请求。堆转储能够获取应用程序在特定时刻保存在内存中的数据。攻击者利用这些数据劫持已经登录的客服人员会话，借助员工认证身份生成礼品卡，再将卡片发送至自己的电子邮箱。 美国国土安全调查局（HSI）于 2023 年 10 月获悉这起事件，当时受害企业报告称，黑客通过其系统非法生成了超过 1.5 万张礼品卡，面值合计超过 500 万美元 （IT之家注：现汇率约合 3,345.7 万元人民币） …</p>
+      <pubDate>Thu, 22 Oct 2026 15:00:00 GMT</pubDate>
+      <description><![CDATA[<p>点击查看原文&gt;</p>
 <p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.ithome.com/1/016/132.htm">IT之家</a> — 史泰博遭黑客入侵：攻击者劫持员工会话生成超 1.5 万张礼品卡，面值逾 500 万美元</li>
+<li><a href="https://www.infoq.cn/article/ud4r6jvkmuKNAu9NTHxF?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — 与 Redis 分道扬镳两年后，Valkey 不只要做缓存：单进程吞吐破百万，Rust 统一客户端底座</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>英伟达联合思灵推出人形机器人参考平台 Agile ONE SN，计划 2027 年初上市</title>
-      <link>https://www.ithome.com/1/016/128.htm</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F016%2F128.htm</guid>
+      <title>GitHub 通过 AI 辅助重构，将 Copilot 运行时迁移至 Rust</title>
+      <link>https://www.infoq.cn/article/zGqDWHF8tHDtlYcImAJS?utm_source=rss&amp;utm_medium=article</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.infoq.cn%2Farticle%2FzGqDWHF8tHDtlYcImAJS%3Futm_source%3Drss%26utm_medium%3Darticle</guid>
       <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 13:49:39 GMT</pubDate>
-      <description><![CDATA[<p>IT之家 10 月 21 日消息，英伟达当地时间 10 月 21 日在 GTC 柏林大会上宣布扩展 Isaac 开放机器人开发平台，新增人形机器人参考平台、运行框架、仿真资产和数据集，并更新机器人学习工具，覆盖从训练数据生成、仿真训练到实体机器人部署的开发流程。 硬件方面，英伟达联合思灵机器人（Agile Robots）发布了人形机器人参考平台 Agile ONE SN，计划于 2027 年初推出。 该平台预配置英伟达 Isaac GR00T，并搭载 Jetson Thor 计算平台，主要面向机器人研究与开发。通过整合仿真、训练和部署工具，Agile Robots 表示，该平台可将相关环境的前期配置时间从数周缩短至数天。 英伟达创始人兼 CEO 黄仁勋表示，通用机器人技术正在快速发展，机器人领域的“ChatGPT 时刻”正加速到来。英伟达称，此次更新旨在为开发者提供模型、数据、仿真工具和计…</p>
+      <pubDate>Thu, 22 Oct 2026 13:17:00 GMT</pubDate>
+      <description><![CDATA[<p>点击查看原文&gt;</p>
 <p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.ithome.com/1/016/128.htm">IT之家</a> — 英伟达联合思灵推出人形机器人参考平台 Agile ONE SN，计划 2027 年初上市</li>
+<li><a href="https://www.infoq.cn/article/zGqDWHF8tHDtlYcImAJS?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — GitHub 通过 AI 辅助重构，将 Copilot 运行时迁移至 Rust</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>大厂拆中层，拆的到底是谁的权力？</title>
+      <link>https://www.huxiu.com/article/4899705.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.huxiu.com%2Farticle%2F4899705.html</guid>
+      <category>科技前沿</category>
+      <pubDate>Thu, 22 Oct 2026 13:01:01 GMT</pubDate>
+      <description><![CDATA[<p>2026年6月29日，字节跳动CEO梁汝波时隔四年发出全员信。其中一段话直接戳中了无数中层管理者的神经：&quot;脱离业务一线、仅承担信息传递功能的中间管理层，其组织价值将被持续弱化。&quot;同月，腾讯游戏国内发行线试点&quot;负责人制&quot;，取消L1/L2管理职级；京东零售撤销C4、C5两级管理职级，少两层节点，相当于少两段传话、...... 本文来自微信公众号： 我即风口我即方位 ， 2026年6月29日，字节跳动CEO梁汝波时隔四年发出全员信。其中一段话直接戳中了无数中层管理者的神经： &quot;脱离业务一线、仅承担信息传递功能的中间管理层，其组织价值将被持续弱化。&quot; 同月，腾讯游戏国内发行线试点&quot;负责人制&quot;，取消L1/L2管理职级；京东零售撤销C4、C5两级管理职级，少两层节点，相当于少两段传话、少两轮对齐、少两次等待。 这不是&quot;优化&quot;，这是&quot;清算&quot;。 但清算的不是人，而是一套运行了二十年的权力逻辑。 一、中层的…</p>
+<p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.huxiu.com/article/4899705.html">虎嗅</a> — 大厂拆中层，拆的到底是谁的权力？</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先</title>
+      <link>https://www.qbitai.com/2026/10/504841.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.qbitai.com%2F2026%2F10%2F504841.html</guid>
+      <category>科技前沿</category>
+      <pubDate>Thu, 22 Oct 2026 07:14:48 GMT</pubDate>
+      <description><![CDATA[<p>FSD一年增长70万付费用户</p>
+<p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.qbitai.com/2026/10/504841.html">量子位</a> — 特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先</li>
 </ul>]]></description>
     </item>
     <item>
@@ -491,24 +561,11 @@
       <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Farstechnica.com%2Fsecurity%2F2026%2F10%2Fmeta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations%2F</guid>
       <category>科技前沿</category>
       <pubDate>Wed, 21 Oct 2026 00:45:59 GMT</pubDate>
-      <description><![CDATA[<p>Article URL: https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/ Comments URL: https://news.ycombinator.com/item?id=50174687 Points: 316 # Comments: 146</p>
+      <description><![CDATA[<p>Article URL: https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/ Comments URL: https://news.ycombinator.com/item?id=50174687 Points: 400 # Comments: 173</p>
 <p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
 <li><a href="https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/">Hacker News Best</a> — Muse exposes users&apos; personal and business secrets when they share conversations</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>喊出300万张订单，英伟达RTX PRO 5500为何遭到提前疯抢？</title>
-      <link>https://www.leiphone.com/category/chips/STx9ZzfDNh5W80Bm.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.leiphone.com%2Fcategory%2Fchips%2FSTx9ZzfDNh5W80Bm.html</guid>
-      <category>科技前沿</category>
-      <pubDate>Tue, 20 Oct 2026 10:27:00 GMT</pubDate>
-      <description><![CDATA[<p>在AI算力市场，等风声传开再下注，往往已经慢了半拍。 早在8月份，服务器产品经理夏寅卿已经开始向客户推介还未面世的RTX PRO 5500。一个月后，这张最新PRO系列专业工作站显卡才默默出现在英伟达官网。 然而，RTX PRO 5500在中国市场引发的动静，远不如它正式亮相时那般低调——有大厂被传计划采购100万张；跨界布局算力租赁的天阳科技，签订2万张采购合同的消息经公众号平台发布当天，股价上涨12.38%。 夏寅卿用“疯狂”来形容国内采购热潮，称订购规模已达数百万张，接近英伟达预计的全球产能。 与此同时，这张尚未批量交付，实际性能也有待验证的新卡，还被卷入了另一张热门显卡的停产风波。 有海外社媒爆料称，英伟达计划将GB202芯片的后续供应转向包含RTX PRO 5500在内的RTX PRO系列，不再向旗舰游戏显卡RTX 5090分配芯片产能。 消息尚未得到英伟达正式确认，但价格本就水…</p>
-<p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.leiphone.com/category/chips/STx9ZzfDNh5W80Bm.html">雷锋网</a> — 喊出300万张订单，英伟达RTX PRO 5500为何遭到提前疯抢？</li>
 </ul>]]></description>
     </item>
     <item>
@@ -525,108 +582,42 @@
 </ul>]]></description>
     </item>
     <item>
-      <title>17岁Kimi前研究员陈广宇被曝投奔Jeff Dean创业团队，新公司正寻求500亿美元估值</title>
-      <link>https://www.infoq.cn/article/yH0DHL8Nil26ES43TeF1?utm_source=rss&amp;utm_medium=article</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.infoq.cn%2Farticle%2FyH0DHL8Nil26ES43TeF1%3Futm_source%3Drss%26utm_medium%3Darticle</guid>
+      <title>陕西神木市交管大队回应问界汽车碰撞起火事故：灯柱被烧短路、变色，目前正喷漆</title>
+      <link>https://www.ithome.com/1/016/751.htm</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F016%2F751.htm</guid>
       <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 14:39:11 GMT</pubDate>
-      <description><![CDATA[<p>点击查看原文&gt;</p>
+      <pubDate>Thu, 22 Oct 2026 15:36:19 GMT</pubDate>
+      <description><![CDATA[<p>IT之家 10 月 22 日消息，近日，一辆问界汽车在陕西榆林神木市一路口处发生碰撞起火。 据新京报今日报道，陕西神木市交管大队回应了“问界汽车撞击交通灯柱后起火”事件。“交通灯柱没断”，该大队工作人员称， 当时车辆起火后将交通灯柱里面的线烧短路了 ，灯柱被烧得变色，目前正喷漆。 据IT之家此前报道， 问界用户服务官方发布了关于陕西省榆林神木市车辆事故的说明 。经初步核实：事发时车辆处于人驾状态， 行经至交汇路口时 车速为 139.1km/h（事发路段限速 50km/h），因车速过高撞击路口方形的交通灯立柱后起火，起火位置为车辆前部。 关于车辆起火原因，初步分析为高速情况下车辆机舱遭受剧烈撞击引发线路短路及油液泄漏，导致起火燃烧。目前问界方面正在全力配合相关部门开展事故调查工作，详细结论以官方最终调查结果为准。 另外，神木警方称， 该事故系一起单方事故，事发车上仅司机一人，已遇难 。 相关…</p>
 <p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.infoq.cn/article/yH0DHL8Nil26ES43TeF1?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — 17岁Kimi前研究员陈广宇被曝投奔Jeff Dean创业团队，新公司正寻求500亿美元估值</li>
+<li><a href="https://www.ithome.com/1/016/751.htm">IT之家</a> — 陕西神木市交管大队回应问界汽车碰撞起火事故：灯柱被烧短路、变色，目前正喷漆</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>曝高通启动全球裁员；上线 40 天，Muse 下载量突破 1000 万次；ChatGPT 上线幻灯片工具</title>
-      <link>http://www.geekpark.net/news/372650</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372650</guid>
+      <title>Show HN: Run full iOS 16.5 firmware on Android Devices</title>
+      <link>https://github.com/oosexgang/hackios-xnu-kernel</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fgithub.com%2Foosexgang%2Fhackios-xnu-kernel</guid>
       <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 00:37:07 GMT</pubDate>
-      <description><![CDATA[<p>DeepSeek 开源大规模云服务推理框架 10 月 20 日下午，DeepSeek 宣布，在此前开源一系列大模型、TileLang 编译工具及推理算子库的基础上，决定进一步将内部推理框架 DeepInfer 全面开源。 DeepSeek 称，基于 DeepInfer，已实现 DeepSeek V4.1 Flash 高吞吐、低延迟的大规模推理服务。未来，DeepSeek 新模型的推理代码及后续优化也将在此持续更新。 券有商分析师认为，开源模型与 Agent 工具链的持续完善，有望降低应用开发成本，推动 AICoding 向游戏开发、3D 内容制作、企业软件及自动化工作流等场景扩展，具备开发者入口和应用生态的平台有望优先受益。（来源：证券时报） 上线 40 天，Muse 下载量突破 1000 万 市场情报机构 Sensor Tower 的最新数据显示，Meta 的人工智能助手 Muse 自 …</p>
+      <pubDate>Thu, 22 Oct 2026 15:26:22 GMT</pubDate>
+      <description><![CDATA[<p>Article URL: https://github.com/oosexgang/hackios-xnu-kernel Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 116 # Comments: 45</p>
 <p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="http://www.geekpark.net/news/372650">极客公园</a> — 曝高通启动全球裁员；上线 40 天，Muse 下载量突破 1000 万次；ChatGPT 上线幻灯片工具</li>
+<li><a href="https://github.com/oosexgang/hackios-xnu-kernel">Hacker News 首页</a> — Show HN: Run full iOS 16.5 firmware on Android Devices</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>Google open-sources TorchTPU, a native PyTorch back end for TPUs</title>
-      <link>https://github.com/google-pytorch/torch_tpu</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fgithub.com%2Fgoogle-pytorch%2Ftorch_tpu</guid>
+      <title>我国今年前 8 个月手术机器人出口 6.72 亿元同比增长 272.92%，广东、上海全国领跑</title>
+      <link>https://www.ithome.com/1/016/738.htm</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F016%2F738.htm</guid>
       <category>科技前沿</category>
-      <pubDate>Tue, 20 Oct 2026 16:40:24 GMT</pubDate>
-      <description><![CDATA[<p>Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 373 # Comments: 86</p>
+      <pubDate>Thu, 22 Oct 2026 14:43:59 GMT</pubDate>
+      <description><![CDATA[<p>IT之家 10 月 22 日消息，据央视财经今日报道，海关总署数据显示，2026 年 1 至 8 月，我国手术机器人出口金额 6.72 亿元，较上年同期的 1.80 亿元增长 272.92%。 这一增速在海关统计的 13 个机器人品类中并不算最高 —— 智能仿生机器人以 11.68 亿元排在手术机器人之前，清洁机器人则占据出口总额的七成 —— 但手术机器人的增幅在基数较小的情况下显得突出，出口额从不足 2 亿元跃升至接近 7 亿元。 据介绍，广东是机器人出口第一大省，前 8 个月机器人出口额 147.18 亿元，居全国首位；上海则在手术机器人单一品类上出口额全国第一。 弗若斯特沙利文报告显示，中国手术机器人总体市场规模预计从 2026 年的 224.5 亿元增至 2030 年的 708.5 亿元，2026 年至 2030 年复合增长率为 33.3%，高于全球同期 17.8% 的增速。国内市…</p>
 <p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://github.com/google-pytorch/torch_tpu">Hacker News Best</a> — Google open-sources TorchTPU, a native PyTorch back end for TPUs</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>Publish fake stats, get cited in LLMs</title>
-      <link>https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fpeec.ai%2Fblog%2Fpublish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web</guid>
-      <category>科技前沿</category>
-      <pubDate>Tue, 20 Oct 2026 13:06:22 GMT</pubDate>
-      <description><![CDATA[<p>Article URL: https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web Comments URL: https://news.ycombinator.com/item?id=50165801 Points: 353 # Comments: 201</p>
-<p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web">Hacker News Best</a> — Publish fake stats, get cited in LLMs</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>WhatsApp&apos;s help pages hid LLM instructions: dont recommend a regulator</title>
-      <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fredact.dev%2Fblog%2Fwhatsapp-help-pages-hidden-ai-instructions</guid>
-      <category>科技前沿</category>
-      <pubDate>Mon, 19 Oct 2026 23:22:18 GMT</pubDate>
-      <description><![CDATA[<p>Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 735 # Comments: 212</p>
-<p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions">Hacker News Best</a> — WhatsApp&apos;s help pages hid LLM instructions: dont recommend a regulator</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>苹果第一个 AI 机器人，可能是个能动的 HomeView</title>
-      <link>https://www.ifanr.com/1684921?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ifanr.com%2F1684921%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3D</guid>
-      <category>科技前沿</category>
-      <pubDate>Mon, 19 Oct 2026 10:09:25 GMT</pubDate>
-      <description><![CDATA[<p>上周，苹果一口气端出了十多款智能家居新品 ，其中最引人注目的，当属起价 299 美元的带屏中控 HomeView。 图｜Apple 就在大伙还在琢磨这块屏幕能做些什么之时，彭博社记者马克·古尔曼（Mark Gurman）又放出了一个新猛料： 苹果内部其实还在秘密研发一款更激进的高端型号，代号 J595。 它配备约 9 英寸屏幕，底座连着一条电动机械臂，能够通过语音识别判断谁在说话，并将屏幕自动转向对方，预计最早在 2027 至 2028 年面世。 Gurman 在昨天的 Power On 新闻通讯中吐槽道：在苹果官方为 HomeView 拍摄的宣传片里，一家人轮流凑到屏幕前，有人查日历，有人发消息， 但每个人走过去的第一件事，都是伸手去硬掰一下屏幕的俯仰角度。 图｜Apple 宣传片本意是展示全家人轮流使用的顺畅，却无意中暴露出固定屏幕的局限。很显然，苹果自己也意识到了这种别扭——光认出你…</p>
-<p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.ifanr.com/1684921?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 苹果第一个 AI 机器人，可能是个能动的 HomeView</li>
-<li><a href="https://www.ifanr.com/1684815?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 早报｜曝苹果机械臂版HomeView正在开发/蔚来三季度销量首次超BBA/英伟达否认RTX 5090停产</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型</title>
-      <link>https://www.infoq.cn/article/XxOpQpEMZpdCCYhXxgaE?utm_source=rss&amp;utm_medium=article</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.infoq.cn%2Farticle%2FXxOpQpEMZpdCCYhXxgaE%3Futm_source%3Drss%26utm_medium%3Darticle</guid>
-      <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 21:18:40 GMT</pubDate>
-      <description><![CDATA[<p>点击查看原文&gt;</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.infoq.cn/article/XxOpQpEMZpdCCYhXxgaE?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — 对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>对象存储正在“吃掉”Kafka？Cloudflare 用 R2 重做事件流</title>
-      <link>https://www.infoq.cn/article/hEHy8XHKyfwKuyIhpyFe?utm_source=rss&amp;utm_medium=article</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.infoq.cn%2Farticle%2FhEHy8XHKyfwKuyIhpyFe%3Futm_source%3Drss%26utm_medium%3Darticle</guid>
-      <category>科技前沿</category>
-      <pubDate>Wed, 21 Oct 2026 17:12:00 GMT</pubDate>
-      <description><![CDATA[<p>点击查看原文&gt;</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.infoq.cn/article/hEHy8XHKyfwKuyIhpyFe?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — 对象存储正在“吃掉”Kafka？Cloudflare 用 R2 重做事件流</li>
+<li><a href="https://www.ithome.com/1/016/738.htm">IT之家</a> — 我国今年前 8 个月手术机器人出口 6.72 亿元同比增长 272.92%，广东、上海全国领跑</li>
 </ul>]]></description>
     </item>
   </channel>
