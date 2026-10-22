@@ -5,40 +5,115 @@
     <link>https://zhh7ce.github.io/static/news-digest/feed-china.xml</link>
     <description>多源报道优先的每日新闻摘要</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 21 Oct 2026 18:25:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 18:28:07 GMT</lastBuildDate>
     <atom:link href="https://zhh7ce.github.io/static/news-digest/feed-china.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>腾讯云发布PHP“php2shell”远程代码执行漏洞风险通告</title>
-      <link>https://www.jiemian.com/article/15220124.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.jiemian.com%2Farticle%2F15220124.html</guid>
+      <title>习近平：在纪念中国工农红军长征胜利90周年大会上的讲话</title>
+      <link>http://politics.people.com.cn/n1/2026/1022/c1024-40819679.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fpolitics.people.com.cn%2Fn1%2F2026%2F1022%2Fc1024-40819679.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 15:08:32 GMT</pubDate>
-      <description><![CDATA[<p>腾讯云安全中心监测到，PHP 被披露其存在远程代码执行漏洞，漏洞编号分别为CVE-2026-109618, CVE-2026-109619，代号“php2shell”。可导致未经身份验证的远程攻击者通过发送特制的 multipart POST 请求，触发内存破坏并最终实现远程代码执行，从而完全控制服务器等危害。为避免您的业务受影响，腾讯云安全建议您及时开展安全自查，如在受影响范围，请您及时进行更新修复，避免被外部攻击者入侵。</p>
-<p><b>3 家媒体报道 · 重要度 8.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.jiemian.com/article/15220124.html">界面新闻</a> — 腾讯云发布PHP“php2shell”远程代码执行漏洞风险通告</li>
-<li><a href="https://www.jiemian.com/article/15220088.html">界面新闻</a> — 谷歌云称PHP重大漏洞或影响云上应用，敦促客户立即升级</li>
-<li><a href="https://www.jiemian.com/article/15220069.html">界面新闻</a> — OpenAI联合多方修复PHP重大安全漏洞，提出全球协同响应框架</li>
-<li><a href="https://www.ithome.com/1/016/121.htm">IT之家</a> — 为预防 PHP 安全漏洞，芬兰政府临时关闭部分网站</li>
-<li><a href="https://www.wiz.io/blog/php2shell-php-rce">Hacker News Best</a> — PHP2Shell: AI uncovers critical RCE in PHP</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见</title>
-      <link>http://politics.people.com.cn/n1/2026/1021/c1001-40819104.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fpolitics.people.com.cn%2Fn1%2F2026%2F1021%2Fc1001-40819104.html</guid>
-      <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 14:08:00 GMT</pubDate>
-      <description><![CDATA[<p>新华社北京10月21日电 中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见 为推动科技创新和产业创新深度融合，经党中央、国务院同意，现提出如下意见。 一、总体要求 坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，认真落实四中全会部署，深入实施创新驱动发展战略，以发展新质生产力、建设现代化产业体系为目标，以构建企业主导、各主体协同的产学研融通创新体系为重点，推动全链条贯通、全领域覆盖、全要素融通、全方位保障，形成科技创新和产业创新互融共促新格局，打通从科技强到产业强、经济强、国家强的通道，为加快高水平科技自立自强、实现高质量发展、建设社会主义现代化强国提供支撑。 工作中要做到：坚持准确把握科技革命和产业变革新趋势新特点，加强系统谋划和一体推进；坚持统筹科技供给和需求牵引，围绕产业链部署创新链，围绕创新链布局产业链；坚持强化企业创新主体…</p>
+      <pubDate>Thu, 22 Oct 2026 16:55:37 GMT</pubDate>
+      <description><![CDATA[<p>新华社北京10月22日电 在纪念中国工农红军长征胜利90周年大会上的讲话 （2026年10月22日） 习近平 同志们： 今天，我们隆重集会，纪念中国工农红军长征胜利90周年。 90多年前，我们的国家和民族内忧外患，日寇加紧对华侵略，国民党反动派向中国共产党领导的革命根据地接连发动大规模“围剿”。由于“左”倾教条主义在党内的错误领导，中央革命根据地第五次反“围剿”失败，其他革命根据地也遭受挫折，党和红军到了生死存亡的危急关头。 在这样的严峻形势下，从1934年10月至1936年10月，我们党领导红军第一、第二、第四方面军和第二十五军，进行了震撼世界、彪炳史册的伟大长征。红军长征纵横十余省，长驱二万五千里，跨越近百条江河，翻越皑皑雪山，穿过茫茫草地，进行600余次战役战斗，粉碎上百万敌军围追堵截，宣告国民党反动派消灭中国共产党和红军的图谋彻底失败，胜利实现北上抗日的战略转移，成功开创了中国革命…</p>
 <p><b>3 家媒体报道 · 重要度 8.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="http://politics.people.com.cn/n1/2026/1021/c1001-40819104.html">人民网时政</a> — 中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见</li>
-<li><a href="http://politics.people.com.cn/n1/2026/1021/c1001-40819103.html">人民网时政</a> — 中办、国办《关于推动科技创新和产业创新深度融合的意见》对外发布</li>
-<li><a href="https://www.chinanews.com.cn/gn/2026/10-21/10718734.shtml">中新网国内</a> — 科技部解读《关于推动科技创新和产业创新深度融合的意见》</li>
-<li><a href="https://www.chinanews.com.cn/gn/2026/10-21/10718635.shtml">中新网国内</a> — 受权发布丨中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见</li>
-<li><a href="http://finance.people.com.cn/n1/2026/1021/c1004-40819143.html">人民网财经</a> — 科技部有关负责人就《关于推动科技创新和产业创新深度融合的意见》答记者问</li>
+<li><a href="http://politics.people.com.cn/n1/2026/1022/c1024-40819679.html">人民网时政</a> — 习近平：在纪念中国工农红军长征胜利90周年大会上的讲话</li>
+<li><a href="http://politics.people.com.cn/n1/2026/1022/c1024-40819675.html">人民网时政</a> — 习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话</li>
+<li><a href="http://politics.people.com.cn/n1/2026/1022/c1024-40819652.html">人民网时政</a> — 视频丨纪念中国工农红军长征胜利90周年大会在京隆重举行 习近平出席大会并发表重要讲话</li>
+<li><a href="http://politics.people.com.cn/n1/2026/1022/c1024-40819602.html">人民网时政</a> — 纪念中国工农红军长征胜利90周年大会在京隆重举行 习近平出席大会并发表重要讲话</li>
+<li><a href="http://www.news.cn/20261023/4e805a4c1e8f4145810b1e3f4445c5ae/c.html">新华社最新播报</a> — “长征的历史从未远去，长征的路在不断延伸”——纪念中国工农红军长征胜利90周年大会侧记</li>
+<li><a href="http://www.news.cn/20261023/b7795211d7cd46e8a842da226ccac25d/c.html">新华社最新播报</a> — 总书记重要讲话激励全党全军全国各族人民勇毅前行</li>
+<li><a href="http://www.news.cn/20261023/1728862e68c84f88a083889c806a2a37/c.html">新华社最新播报</a> — 出版界推出一批纪念中国工农红军长征胜利90周年优秀主题图书</li>
+<li><a href="http://www.news.cn/20261022/e5758e0c266743e8a2ae2598ec19eba1/c.html">新华社最新播报</a> — 近镜头｜总书记号召走好新的长征路</li>
+<li><a href="http://www.news.cn/20261022/0631d1c3b67d4617b65674b995aa5b71/c.html">新华社最新播报</a> — 第一观察丨党和人民军队铿锵前进的制胜之道</li>
+<li><a href="http://www.news.cn/20261022/ab9714ddfcfa47b2aa557b1c37683853/c.html">新华社最新播报</a> — 人民日报评论员：在新的长征路上奋力创造新的辉煌——论学习贯彻习近平总书记在纪念中国工农红军长征胜利90周年大会上重要讲话</li>
+<li><a href="https://www.chinanews.com.cn/gn/2026/10-22/10719291.shtml">中新网国内</a> — （近观中国）走好新的长征路，习近平强调五个“必须”</li>
+<li><a href="https://www.chinanews.com.cn/gn/2026/10-22/10719280.shtml">中新网国内</a> — 习言道｜同心协力走好新的长征路</li>
+<li><a href="https://www.chinanews.com.cn/gn/2026/10-22/10719279.shtml">中新网国内</a> — 习言道｜走好新的长征路，习近平强调“五个必须”</li>
+<li><a href="https://www.chinanews.com.cn/gn/2026/10-22/10719223.shtml">中新网国内</a> — （长征胜利90周年）双展启幕忆峥嵘 桂林博物馆两大长征主题展览开展</li>
+<li><a href="https://www.chinanews.com.cn/gn/2026/10-22/10719205.shtml">中新网国内</a> — 习近平：长征的历史从未远去，长征的路在不断延伸</li>
+<li><a href="https://www.chinanews.com.cn/gn/2026/10-22/10719202.shtml">中新网国内</a> — 节目单发布！纪念中国工农红军长征胜利90周年电视文艺晚会《长征颂歌》今晚播出</li>
+<li><a href="https://www.chinanews.com.cn/gn/2026/10-22/10719189.shtml">中新网国内</a> — 直播海报：长征路上学党史｜重整行装 共启新长征</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>途经西藏那曲列车已紧急扣停进行全面巡检</title>
+      <link>http://www.news.cn/20261023/a20f7e63dfe248508cb637194148aab8/c.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fwww.news.cn%2F20261023%2Fa20f7e63dfe248508cb637194148aab8%2Fc.html</guid>
+      <category>国内新闻</category>
+      <pubDate>Thu, 22 Oct 2026 17:42:15 GMT</pubDate>
+      <description><![CDATA[<p></p>
+<p><b>3 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="http://www.news.cn/20261023/a20f7e63dfe248508cb637194148aab8/c.html">新华社最新播报</a> — 途经西藏那曲列车已紧急扣停进行全面巡检</li>
+<li><a href="http://www.news.cn/20261023/6225cf13052b4c96bf3df9a6fc58153f/c.html">新华社最新播报</a> — 西藏启动自治区地震灾害二级应急响应</li>
+<li><a href="http://www.news.cn/20261023/ede07511f41a4ac1a42cafc4441b9630/c.html">新华社最新播报</a> — 西藏那曲市巴青县地震已有人员遇难</li>
+<li><a href="http://www.news.cn/20261023/a5bf0e432c4a43308c121a64667539e8/c.html">新华社最新播报</a> — 应急管理部启动国家自然灾害救助四级应急响应</li>
+<li><a href="http://www.news.cn/20261023/3d47c21ff0304be787a44f5be97e108f/c.html">新华社最新播报</a> — 西藏那曲市巴青县7级地震 青海交界地区震感强烈</li>
+<li><a href="http://www.news.cn/20261023/709ea256745342e5a0f3e9de0d92c807/c.html">新华社最新播报</a> — 西藏巴青县发生7.0级地震 暂未收到人员伤亡报告</li>
+<li><a href="http://www.news.cn/20261023/7db8003465924b67838ed53202dc99fe/c.html">新华社最新播报</a> — 两部门启动国家地震灾害四级应急响应</li>
+<li><a href="http://www.news.cn/20261022/60990eb42e69487285498a5e7ec8f8ac/c.html">新华社最新播报</a> — 中国地震局对西藏那曲市巴青县地震启动二级应急响应</li>
+<li><a href="https://www.chinanews.com.cn/gn/2026/10-22/10719432.shtml">中新网国内</a> — 西藏那曲市巴青县发生7.0级地震，震源深度10千米</li>
+<li><a href="https://www.chinanews.com.cn/gn/2026/10-22/10719430.shtml">中新网国内</a> — 西藏那曲市巴青县附近发生6.7级左右地震</li>
+<li><a href="https://www.jiemian.com/article/15225785.html">界面新闻</a> — 西藏那曲市巴青县发生3.0级地震，震源深度10千米</li>
+<li><a href="https://www.jiemian.com/article/15225773.html">界面新闻</a> — 西藏那曲市巴青县发生3.2级地震，震源深度10千米</li>
+<li><a href="https://www.jiemian.com/article/15225760.html">界面新闻</a> — 两部门启动国家地震灾害四级应急响应</li>
+<li><a href="https://www.jiemian.com/article/15225740.html">界面新闻</a> — 西藏那曲市巴青县发生3.0级地震，震源深度10千米</li>
+<li><a href="https://www.jiemian.com/article/15225728.html">界面新闻</a> — 西藏那曲市巴青县发生4.0级地震，震源深度10千米</li>
+<li><a href="https://www.jiemian.com/article/15225697.html">界面新闻</a> — 西藏那曲市巴青县发生4.2级地震，震源深度10千米</li>
+<li><a href="https://www.jiemian.com/article/15225685.html">界面新闻</a> — 西藏那曲市巴青县发生3.6级地震，震源深度10千米</li>
+<li><a href="https://www.jiemian.com/article/15225682.html">界面新闻</a> — 中国地震局对西藏那曲市巴青县地震启动二级应急响应</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>法国报告全球首例人类感染沙蒙达病毒病例</title>
+      <link>http://www.news.cn/20261022/6e88c5d51f5746d2ac0349361dfe2668/c.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fwww.news.cn%2F20261022%2F6e88c5d51f5746d2ac0349361dfe2668%2Fc.html</guid>
+      <category>国内新闻</category>
+      <pubDate>Thu, 22 Oct 2026 15:22:22 GMT</pubDate>
+      <description><![CDATA[<p>新华社巴黎10月22日电（记者罗毓）法国卫生部门22日发布公报说，该国发现全球首例有正式记录的沙蒙达病毒人类感染病例，患者已于本月初死亡。 沙蒙达病毒属于正布尼亚病毒属，主要通过库蠓属吸血蠓虫传播给动物。该病毒于20世纪60年代中期首次在尼日利亚被发现，此后在西非、东非、非洲南部以及日本的牛群中有零星报告。法国动物卫生部门称，该病毒对动物造成的影响包括腹泻、虚弱和食欲减退等，少数情况下会导致发热。 公报说，在该病例之前，从未有过人类感染该病毒的记录。患者死前因罹患重症在法国里昂的医院接受治疗。初步调查显示，患者出现的脑部并发症很可能与感染沙蒙达病毒有关，但相关临床、生物学和流行病学调查仍在进行中。今年夏季，沙蒙达病毒首次在法国等欧洲国家的养牛场中被发现。卫生部门推测，患者可能是在法国东部被携带病毒的吸血蠓虫叮咬后感染。 法国卫生部门表示，这是一起发生在免疫功能严重受损者身上的特殊病例。目前…</p>
+<p><b>3 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="http://www.news.cn/20261022/6e88c5d51f5746d2ac0349361dfe2668/c.html">新华社最新播报</a> — 法国报告全球首例人类感染沙蒙达病毒病例</li>
+<li><a href="https://www.jiemian.com/article/15225676.html">界面新闻</a> — 法国报告全球首例人类感染沙蒙达病毒病例</li>
+<li><a href="http://world.people.com.cn/n1/2026/1022/c1002-40819846.html">人民网国际</a> — 法国报告全球首例人类感染沙蒙达病毒病例</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>赵乐际主持召开十四届全国人大常委会第七十四次委员长会议 决定十四届全国人大常委会第二十五次会议11月2日至6日在京举行</title>
+      <link>http://politics.people.com.cn/n1/2026/1022/c1024-40819821.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fpolitics.people.com.cn%2Fn1%2F2026%2F1022%2Fc1024-40819821.html</guid>
+      <category>国内新闻</category>
+      <pubDate>Thu, 22 Oct 2026 12:12:58 GMT</pubDate>
+      <description><![CDATA[<p>新华社北京10月22日电 十四届全国人大常委会第七十四次委员长会议22日下午在北京人民大会堂举行。赵乐际委员长主持会议。会议决定，十四届全国人大常委会第二十五次会议11月2日至6日在北京举行。 委员长会议建议，十四届全国人大常委会第二十五次会议审议检察公益诉讼法草案、南极活动与环境保护法草案、水法修订草案、反跨境腐败法草案、国有资产法草案、金融法草案；审议全国人大常委会委员长会议关于提请审议刑事诉讼法修正草案的议案；审议全国人大环境与资源保护委员会关于提请审议可再生能源法修订草案的议案；审议国务院关于提请审议税收征收管理法修订草案的议案、关于提请审议突发事件应对法等15部法律的修正案草案的议案；审议国务院关于提请审议批准《关于成立世界人工智能合作组织的协定》的议案。 委员长会议建议的常委会第二十五次会议议程还有：审议国务院关于金融工作情况的报告、关于2025年度国有资产管理情况的综合报告和…</p>
+<p><b>3 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="http://politics.people.com.cn/n1/2026/1022/c1024-40819821.html">人民网时政</a> — 赵乐际主持召开十四届全国人大常委会第七十四次委员长会议 决定十四届全国人大常委会第二十五次会议11月2日至6日在京举行</li>
+<li><a href="https://www.chinanews.com.cn/gn/2026/10-22/10719311.shtml">中新网国内</a> — 赵乐际主持召开十四届全国人大常委会第七十四次委员长会议 决定十四届全国人大常委会第二十五次会议11月2日至6日在京举行</li>
+<li><a href="https://www.36kr.com/newsflashes/4036986995184774">36氪快讯</a> — 赵乐际主持召开十四届全国人大常委会第七十四次委员长会议</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>中国地震台网：西藏巴青县7.0级地震是今年以来我国最大地震</title>
+      <link>https://www.jiemian.com/article/15225669.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.jiemian.com%2Farticle%2F15225669.html</guid>
+      <category>国内新闻</category>
+      <pubDate>Thu, 22 Oct 2026 15:58:24 GMT</pubDate>
+      <description><![CDATA[<p>据@中国地震台网速报 消息，中国地震台网正式测定：10月22日22时33分在西藏那曲市巴青县（北纬32.40度，东经93.79度）发生7.0级地震，震源深度10千米。这是今年以来我国最大地震，上一次七级地震是2024年1月23日发生在新疆乌什的7.1级地震。</p>
+<p><b>3 家媒体报道 · 重要度 6.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.jiemian.com/article/15225669.html">界面新闻</a> — 中国地震台网：西藏巴青县7.0级地震是今年以来我国最大地震</li>
+<li><a href="https://www.jiemian.com/article/15225658.html">界面新闻</a> — 西藏那曲市巴青县发生3.4级地震，震源深度10千米</li>
+<li><a href="https://www.jiemian.com/article/15225652.html">界面新闻</a> — 西藏那曲市巴青县发生3.9级地震，震源深度10千米</li>
+<li><a href="https://www.chinanews.com.cn/sh/2026/10-22/10719441.shtml">中新网滚动</a> — 两部门启动国家地震灾害四级应急响应</li>
+<li><a href="https://www.chinanews.com.cn/sh/2026/10-22/10719438.shtml">中新网滚动</a> — 中国地震局对西藏那曲市巴青县地震启动二级应急响应</li>
+<li><a href="https://www.chinanews.com.cn/sh/2026/10-22/10719432.shtml">中新网滚动</a> — 西藏那曲市巴青县发生7.0级地震 震源深度10千米</li>
+<li><a href="https://www.chinanews.com.cn/sh/2026/10-22/10719430.shtml">中新网滚动</a> — 西藏那曲市巴青县附近发生6.7级左右地震</li>
+<li><a href="https://www.zhihu.com/question/2096734873637445705">知乎热榜</a> — 西藏那曲市巴青县发生 7.0 级地震，当地目前具体情况如何？你那边有震感吗？</li>
 </ul>]]></description>
     </item>
     <item>
@@ -46,185 +121,168 @@
       <link>http://finance.people.com.cn/n1/2026/1020/c1004-40818374.html</link>
       <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Ffinance.people.com.cn%2Fn1%2F2026%2F1020%2Fc1004-40818374.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 15:21:49 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 11:49:08 GMT</pubDate>
       <description><![CDATA[<p>人民网北京10月20日电 （记者赵竹青）18日，首届全球具身智能应用创新挑战赛暨2026中国机器人大赛在杭州闭幕。经过三天竞赛，赛事按各项目竞赛规则产生59支冠军队伍、57支亚军队伍和52支季军队伍，共有168支队伍获得各赛项前三名。 本次大赛由中国自动化学会、国家具身智能应用中试基地主办。初赛阶段，赛事吸引全国380所高校及企事业单位约2.8万人次参与；决赛阶段，2000支队伍、近5000名选手来到杭州，围绕机器人技术和应用展开现场比拼。 中国机器人大赛暨RoboCup机器人世界杯中国赛创办于1999年，经过多年发展，已形成贯通校赛、专项赛和国赛的竞赛体系。本届大学组设置22个大项、60个子项目，并开设线上职教赛道与企业赛道，比赛内容涵盖篮球机器人、自动分拣、服务机器人、医疗机器人、农业机器人、无人机、公共安全和水下机器人等多个方向。 此次大赛，传统机器人赛项与具身智能应用任务同场展开。…</p>
 <p><b>3 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
 <li><a href="http://finance.people.com.cn/n1/2026/1020/c1004-40818374.html">人民网财经</a> — 老牌机器人大赛焕新 具身智能成核心看点</li>
-<li><a href="https://www.chinanews.com.cn/sh/2026/10-21/10718802.shtml">中新网滚动</a> — 深化陕台科创协同 政企学者西安共探具身智能产业发展新路径</li>
 <li><a href="http://www.geekpark.net/news/372420">极客公园</a> — 人形机器人最尴尬的事：长了一双腿，却只能定住干活</li>
+<li><a href="https://www.zhihu.com/question/2096327185309160809">知乎热榜</a> — 如何评价宇树发布全新机器人「H2-X功夫传奇 守护」，宣称能徒手抬车、勇斗歹徒？在实际生活中会用在哪？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>美特使在俄乌之间穿梭 泽连斯基提议实施美俄乌首脑三方谈判</title>
-      <link>https://international.caixin.com/2026-10-21/102495794.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Finternational.caixin.com%2F2026-10-21%2F102495794.html</guid>
+      <title>英国时隔20年恢复大口径火炮炮管本土生产</title>
+      <link>http://www.news.cn/20261023/9cab7cc6472649c1b7a5ac6146ea64ad/c.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fwww.news.cn%2F20261023%2F9cab7cc6472649c1b7a5ac6146ea64ad%2Fc.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 16:22:33 GMT</pubDate>
-      <description><![CDATA[<p>欧盟外交政策负责人卡拉斯认为，为平衡美国越来越倾向于俄罗斯的立场，欧洲在谈判桌上的存在是必要的 当地时间10月20日，美国总统的谈判特使威特科夫，在挪威首都奥斯陆与乌克兰总统泽连斯基，及挪威首相斯特勒、芬兰总统斯图布等欧洲代表会面。图：视觉中国 【财新网】 当地时间10月20日，美国总统的谈判特使威特科夫，在挪威首都奥斯陆与乌克兰总统泽连斯基，及挪威首相斯特勒、芬兰总统斯图布等欧洲代表会面。 美方称，各方在推动俄乌和平谈判方面取得实质性进展。威特科夫在10月21日赶往俄罗斯与普京会面，推动俄乌和平谈判进一步发展。 根据俄方发布的消息，10月21日，俄罗斯总统普京在圣彼得堡与美总统特使威特科夫的会晤中表示，俄罗斯有意恢复与美国的经济合作。普京表示，俄方感谢特朗普关注乌克兰冲突的调解问题，并表示俄罗斯有意恢复与美国的经济合作。普京还称，俄罗斯愿意向美国大量出口肥料，并协助解决伊朗危机。普京还询…</p>
-<p><b>2 家媒体报道 · 重要度 8.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://international.caixin.com/2026-10-21/102495794.html">财新网</a> — 美特使在俄乌之间穿梭 泽连斯基提议实施美俄乌首脑三方谈判</li>
-<li><a href="https://www.chinanews.com.cn/gj/2026/10-22/10718813.shtml">中新网滚动</a> — 俄总统助理：俄方原则同意下月重启俄美乌三方谈判</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>李强会见俄罗斯总统普京</title>
-      <link>http://politics.people.com.cn/n1/2026/1021/c1024-40819145.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fpolitics.people.com.cn%2Fn1%2F2026%2F1021%2Fc1024-40819145.html</guid>
-      <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 15:53:00 GMT</pubDate>
-      <description><![CDATA[<p>新华社圣彼得堡10月21日电（记者王作葵 刘畅）10月21日下午，国务院总理李强在圣彼得堡会见俄罗斯总统普京。 李强首先转达习近平主席对普京总统的亲切问候和良好祝愿。李强表示，在国际形势持续复杂演变的背景下，中俄保持着紧密协作，是变乱交织的世界中难能可贵的稳定力量。今年以来，两国元首两度会晤，就深化中俄关系与合作作出进一步规划。中方愿同俄方加强战略沟通，夯实政治互信，拓展全方位互利合作，持续增进两国人民福祉。 李强指出，中方愿同俄方更好发挥经济互补优势，维护当前双方合作的良好发展态势，加强能源资源、经贸投资、交通运输等务实合作，取得更多积极成果，促进两国共同繁荣。双方要扎实办好“中俄教育年”，不断深化文化、旅游、体育、青少年等交流合作，持续增进两国民众相互理解和友谊。当今世界，单边主义、霸权主义大行其道。中方愿同俄方加强在重大问题上的沟通协调，密切在上合组织、金砖国家等多边平台的配合，团结…</p>
-<p><b>2 家媒体报道 · 重要度 8.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="http://politics.people.com.cn/n1/2026/1021/c1024-40819145.html">人民网时政</a> — 李强会见俄罗斯总统普京</li>
-<li><a href="https://www.jiemian.com/article/15220189.html">界面新闻</a> — 李强会见俄罗斯总统普京</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>我国实现分子筛独自催化烯烃羰基化新反应</title>
-      <link>https://www.jiemian.com/article/15220103.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.jiemian.com%2Farticle%2F15220103.html</guid>
-      <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 15:07:30 GMT</pubDate>
-      <description><![CDATA[<p>羰基化反应是现代化工的基础反应，醋酸、香料、医药中间体等很多产品都依靠它生产。近日，中国科学院大连化学物理研究所刘中民院士团队实现无金属、无配体的分子筛催化烯烃羰基化新反应，相关成果10月21日在国际学术期刊《自然》发表。这项研究搭建起分子筛羰基化的底层理论框架，证明可以根据孔道微环境理性设计催化过程，而不是反复试错。下一步，科研团队将推进工艺放大，推动这项实验室成果走向工业化，为高端含氧化合物、新材料的绿色高效制备开辟了新路径。（央视新闻）</p>
+      <pubDate>Thu, 22 Oct 2026 17:57:46 GMT</pubDate>
+      <description><![CDATA[<p>新华社伦敦10月22日电（记者赵家淞）英国国防部22日发布声明说，英国时隔20年恢复在本土生产大口径火炮炮管，位于英格兰中部特尔福德的生产车间已正式投产。 这一生产车间由德国军工企业莱茵金属旗下的英国公司运营，主要生产120毫米和155毫米口径武器系统所需的炮管及炮闩等部件，相关产品将用于RCH-155型自行榴弹炮及未来其他火炮平台。 英国国防大臣韦斯·斯特里廷当天在该车间启用仪式上说：“英国已重新开始制造武装部队所需的武器，以抵御对手、保卫国家。”他还表示，该项目将创造100个高技能制造业就业岗位。 英国国防部说，莱茵金属英国公司于2025年秋季接手该项目。该项目是英德两国防务工业合作的一部分。双方于2024年10月签署《三位一体防御协议》，旨在加强双边防务合作，提升北约集体威慑能力。 根据英国国防部公布的信息，英国政府已承诺在四年内投入2980亿英镑（约3988亿美元）用于国防建设，并…</p>
 <p><b>2 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.jiemian.com/article/15220103.html">界面新闻</a> — 我国实现分子筛独自催化烯烃羰基化新反应</li>
-<li><a href="https://www.chinanews.com.cn/cul/2026/10-21/10718810.shtml">中新网滚动</a> — 中国团队创新突破分子筛催化 推动羰基化反应“百年老树发新枝”</li>
+<li><a href="http://www.news.cn/20261023/9cab7cc6472649c1b7a5ac6146ea64ad/c.html">新华社最新播报</a> — 英国时隔20年恢复大口径火炮炮管本土生产</li>
+<li><a href="https://www.jiemian.com/article/15225749.html">界面新闻</a> — 英国时隔20年恢复大口径火炮本土生产</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>我国科学家破解丹尼索瓦人辨识难题</title>
-      <link>https://www.jiemian.com/article/15220113.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.jiemian.com%2Farticle%2F15220113.html</guid>
+      <title>金正恩要求南北界线永久化要塞化 金与正警告重启对韩广播心战</title>
+      <link>https://international.caixin.com/2026-10-22/102496201.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Finternational.caixin.com%2F2026-10-22%2F102496201.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 15:04:40 GMT</pubDate>
-      <description><![CDATA[<p>中国科学院古脊椎动物与古人类研究所消息，该研究所科研人员结合古蛋白质组学与化石形态对比，确认河北阳原许家窑人属于丹尼索瓦人，并首次建立起丹尼索瓦人的形态识别标准，为厘清东亚中更新世人类演化格局补上关键一环。相关研究成果10月21日在国际学术期刊《自然》发表。</p>
+      <pubDate>Thu, 22 Oct 2026 14:43:23 GMT</pubDate>
+      <description><![CDATA[<p>金与正称，金正恩要求朝韩边界成为“永不逾越的永久线”，并主张边界一旦永久化，该地区的军事冲突危险将被消除 当地时间2026年10月20日，朝鲜官方通讯社朝中社发布组合照片显示，朝鲜领导人金正恩的妹妹金与正与朝鲜国防省顾问朴正天元帅一同视察了位于朝鲜南部边境的防御阵地。图：IC photo 【财新网】 朝韩围绕边境设防施工及非军事区地雷爆炸事件的对立进一步升级。 当地时间10月21日、22日，朝鲜最高领导人金正恩之妹、朝鲜劳动党中央委员会部长金与正连续发表谈话，宣布本月内将在边境全线重启对韩心理战扩音器广播，并警告韩方不得干涉朝方边境工程。 据朝中社报道，金与正10月21日发表谈话称，她当天凌晨与朝鲜国防省顾问朴正天元帅共同视察了多个边境地区，并纠正朝中社此前将视察日期写为20日的报道。 她表示，朝韩边境正逐步被隔绝、要塞化，并将有关工程描述为保障朝鲜当前及未来安全的举措。</p>
 <p><b>2 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.jiemian.com/article/15220113.html">界面新闻</a> — 我国科学家破解丹尼索瓦人辨识难题</li>
-<li><a href="https://www.chinanews.com.cn/cul/2026/10-21/10718809.shtml">中新网滚动</a> — 神秘丹尼索瓦人有何共性特征？中国科学家最新研究许家窑人揭秘</li>
+<li><a href="https://international.caixin.com/2026-10-22/102496201.html">财新网</a> — 金正恩要求南北界线永久化要塞化 金与正警告重启对韩广播心战</li>
+<li><a href="https://www.chinanews.com.cn/gj/2026/10-22/10719366.shtml">中新网国际</a> — 朝鲜拟恢复对韩扩音器广播 韩国呼吁通过对话解决问题</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>李强同俄罗斯总理米舒斯京共同主持中俄总理第三十一次定期会晤</title>
-      <link>http://politics.people.com.cn/n1/2026/1021/c1024-40819105.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fpolitics.people.com.cn%2Fn1%2F2026%2F1021%2Fc1024-40819105.html</guid>
+      <title>北京市委常委、副市长夏林茂任上被查</title>
+      <link>https://www.chinanews.com.cn/gn/2026/10-22/10719251.shtml</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.chinanews.com.cn%2Fgn%2F2026%2F10-22%2F10719251.shtml</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 11:38:29 GMT</pubDate>
-      <description><![CDATA[<p>新华社圣彼得堡10月21日电（记者蒋励 伍岳）10月21日上午，国务院总理李强在圣彼得堡同俄罗斯总理米舒斯京共同主持中俄总理第三十一次定期会晤。 李强表示，近些年，面对复杂动荡的国际形势，中俄双方在两国元首战略引领下，携手并肩、团结向前，以富有活力、韧性的合作对冲外部环境的不稳定不确定性，合作道路越走越宽，步伐越来越稳。当前，中俄新时代全面战略协作伙伴关系正在进入更有作为、更快发展的新阶段。中方愿同俄方发扬相互尊重、互利共赢精神，推动各领域合作不断走深走实，把两国元首重要共识更好转化为实际行动和具体成效，更好服务两国发展振兴，更多惠及两国人民。 米舒斯京表示，今年是《俄中睦邻友好合作条约》签署25周年。当前，俄中新时代全面战略协作伙伴关系处于历史最高水平，树立了国家间关系的典范。面对国际形势不确定性，两国经贸合作势头良好。俄方愿同中方在互利共赢、相互尊重、睦邻友好基础上，进一步加强各领域务…</p>
+      <pubDate>Thu, 22 Oct 2026 11:11:56 GMT</pubDate>
+      <description><![CDATA[<p>中新社北京10月22日电 中国官方22日通报，北京市委常委、副市长夏林茂涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。</p>
 <p><b>2 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="http://politics.people.com.cn/n1/2026/1021/c1024-40819105.html">人民网时政</a> — 李强同俄罗斯总理米舒斯京共同主持中俄总理第三十一次定期会晤</li>
-<li><a href="http://politics.people.com.cn/n1/2026/1021/c1024-40818458.html">人民网时政</a> — 李强赴圣彼得堡举行中俄总理第三十一次定期会晤</li>
-<li><a href="http://politics.people.com.cn/n1/2026/1021/c1024-40818446.html">人民网时政</a> — 李强赴圣彼得堡举行中俄总理第三十一次定期会晤</li>
-<li><a href="https://www.chinanews.com.cn/gn/2026/10-21/10718661.shtml">中新网国内</a> — 李强同俄罗斯总理米舒斯京共同主持中俄总理第三十一次定期会晤</li>
-<li><a href="https://www.chinanews.com.cn/gn/2026/10-21/10718638.shtml">中新网国内</a> — 李强同俄罗斯总理米舒斯京共同主持中俄总理第三十一次定期会晤</li>
+<li><a href="https://www.chinanews.com.cn/gn/2026/10-22/10719251.shtml">中新网国内</a> — 北京市委常委、副市长夏林茂任上被查</li>
+<li><a href="https://china.caixin.com/2026-10-22/102496068.html">财新网</a> — 56岁北京常务副市长夏林茂落马</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>雷军：汽车没安全其他都是0，所有的智能性能和创新设计都失去了意义</title>
-      <link>https://www.jiemian.com/article/15220039.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.jiemian.com%2Farticle%2F15220039.html</guid>
+      <title>美国10年期国债收益率一个月来首次跌破5%</title>
+      <link>https://www.jiemian.com/article/15225759.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.jiemian.com%2Farticle%2F15225759.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 14:12:08 GMT</pubDate>
-      <description><![CDATA[<p></p>
-<p><b>2 家媒体报道 · 重要度 5.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.jiemian.com/article/15220039.html">界面新闻</a> — 雷军：汽车没安全其他都是0，所有的智能性能和创新设计都失去了意义</li>
-<li><a href="https://www.zhihu.com/question/2095916704706704849">知乎热榜</a> — 工信部提出「坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场」，这会给行业带来哪些转向？</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>美航空航天局公布月球车最新研发进展及任务规划</title>
-      <link>https://www.jiemian.com/article/15220050.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.jiemian.com%2Farticle%2F15220050.html</guid>
-      <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 15:30:05 GMT</pubDate>
-      <description><![CDATA[<p>美国航空航天局10月20日公布了其月球车的最新研发进展及任务规划。用于探测月球水资源的“挥发物调查极地探索车”（VIPER）计划于2027年运抵月球南极地区开展探测，载人月球地形车则计划于2028年前运抵月球南极地区，为未来载人探月和月球基地建设提供支持。（新华社）</p>
+      <pubDate>Thu, 22 Oct 2026 17:43:20 GMT</pubDate>
+      <description><![CDATA[<p>10月22日，美国10年期国债收益率跌破5%，为9月23日以来最低水平，日内下跌12个基点。</p>
 <p><b>2 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.jiemian.com/article/15220050.html">界面新闻</a> — 美航空航天局公布月球车最新研发进展及任务规划</li>
-<li><a href="https://www.ithome.com/1/016/149.htm">IT之家</a> — NASA 公布月球探测车最新进展：VIPER 计划 2027 年探测月球南极水冰资源</li>
+<li><a href="https://www.jiemian.com/article/15225759.html">界面新闻</a> — 美国10年期国债收益率一个月来首次跌破5%</li>
+<li><a href="https://finance.sina.com.cn/world/2026-10-23/doc-iniwctce4926838.shtml">新浪新闻滚动</a> — 美国10年期国债收益率跌破5% 避险需求推动债市走高</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>SpaceX涨超12%</title>
-      <link>https://www.jiemian.com/article/15220025.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.jiemian.com%2Farticle%2F15220025.html</guid>
+      <title>国乒卫冕乒乓球亚锦赛男团冠军</title>
+      <link>http://www.news.cn/20261023/13111cd70b924eaba5e776e543489c0e/c.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fwww.news.cn%2F20261023%2F13111cd70b924eaba5e776e543489c0e%2Fc.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 14:55:51 GMT</pubDate>
-      <description><![CDATA[<p></p>
+      <pubDate>Thu, 22 Oct 2026 16:20:54 GMT</pubDate>
+      <description><![CDATA[<p>&quot;新华社塔什干10月22日电 在刚刚结束的2026年亚洲乒乓球锦标赛男子团体决赛中，中国队以3:0战胜韩国队，成功卫冕。&quot;</p>
 <p><b>2 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.jiemian.com/article/15220025.html">界面新闻</a> — SpaceX涨超12%</li>
-<li><a href="https://finance.sina.com.cn/tech/digi/2026-10-21/doc-inivzcqf6114442.shtml">新浪新闻滚动</a> — SpaceX 盘中暴涨 11% 市值超台积电：与特斯拉合并传闻 + 超预期业绩</li>
+<li><a href="http://www.news.cn/20261023/13111cd70b924eaba5e776e543489c0e/c.html">新华社最新播报</a> — 国乒卫冕乒乓球亚锦赛男团冠军</li>
+<li><a href="https://www.zhihu.com/question/2096757965445410980">知乎热榜</a> — 乒乓球亚锦赛男团决赛，中国 3-0 韩国，队史第 26 次夺冠，如何评价本场比赛？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>丁薛祥会见2026年国际科学理事会中期会员大会暨北京科学对话部分外宾</title>
-      <link>http://politics.people.com.cn/n1/2026/1021/c1024-40819108.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fpolitics.people.com.cn%2Fn1%2F2026%2F1021%2Fc1024-40819108.html</guid>
+      <title>梁振英出席第四届粤港澳大湾区发展工商大会开幕式并致辞</title>
+      <link>http://politics.people.com.cn/n1/2026/1022/c1001-40819653.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fpolitics.people.com.cn%2Fn1%2F2026%2F1022%2Fc1001-40819653.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 11:44:57 GMT</pubDate>
-      <description><![CDATA[<p>新华社北京10月21日电（记者王慧慧）中共中央政治局常委、国务院副总理丁薛祥21日在北京会见2026年国际科学理事会中期会员大会暨北京科学对话部分外宾。 丁薛祥表示，科学技术是人类共同的财富，开放合作是科技创新的必然选择。中国愿同各方一道，坚守科学初心，弘扬科学精神，以开放包容畅通国际学术交流，以协同攻关破解前沿科技难题，以互利合作促进成果普惠共享，共同推动全球科技事业发展。 国际科学理事会主席格鲁克曼等发言，赞赏中国科技创新取得的成就，表示坚定支持开放合作，让科学真正成为全球公共产品，为全人类共同发展进步贡献更大力量。 (责编：卫嘉、白宇)</p>
+      <pubDate>Thu, 22 Oct 2026 15:17:01 GMT</pubDate>
+      <description><![CDATA[<p>新华社澳门10月22日电 第四届粤港澳大湾区发展工商大会22日在澳门开幕，全国政协副主席梁振英出席开幕式并致辞。 梁振英表示，建设粤港澳大湾区，是习近平主席亲自谋划、亲自部署、亲自推动的重大国家战略，是丰富“一国两制”伟大实践的崭新平台。《粤港澳大湾区发展规划纲要》发布7年来，粤港澳三地同心协力、砥砺前行，携手推动大湾区建设从宏伟蓝图一步步转化为生动现实。希望与会各方抓住难得机会，深入交流研讨，广泛凝聚共识，为加快推动粤港澳大湾区建设注入新动能。 本次大会以“融通湾区，链动世界”为主题，由中国国际贸易促进委员会、广东省人民政府、香港特别行政区政府、澳门特别行政区政府主办。来自国内外政府机构、工商界代表1000余人出席。 (责编：岳弘彬、牛镛)</p>
 <p><b>2 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="http://politics.people.com.cn/n1/2026/1021/c1024-40819108.html">人民网时政</a> — 丁薛祥会见2026年国际科学理事会中期会员大会暨北京科学对话部分外宾</li>
-<li><a href="https://www.chinanews.com.cn/gn/2026/10-21/10718672.shtml">中新网国内</a> — 丁薛祥会见2026年国际科学理事会中期会员大会暨北京科学对话部分外宾</li>
+<li><a href="http://politics.people.com.cn/n1/2026/1022/c1001-40819653.html">人民网时政</a> — 梁振英出席第四届粤港澳大湾区发展工商大会开幕式并致辞</li>
+<li><a href="http://www.news.cn/20261022/82f27bf278f84d849a61bb9c387fccad/c.html">新华社最新播报</a> — 融通湾区 链动世界——第四届粤港澳大湾区发展工商大会综述</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>王毅将出席2026全球治理论坛（雄安）开幕式</title>
-      <link>http://politics.people.com.cn/n1/2026/1021/c1001-40819049.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fpolitics.people.com.cn%2Fn1%2F2026%2F1021%2Fc1001-40819049.html</guid>
+      <title>MiniMax港股破发 市场为何重估AI模型公司？</title>
+      <link>https://www.caixin.com/2026-10-22/102496143.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.caixin.com%2F2026-10-22%2F102496143.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 09:58:00 GMT</pubDate>
-      <description><![CDATA[<p>新华社北京10月21日电 外交部发言人21日宣布：中共中央政治局委员、外交部长王毅将于10月23日出席2026全球治理论坛（雄安）开幕式并作主旨发言。 (责编：卫嘉、白宇)</p>
+      <pubDate>Thu, 22 Oct 2026 11:24:23 GMT</pubDate>
+      <description><![CDATA[<p>MiniMax已长时间没有发布智能水平较高的模型，全球科技板块近期也正大幅回调 10月22日，MiniMax盘中股价最低下探到158.1港元/股，跌8.03%；最终收报160.7港元/股，跌6.52%，对应市值为566.4亿港元。图：视觉中国 【财新网】 10月22日， MiniMax （00100.HK）股价跌破165港元/股的发行价。当日，MiniMax盘中股价最低下探到158.1港元/股，跌8.03%；最终收报160.7港元/股，跌6.52%，对应市值为566.4亿港元。 MiniMax在1月9日登陆港交所，IPO净募资额为45.96亿港元。上市以后，MiniMax因海外收入超过另一上市大模型公司 智谱 （2513.HK）而更受投资者青睐，其股价曾在3月18日达到1330港元/股的高点，MiniMax当前股价较这一高点已回撤超88%。</p>
 <p><b>2 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="http://politics.people.com.cn/n1/2026/1021/c1001-40819049.html">人民网时政</a> — 王毅将出席2026全球治理论坛（雄安）开幕式</li>
-<li><a href="http://world.people.com.cn/n1/2026/1021/c1002-40819102.html">人民网国际</a> — 外交部介绍举办2026全球治理论坛（雄安）中方期待</li>
+<li><a href="https://www.caixin.com/2026-10-22/102496143.html">财新网</a> — MiniMax港股破发 市场为何重估AI模型公司？</li>
+<li><a href="https://www.huxiu.com/article/4899672.html">虎嗅</a> — 收入快速增长，MiniMax却破发了？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>银发不减报国志，他们心中依然有团火</title>
-      <link>http://finance.people.com.cn/n1/2026/1020/c1004-40818354.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Ffinance.people.com.cn%2Fn1%2F2026%2F1020%2Fc1004-40818354.html</guid>
+      <title>中国一汽-广汽集团联合工作组成立启动会召开</title>
+      <link>https://www.jiemian.com/article/15225726.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.jiemian.com%2Farticle%2F15225726.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 14:23:12 GMT</pubDate>
-      <description><![CDATA[<p>人民网北京10月20日电 （记者赵竹青）10月16日，由中国老科学技术工作者协会主办的2026年全国老科技工作者日北京主场活动举行，以“传薪火”为主题，在重阳节来临之际集中展示新时代老科技工作者风采。 他们甘为人梯。科学的未来在青年，青年科技工作者的成长离不开前辈的支持和鼓励。杜彦良作为中国道路与铁道工程领域安全监测与可靠性评价方向的学术带头人，退休后坚持在科研、教学第一线，积极参与高层次人才培养，助力青年人才脱颖而出。 他们潜心科研。面向科技前沿，面向国家重大需求，带领青年科技工作者不断勇攀高峰。谢军长期从事卫星导航技术研究，带领团队突破新一代导航卫星关键技术，打破国外技术封锁，实现卫星产品国产化，为北斗系统建设与技术跨越作出了重大贡献。 他们转战科普。科技创新、科学普及是实现创新发展的两翼。老科学家最了解本专业，他们走上科普一线，传播的不仅是科学知识，更是科学精神和科学家精神。高级工程…</p>
-<p><b>2 家媒体报道 · 重要度 3.0/10</b></p>
+      <pubDate>Thu, 22 Oct 2026 15:40:22 GMT</pubDate>
+      <description><![CDATA[<p>10月22日，中国一汽党委书记、董事长邱现东，广汽集团党委书记、董事长冯兴亚共同出席在广汽集团总部举行的双方联合工作组成立启动会，并举行工作会谈。双方一致表示，将以联合工作组成立启动为契机，持续深化战略互信，确保战略合作框架协议各项计划的顺利实施。</p>
+<p><b>2 家媒体报道 · 重要度 4.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="http://finance.people.com.cn/n1/2026/1020/c1004-40818354.html">人民网财经</a> — 银发不减报国志，他们心中依然有团火</li>
-<li><a href="https://www.chinanews.com.cn/cul/2026/10-21/10718784.shtml">中新网滚动</a> — 话剧《仰望者》上演 再现哈工大“八百壮士”报国路</li>
+<li><a href="https://www.jiemian.com/article/15225726.html">界面新闻</a> — 中国一汽-广汽集团联合工作组成立启动会召开</li>
+<li><a href="https://www.ithome.com/1/016/748.htm">IT之家</a> — 中国一汽 — 广汽集团联合工作组成立启动会召开</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>抖音电商“双11”开局数据公布 助力商家稳增长</title>
-      <link>http://finance.people.com.cn/n1/2026/1021/c1004-40819053.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Ffinance.people.com.cn%2Fn1%2F2026%2F1021%2Fc1004-40819053.html</guid>
+      <title>欧洲主要股指集体收跌，欧洲斯托克600指数跌1%</title>
+      <link>https://www.jiemian.com/article/15225715.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.jiemian.com%2Farticle%2F15225715.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 07:43:00 GMT</pubDate>
-      <description><![CDATA[<p>人民网北京10月20日电 （记者乔雪峰）10月15日，2026年抖音商城双11好物节启动。抖音电商公布的首日数据显示，平台成交额新突破百万元的商家数量同比增长74%，店播成交额破千万元的商家数量同比增长96%，首次参加双11且成交额突破百万元的达人数量同比增长30%。与此同时，服饰、美妆个护、快消、宠物用品等类目也呈现高增长，中小新商、达人及特色行业商家的阶段经营表现受到关注。 记者了解到，活动将持续至11月11日，今年双11主要围绕优惠机制、商家经营扶持和秋冬换季消费需求展开，平台通过消费券、流量激励及经营补贴等措施，为商家参与大促提供支持。10月15日至18日，抖音电商双11“开门红”阶段延续了首日的增长态势，店播新商及特色行业产业带商家继续取得良好表现。 优惠做减法，购物体验做加法 今年抖音电商双11活动周期为28天，采用现货销售模式，不设置预售环节。活动期间，平台延续“立减折扣”“…</p>
-<p><b>2 家媒体报道 · 重要度 3.0/10</b></p>
+      <pubDate>Thu, 22 Oct 2026 17:31:44 GMT</pubDate>
+      <description><![CDATA[<p>10月22日，欧洲主要股指普遍下跌。欧洲斯托克600指数跌1.01%，英国富时100指数跌0.27%，德国DAX指数跌1.04%，法国CAC 40指数跌1.42%，西班牙IBEX指数跌1.98%。欧洲斯托克指数跌1.72%，欧元区蓝筹股指数跌1.89%。</p>
+<p><b>2 家媒体报道 · 重要度 4.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="http://finance.people.com.cn/n1/2026/1021/c1004-40819053.html">人民网财经</a> — 抖音电商“双11”开局数据公布 助力商家稳增长</li>
-<li><a href="https://www.leiphone.com/category/industrynews/30w2GXFtLv9CootW.html">雷锋网</a> — 抖音电商公布双11开门红数据：消费券带动成交额破亿商家数涨2倍</li>
+<li><a href="https://www.jiemian.com/article/15225715.html">界面新闻</a> — 欧洲主要股指集体收跌，欧洲斯托克600指数跌1%</li>
+<li><a href="https://finance.sina.com.cn/world/2026-10-23/doc-iniwctce4923854.shtml">新浪新闻滚动</a> — 欧洲股市收盘下跌 企业财报令人失望且AI忧虑重燃</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>科大智能递表港交所</title>
+      <link>https://www.jiemian.com/article/15225712.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.jiemian.com%2Farticle%2F15225712.html</guid>
+      <category>国内新闻</category>
+      <pubDate>Thu, 22 Oct 2026 15:33:48 GMT</pubDate>
+      <description><![CDATA[<p>据港交所文件，10月22日，科大智能科技股份有限公司向港交所提交上市申请书，联席保荐人为华泰国际、国元国际。</p>
+<p><b>2 家媒体报道 · 重要度 2.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.jiemian.com/article/15225712.html">界面新闻</a> — 科大智能递表港交所</li>
+<li><a href="https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpf5966501.shtml">新浪新闻滚动</a> — 港股IPO：科大智能科技股份有限公司递表港交所</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>台风“蔷琵”临近 台湾多地停班停课</title>
+      <link>https://www.chinanews.com.cn/gn/2026/10-22/10719408.shtml</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.chinanews.com.cn%2Fgn%2F2026%2F10-22%2F10719408.shtml</guid>
+      <category>国内新闻</category>
+      <pubDate>Thu, 22 Oct 2026 14:21:43 GMT</pubDate>
+      <description><![CDATA[<p>中新社台北10月22日电 伴随台风“蔷琵”临近，台湾多地22日宣布23日将停班停课，台股休市一天。</p>
+<p><b>2 家媒体报道 · 重要度 2.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.chinanews.com.cn/gn/2026/10-22/10719408.shtml">中新网国内</a> — 台风“蔷琵”临近 台湾多地停班停课</li>
+<li><a href="https://www.chinanews.com.cn/sh/2026/10-22/10719417.shtml">中新网滚动</a> — 珠江委会商部署台风“蔷琵”防御及枯水期供水保障工作</li>
 </ul>]]></description>
     </item>
     <item>
@@ -238,125 +296,117 @@
 <p><b>来源：</b></p>
 <ul>
 <li><a href="http://politics.people.com.cn/n1/2026/1021/c1024-40818451.html">人民网时政</a> — 丁薛祥在河北雄安新区出席国家数据集团有限公司成立大会并调研</li>
-<li><a href="http://politics.people.com.cn/n1/2026/1020/c1024-40818420.html">人民网时政</a> — 丁薛祥在河北雄安新区出席国家数据集团有限公司成立大会并调研</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>Kling 4.0 API正式首发上线</title>
-      <link>https://www.jiemian.com/article/15220180.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.jiemian.com%2Farticle%2F15220180.html</guid>
+      <title>综合消息｜俄乌一边释放谈判信号一边互袭不断</title>
+      <link>http://www.news.cn/20261022/63748cf04acd4a1ca5d759029795197e/c.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fwww.news.cn%2F20261022%2F63748cf04acd4a1ca5d759029795197e%2Fc.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 15:50:43 GMT</pubDate>
-      <description><![CDATA[<p>10月21日晚间，Kling 4.0 API服务正式首发上线，将逐步面向全球企业客户与开发者开放。 Kling 4.0以“真实、可控、专业”为核心升级方向：大幅度运动与复杂运镜更加稳定流畅，单次原生生成最长达30秒，支持10张关键帧输入。目前，Kling 4.0已在爱奇艺纳逗Pro、Higgsfield、LibTV、Magnific(Freepik)、美图公司、OpenArt、OiiOii 、TapNow、腾讯设计 Miora、updream 等同步上线，为企业及创作者提供更好的创作服务。</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+      <pubDate>Thu, 22 Oct 2026 15:32:33 GMT</pubDate>
+      <description><![CDATA[<p>新华社北京10月22日电 综合新华社驻外记者报道：近日，围绕俄乌冲突的外交接触密集展开。美国总统特使威特科夫先后与乌克兰总统泽连斯基和俄罗斯总统普京会面；乌方释放出支持“能源停火”和以“冻结现状”为基础达成和平协议的信号；俄方则表示准备重启俄美乌三方会谈。与此同时，俄乌双方互袭不断，乌方称能源设施再遭大范围袭击。 泽连斯基22日接受英国媒体采访时称，乌方愿讨论安全保障和停火问题，停火是目前乌方能作出的最大让步。俄方要求乌方从斯拉维扬斯克、克拉马托尔斯克、德鲁日科夫卡等地撤军，但如果将上述城市移交给俄方，乌方将面临巨大安全风险。 据乌克兰国际文传电讯社21日报道，泽连斯基当天在接受美国媒体直播采访时说，愿在保留至少75%领土控制权、“冻结现状”的基础上达成和平协议。乌方随后还将寻求美国总统和欧洲盟友的安全保障，“以确保和平与安全”。 泽连斯基20日在社交媒体上称，当天他与威特科夫和欧洲伙伴在…</p>
+<p><b>1 家媒体报道 · 重要度 8.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.jiemian.com/article/15220180.html">界面新闻</a> — Kling 4.0 API正式首发上线</li>
+<li><a href="http://www.news.cn/20261022/63748cf04acd4a1ca5d759029795197e/c.html">新华社最新播报</a> — 综合消息｜俄乌一边释放谈判信号一边互袭不断</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>AI泡沫担忧冲击全球股市 英伟达出资推动上游扩产</title>
-      <link>https://www.caixin.com/2026-10-21/102495845.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.caixin.com%2F2026-10-21%2F102495845.html</guid>
+      <title>美俄乌或举行三方会谈 威特科夫称普京“人道主义者”引国内批评</title>
+      <link>https://international.caixin.com/2026-10-22/102496178.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Finternational.caixin.com%2F2026-10-22%2F102496178.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 15:00:16 GMT</pubDate>
-      <description><![CDATA[<p>英伟达向下游企业提供资金支持以推动其扩大AI基础设施建设，如今又在推动这一模式向上游拓展 当地时间2026年10月21日，德国柏林，英伟达首席执行官黄仁勋在该公司的GTC大会上发表主题演讲。图：视觉中国 【财新网】 英伟达宣布大幅扩产试图消除市场担忧。当地时间10月21日，英伟达CEO黄仁勋在2026年英伟达GTC柏林大会首日，宣布与欣兴电子、三星电机等六家供应商合作扩大产能，涉及基板、先进封装、测试和光引擎等环节。 而对AI需求泡沫的担忧正冲击全球股市，科技股在10月普遍进入调整阶段，半导体、存储芯片和AI基础设施服务商领跌。 自10月6日进入下跌通道以来，费城半导体指数跌约14%，韩国综合股价指数（KOSPI）跌超18%，日经225指数跌约8%，A股科创50跌超12%，创业板指跌14%。个股方面，违约风险引发市场担忧的新云服务商（NeoCloud）CoreWeave股价下跌超30%，S…</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+      <pubDate>Thu, 22 Oct 2026 12:54:25 GMT</pubDate>
+      <description><![CDATA[<p>普京“原则上”同意在11月10日左右重启三方会谈，地点可能在阿布扎比。泽连斯基称，结束战争仍然是当务之急 当地时间2026年10月21日，俄罗斯圣彼得堡，普京与美国和平事务总统特使威特科夫举行会晤。图：视觉中国 【财新网】 当地时间10月21日，在与美国总统特使威特科夫会面结束后，俄罗斯总统普京通过其发言人传达了愿举行俄美乌三方会谈的意愿。威特科夫在会谈结束后于X平台发文称会谈“富有建设性”，后续还将通过美俄乌之间的三方技术层面会谈继续进行。 俄罗斯总统助理尤里·乌沙科夫告诉媒体，普京“原则上”同意在11月10日左右重启三方会谈，地点可能在阿布扎比，会谈将重点讨论“冲突结束后为俄罗斯和乌克兰建立安全体系”。 据乌沙科夫介绍，普京与威特科夫在圣彼得堡的会谈持续了约三小时，但对于美方带来的奥斯陆会议方案，俄方认为，“在解决乌克兰危机方面几乎没有任何实际价值”。乌沙科夫进一步解释，虽然莫斯科对奥…</p>
+<p><b>1 家媒体报道 · 重要度 8.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.caixin.com/2026-10-21/102495845.html">财新网</a> — AI泡沫担忧冲击全球股市 英伟达出资推动上游扩产</li>
+<li><a href="https://international.caixin.com/2026-10-22/102496178.html">财新网</a> — 美俄乌或举行三方会谈 威特科夫称普京“人道主义者”引国内批评</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>袭船事件从霍尔木兹海峡蔓延至伊拉克附近海域</title>
-      <link>https://www.jiemian.com/article/15220095.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.jiemian.com%2Farticle%2F15220095.html</guid>
+      <title>李强会见俄罗斯总统普京</title>
+      <link>http://politics.people.com.cn/n1/2026/1022/c1024-40819175.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fpolitics.people.com.cn%2Fn1%2F2026%2F1022%2Fc1024-40819175.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 14:55:57 GMT</pubDate>
-      <description><![CDATA[<p>英国海上贸易行动办公室10月21日通报，伊拉克附近海域和阿曼附近海域分别发生油轮遇袭事件。近期，袭船事件从霍尔木兹海峡蔓延至伊拉克附近海域。通报说，协调世界时20日18时30分（北京时间21日2时30分），一艘油轮在伊拉克南部法奥东南方向30海里（约56公里）处遭不明发射物击中。船长报告船员安全，暂未报告船舶受损或环境影响。法奥位于波斯湾西北端。其附近海域是船舶进出伊拉克南部港口和海上石油出口设施的重要通道，与霍尔木兹海峡相距较远。（央视新闻）</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+      <pubDate>Wed, 21 Oct 2026 22:02:00 GMT</pubDate>
+      <description><![CDATA[<p>10月21日下午，国务院总理李强在圣彼得堡会见俄罗斯总统普京。 新华社记者 黄敬文摄 &quot; referrerpolicy=&quot;no-referrer&quot;&gt; 10月21日下午，国务院总理李强在圣彼得堡会见俄罗斯总统普京。 新华社记者 黄敬文摄 本报圣彼得堡10月21日电 （记者王洲）10月21日下午，国务院总理李强在圣彼得堡会见俄罗斯总统普京。 李强首先转达习近平主席对普京总统的亲切问候和良好祝愿。李强表示，在国际形势持续复杂演变的背景下，中俄保持着紧密协作，是变乱交织的世界中难能可贵的稳定力量。今年以来，两国元首两度会晤，就深化中俄关系与合作作出进一步规划。中方愿同俄方加强战略沟通，夯实政治互信，拓展全方位互利合作，持续增进两国人民福祉。 李强指出，中方愿同俄方更好发挥经济互补优势，维护当前双方合作的良好发展态势，加强能源资源、经贸投资、交通运输等务实合作，取得更多积极成果，促进两国共同繁荣。双…</p>
+<p><b>1 家媒体报道 · 重要度 8.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.jiemian.com/article/15220095.html">界面新闻</a> — 袭船事件从霍尔木兹海峡蔓延至伊拉克附近海域</li>
+<li><a href="http://politics.people.com.cn/n1/2026/1022/c1024-40819175.html">人民网时政</a> — 李强会见俄罗斯总统普京</li>
+<li><a href="http://politics.people.com.cn/n1/2026/1021/c1024-40819145.html">人民网时政</a> — 李强会见俄罗斯总统普京</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>88亿元没有猪的生猪交易 广西民企涉“开票经济”致国企重大损失</title>
-      <link>https://economy.caixin.com/2026-10-21/102495832.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Feconomy.caixin.com%2F2026-10-21%2F102495832.html</guid>
+      <title>中共中央办公厅国务院办公厅关于推动科技创新和产业创新深度融合的意见</title>
+      <link>http://politics.people.com.cn/n1/2026/1022/c1001-40819173.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fpolitics.people.com.cn%2Fn1%2F2026%2F1022%2Fc1001-40819173.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 14:09:25 GMT</pubDate>
-      <description><![CDATA[<p>南宁轩鹏公司通过与地方国企建立合作，形成虚假贸易循环，累计对外开票88亿元；目前公司实控人已出境，多家参与交易的地方国企巨额资金无法收回 轩鹏公司在合作初期刻意营造业务真实、资金及时回笼、稳定获利的样板交易，取得地方国企信任；正常开展稳定合作后，编造“急需预付生猪采购款项，保证生猪货源供应”等虚假事由，诱使地方国企向银行贷款，用以提前支付采购货款，并将资金挪作他用。图：视觉中国 【财新网】 近日国家税务总局首次公布的纠治开票经济典型案例中，披露一起民企通过虚构贸易、循环开票并利用地方国企套取贷款，造成国企重大经济损失的案件。 广西壮族自治区南宁市税务局核查发现，2023年至2025年， 广西南宁轩鹏农业发展有限公司 （下称“轩鹏公司”）利用虚假资质获得多个地方国企的生猪购销业务，并依托国企合同“背书”和盗用屠宰证等手段，提供虚假资料，骗取数电发票额度，累计对外开具发票金额近88亿元，同期取…</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+      <pubDate>Wed, 21 Oct 2026 22:01:00 GMT</pubDate>
+      <description><![CDATA[<p>为推动科技创新和产业创新深度融合，经党中央、国务院同意，现提出如下意见。 一、总体要求 坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，认真落实四中全会部署，深入实施创新驱动发展战略，以发展新质生产力、建设现代化产业体系为目标，以构建企业主导、各主体协同的产学研融通创新体系为重点，推动全链条贯通、全领域覆盖、全要素融通、全方位保障，形成科技创新和产业创新互融共促新格局，打通从科技强到产业强、经济强、国家强的通道，为加快高水平科技自立自强、实现高质量发展、建设社会主义现代化强国提供支撑。 工作中要做到：坚持准确把握科技革命和产业变革新趋势新特点，加强系统谋划和一体推进；坚持统筹科技供给和需求牵引，围绕产业链部署创新链，围绕创新链布局产业链；坚持强化企业创新主体地位，完善激励创新的市场机制，推动创新资源向企业集聚；坚持以改革激发创新活力，坚决破除阻碍科技创…</p>
+<p><b>1 家媒体报道 · 重要度 8.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://economy.caixin.com/2026-10-21/102495832.html">财新网</a> — 88亿元没有猪的生猪交易 广西民企涉“开票经济”致国企重大损失</li>
+<li><a href="http://politics.people.com.cn/n1/2026/1022/c1001-40819173.html">人民网时政</a> — 中共中央办公厅国务院办公厅关于推动科技创新和产业创新深度融合的意见</li>
+<li><a href="http://politics.people.com.cn/n1/2026/1021/c1001-40819104.html">人民网时政</a> — 中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见</li>
+<li><a href="http://politics.people.com.cn/n1/2026/1021/c1001-40819103.html">人民网时政</a> — 中办、国办《关于推动科技创新和产业创新深度融合的意见》对外发布</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>中国海警局新闻发言人发表谈话</title>
-      <link>https://www.chinanews.com.cn/gn/2026/10-21/10718735.shtml</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.chinanews.com.cn%2Fgn%2F2026%2F10-21%2F10718735.shtml</guid>
+      <title>DeepSeek、MiniMax已完成开源和海外授权使用</title>
+      <link>https://www.jiemian.com/article/15225794.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.jiemian.com%2Farticle%2F15225794.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 13:10:52 GMT</pubDate>
-      <description><![CDATA[<p>中新社北京10月21日电 中国海警局新闻发言人姜略21日表示，当日，经中方允许，菲律宾对其非法“坐滩”仁爱礁船只运送生活物资，中国海警对菲船只询问确认并全程监管。中国海警将持续依法在包括仁爱礁在内的南沙群岛及其附近海域开展维权执法活动。(完)</p>
+      <pubDate>Thu, 22 Oct 2026 16:22:09 GMT</pubDate>
+      <description><![CDATA[<p>10月16日，商务部、科技部就修订《中国禁止出口限制出口技术目录》（以下简称《目录》）公开征求意见。其中，有23项人工智能领域技术，包括大模型、智能体、算力集群、信息处理等。《目录》出来后，一些人提出了疑问：中国强调技术开放，怎么突然要给AI加上“出口限制”了？这次是不是政策转向的信号？据悉，政策公布以来，DeepSeek、MiniMax两家头部企业已顺利履行登记手续，并完成开源和海外授权使用。商务部在相关答问中，对“什么不管”的解释，明显比对“什么要管”的解释更多、更具体。从这也能看出，《目录》的核心是划定边界，而非单纯限制AI技术对外出口。（玉渊谭天）</p>
 <p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.chinanews.com.cn/gn/2026/10-21/10718735.shtml">中新网国内</a> — 中国海警局新闻发言人发表谈话</li>
-<li><a href="https://www.chinanews.com.cn/gn/2026/10-21/10718667.shtml">中新网国内</a> — 菲律宾对其非法“坐滩”仁爱礁船只运送生活物资 中国海警发声</li>
+<li><a href="https://www.jiemian.com/article/15225794.html">界面新闻</a> — DeepSeek、MiniMax已完成开源和海外授权使用</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>硬X射线自由电子激光装置在沪实现首次出光</title>
-      <link>https://www.chinanews.com.cn/gn/2026/10-21/10718664.shtml</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.chinanews.com.cn%2Fgn%2F2026%2F10-21%2F10718664.shtml</guid>
+      <title>新华时评丨警惕日本正滑入“新的战前状态”</title>
+      <link>http://www.news.cn/20261022/59d0b0a9591543fabdf210f32bc562ad/c.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fwww.news.cn%2F20261022%2F59d0b0a9591543fabdf210f32bc562ad%2Fc.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 11:40:03 GMT</pubDate>
-      <description><![CDATA[<p>中新社上海10月21日电 (记者 郑莹莹)记者21日从上海科技大学获悉，中国国家重大科技基础设施——硬X射线自由电子激光装置(简称“SHINE”)建设取得突破性进展。近日，该装置采用4吉电子伏特(GeV)连续波超导直线加速器产生的电子束，驱动18台4米长、磁周期为55毫米的波荡器线，成功实现自由电子激光首次出光，向着2027年底建成投用迈出关键性一步。</p>
+      <pubDate>Thu, 22 Oct 2026 15:31:50 GMT</pubDate>
+      <description><![CDATA[<p>新华社北京10月22日电 题：警惕日本正滑入“新的战前状态” 新华社记者叶书宏 近日，日本首相高市早苗再次公然向靖国神社供奉祭品、祭祀费，多名政府官员、自民党政要以及国会议员前往参拜。日方最新的消极动向再次表明，其执政当局在历史认知上大开倒车、肆意践踏历史正义，在“再军事化”道路上一路狂奔。种种危险举动正对战后国际秩序构成系统性冲击，将日本推向重蹈历史覆辙的歧路。 10月19日晚，日本民众在东京国会议事堂前举行抗议集会，反对高市早苗政府的扩军备武和修宪动向，呼吁维护和平。新华社记者梁晨摄 这股逆流不仅引发了国际社会高度警惕，也令日本国内深感不安。不久前，在东京举行的一场研讨会上，日本山口大学名誉教授纐缬厚发出警告：执政当局的政策、思想等与20世纪30年代日本军国主义政权，有着“非常明显的相似之处”。日本在野党社民党党首福岛瑞穗等不约而同地表达了危机感并直言，日本已然处于“新的战前状态”。 …</p>
 <p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.chinanews.com.cn/gn/2026/10-21/10718664.shtml">中新网国内</a> — 硬X射线自由电子激光装置在沪实现首次出光</li>
+<li><a href="http://www.news.cn/20261022/59d0b0a9591543fabdf210f32bc562ad/c.html">新华社最新播报</a> — 新华时评丨警惕日本正滑入“新的战前状态”</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>老树亦能发新芽 新质生产力不能只“追”新赛道</title>
-      <link>http://finance.people.com.cn/n1/2026/1021/c1004-40819052.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Ffinance.people.com.cn%2Fn1%2F2026%2F1021%2Fc1004-40819052.html</guid>
+      <title>PCAOB在上海进行审计检查 主席现场观摩</title>
+      <link>https://finance.caixin.com/2026-10-22/102496150.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Ffinance.caixin.com%2F2026-10-22%2F102496150.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 07:43:00 GMT</pubDate>
-      <description><![CDATA[<p>时隔3年，在这个时间点，党中央和国务院印发《关于发展新质生产力的意见》（以下简称《意见》），有哪些考虑？ 国家发展改革委有关负责人介绍，全国上下高度重视、积极实践，但具体工作中出现了一些苗头性问题。比如，有的片面认为发展新质生产力就是抓未来产业、新兴产业，忽视传统产业升级改造。 《意见》针对这些问题，给出了明确排序：改造提升传统产业，培育壮大新兴产业，前瞻布局未来产业，促进数字经济和实体经济深度融合，全面实施“人工智能+”行动。 仔细看，顺序有讲究。 传统产业不是“旧包袱”，是基本盘。 “新质生产力根在实体经济。”国家发展改革委国家信息中心研究员赵霄伟说，部分地方片面认为新质生产力就是抓未来产业、新兴产业，忽视传统产业升级改造，这个认识要纠偏。 为什么不能忽视？赵霄伟给出了一组数据：2025年我国高技术制造业增加值占规模以上工业增加值比重为17.1%。换句话说，八成以上的工业仍是传统产业。…</p>
+      <pubDate>Thu, 22 Oct 2026 11:57:01 GMT</pubDate>
+      <description><![CDATA[<p>美方重申在华审计检查不降低标准，持续获得完整检查权限仍是合作关键 2026年10月14日，中国证监会主席吴清、财政部副部长郭婷婷在京共同会见了美国公众公司会计监督委员会（PCAOB）主席德梅特里奥斯·洛戈泰斯（Demetrios Logothetis）。图：证监会 【财新网】 中美跨境审计监管合作协议实施四年后，美国审计监管机构负责人首次赴中国内地，现场观摩对中概股会计师事务所的审计检查，并与中国监管高层就中美审计监管合作深入交换意见。 当地时间2026年10月21日，美国公众公司会计监督委员会（PCAOB）披露，该机构主席德梅特里奥斯·洛戈泰斯（Demetrios Logothetis）上周结束了为期四天的中国内地访问，期间在上海现场观摩PCAOB审计检查工作，并于10月14日在北京会见中国证监会主席 吴清 、财政部副部长 郭婷婷 。</p>
 <p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="http://finance.people.com.cn/n1/2026/1021/c1004-40819052.html">人民网财经</a> — 老树亦能发新芽 新质生产力不能只“追”新赛道</li>
+<li><a href="https://finance.caixin.com/2026-10-22/102496150.html">财新网</a> — PCAOB在上海进行审计检查 主席现场观摩</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>王春晖：数据要素改革迈入国家级主体规模化实施阶段</title>
-      <link>http://finance.people.com.cn/n1/2026/1021/c1004-40819050.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Ffinance.people.com.cn%2Fn1%2F2026%2F1021%2Fc1004-40819050.html</guid>
+      <title>中俄总理第三十一次定期会晤联合公报</title>
+      <link>http://politics.people.com.cn/n1/2026/1022/c1001-40819181.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fpolitics.people.com.cn%2Fn1%2F2026%2F1022%2Fc1001-40819181.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 07:42:00 GMT</pubDate>
-      <description><![CDATA[<p>人民网北京10月21日电 （记者许维娜）数据领域来了一支“国家队”。10月20日，国家数据集团有限公司（以下简称“国家数据集团”）在河北雄安新区揭牌。南京邮电大学教授、浙江大学双聘教授、工信部信息通信经济专家委员会委员王春晖表示，这是党中央、国务院立足全局、面向长远作出的重大战略部署，也是我国数据要素市场化改革进程中具有里程碑意义的标志性事件。 在王春晖看来，国家数据集团是经国务院批准设立、由国务院国资委代表国务院履行出资人职责、中央直接管理的国有重要骨干企业，属国有全资公司，以数据资源开发利用作为主责主业，战略定位是服务国家数据战略的功能性骨干央企集团。 “它与普通互联网平台、行业数字化服务商不同。”王春晖表示，国家数据集团的本质是战略功能性央企，核心定位是国家数据战略的执行载体，在数据领域承担战略性、引领性、支撑性功能，不以短期商业利润最大化为首要目标。 当前全球数字竞争持续深化，数据…</p>
+      <pubDate>Wed, 21 Oct 2026 22:03:00 GMT</pubDate>
+      <description><![CDATA[<p>应俄罗斯联邦政府总理米舒斯京邀请，中华人民共和国国务院总理李强于2026年10月20日至21日对俄罗斯进行访问。访问期间，李强总理会见俄罗斯联邦总统普京，并与米舒斯京总理共同举行中俄总理第三十一次定期会晤。 一 两国总理（以下简称“双方”）指出，在两国元首引领下，中俄新时代全面战略协作伙伴关系达到历史最高水平并持续向前发展。 今年是中俄宣布决心发展平等信任的、面向二十一世纪的战略协作伙伴关系30周年和《中俄睦邻友好合作条约》签署25周年。5月，习近平主席和普京总统一致同意《条约》延期，重申双方将继续恪守《条约》各项原则和精神，推动两国关系继续向更高水平、更高质量发展。 《中俄睦邻友好合作条约》中确立的原则以公认的国际法原则和准则为基础，包括互相尊重主权和互不干涉内政等内容，在当前形势下具有重要现实意义。《条约》确定，中俄支持彼此维护国家统一和领土完整，相互不使用武力或以武力相威胁，不针对对…</p>
 <p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="http://finance.people.com.cn/n1/2026/1021/c1004-40819050.html">人民网财经</a> — 王春晖：数据要素改革迈入国家级主体规模化实施阶段</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>中欧刚达成共识，欧盟为何又酝酿贸易新工具</title>
-      <link>https://opinion.caixin.com/2026-10-21/102495693.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fopinion.caixin.com%2F2026-10-21%2F102495693.html</guid>
-      <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 06:19:53 GMT</pubDate>
-      <description><![CDATA[<p>真正需要关注的是，如果欧盟将新的贸易防御措施从个别产品延伸至行业乃至更广泛的市场准入，企业面对的规则将发生什么变化 当地时间2026年10月16日，比利时布鲁塞尔，欧盟总部大楼前的欧盟旗帜。图：视觉中国 10月9日，中欧就混合动力汽车贸易安排达成共识。10月16日，欧盟领导人转而要求欧委会加强贸易防御能力，研究新的贸易措施。此前，法国总统马克龙和德国总理默茨已联名致信欧委会主席冯德莱恩，提出加快限制相关国家进入欧盟单一市场的决策程序。 短短一周内，两项动向接连出现。前者针对具体产品贸易问题寻求解决方案，后者试图改变欧盟应对外部竞争的政策手段。中欧能够就单项贸易问题展开磋商，并不意味着欧方对产业竞争、供应链安全和市场准入的担忧已经缓解。真正需要关注的是，如果欧盟将新的贸易防御措施从个别产品延伸至行业乃至更广泛的市场准入，企业面对的规则将发生什么变化。</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://opinion.caixin.com/2026-10-21/102495693.html">财新网</a> — 中欧刚达成共识，欧盟为何又酝酿贸易新工具</li>
+<li><a href="http://politics.people.com.cn/n1/2026/1022/c1001-40819181.html">人民网时政</a> — 中俄总理第三十一次定期会晤联合公报</li>
+<li><a href="http://politics.people.com.cn/n1/2026/1022/c1024-40819180.html">人民网时政</a> — 李强同俄罗斯总理米舒斯京共同主持中俄总理第三十一次定期会晤</li>
+<li><a href="http://politics.people.com.cn/n1/2026/1021/c1024-40819105.html">人民网时政</a> — 李强同俄罗斯总理米舒斯京共同主持中俄总理第三十一次定期会晤</li>
+<li><a href="http://politics.people.com.cn/n1/2026/1021/c1024-40818458.html">人民网时政</a> — 李强赴圣彼得堡举行中俄总理第三十一次定期会晤</li>
+<li><a href="http://politics.people.com.cn/n1/2026/1021/c1024-40818446.html">人民网时政</a> — 李强赴圣彼得堡举行中俄总理第三十一次定期会晤</li>
 </ul>]]></description>
     </item>
     <item>
@@ -376,95 +426,55 @@
 </ul>]]></description>
     </item>
     <item>
-      <title>9月16—24岁失业率环比回落至18% 高于上年同期</title>
-      <link>https://economy.caixin.com/2026-10-21/102495714.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Feconomy.caixin.com%2F2026-10-21%2F102495714.html</guid>
+      <title>专访佐利克：美国中选、中美关系与国际秩序的未来</title>
+      <link>https://international.caixin.com/2026-10-22/102496046.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Finternational.caixin.com%2F2026-10-22%2F102496046.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 07:18:23 GMT</pubDate>
-      <description><![CDATA[<p>统计局称，7月、8月受毕业季影响，失业率阶段性走高，增幅较上年收窄，9月随着毕业生逐步落实工作岗位，失业率比上月下降 2026年9月19日，天津，天津大学举办专场招聘会。图：视觉中国 【财新网】 随着毕业季影响减弱，2026年9月16—24岁调查失业率降至18%，较上月回落，但仍高于上年同期水平。 国家统计局10月21日公布的分年龄组城镇调查失业率数据显示，9月16—24岁不含在校学生的劳动力失业率为18%，较上月的高点回落0.9个百分点；25—29岁不含在校生的劳动力失业率为7.4%，比上月下降0.1个百分点；30—59岁劳动力失业率则与上月持平于3.9%。 国家统计局人口和就业统计司司长肖宁表示，16—24岁劳动力失业率在2026年上半年呈回落态势，7月、8月受毕业季影响，失业率阶段性走高，但增幅较上年收窄；9月，随着毕业生逐步落实工作岗位，失业率比上月下降。</p>
+      <pubDate>Thu, 22 Oct 2026 07:41:21 GMT</pubDate>
+      <description><![CDATA[<p>佐利克曾任美国贸易代表、常务副国务卿及世界银行行长。采访中，他对11月美国中期选举后的政治走向、中美关系和美国的全球地位给出详细分析 罗伯特·佐利克。图：视觉中国 【财新网】 “现在的问题是，两国都没有真正成为负责任的利益攸关方。” 10月11日在新加坡接受财新专访时，罗伯特·佐利克以这句话，为近50分钟的对话收尾。 2005年，这位时任美国常务副国务卿的外交官提出，中国应成为国际体系中“负责任的利益攸关方”。20多年后，中美关系和两国的全球角色均发生巨大变化。 佐利克身形瘦削，留着标志性的八字胡。他曾任美国贸易代表、常务副国务卿及世界银行行长，长期参与国际经济与外交事务。</p>
 <p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://economy.caixin.com/2026-10-21/102495714.html">财新网</a> — 9月16—24岁失业率环比回落至18% 高于上年同期</li>
+<li><a href="https://international.caixin.com/2026-10-22/102496046.html">财新网</a> — 专访佐利克：美国中选、中美关系与国际秩序的未来</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>李强会见伊朗第一副总统阿雷夫</title>
-      <link>http://politics.people.com.cn/n1/2026/1020/c1024-40817687.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fpolitics.people.com.cn%2Fn1%2F2026%2F1020%2Fc1024-40817687.html</guid>
+      <title>离岸信托补税过渡期结束 富豪企业家都完税了吗？</title>
+      <link>https://finance.caixin.com/2026-10-22/102496182.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Ffinance.caixin.com%2F2026-10-22%2F102496182.html</guid>
       <category>国内新闻</category>
-      <pubDate>Mon, 19 Oct 2026 22:10:00 GMT</pubDate>
-      <description><![CDATA[<p>10月19日下午，国务院总理李强在杜尚别出席上海合作组织成员国政府首脑（总理）理事会第二十五次会议期间会见伊朗第一副总统阿雷夫。 新华社记者 申 宏摄 &quot; referrerpolicy=&quot;no-referrer&quot;&gt; 10月19日下午，国务院总理李强在杜尚别出席上海合作组织成员国政府首脑（总理）理事会第二十五次会议期间会见伊朗第一副总统阿雷夫。 新华社记者 申 宏摄 本报杜尚别10月19日电 （记者王洲）10月19日下午，国务院总理李强在杜尚别出席上海合作组织成员国政府首脑（总理）理事会第二十五次会议期间会见伊朗第一副总统阿雷夫。 李强表示，中国和伊朗同为文明古国，传统友谊源远流长。建交55年来，中伊关系保持平稳健康发展，经受住了国际风云变幻考验。今年是中伊建立全面战略伙伴关系10周年，中方愿同伊方以此为契机，推动双方各领域交流合作取得新进展。 李强指出，今年以来，中东局势动荡不安。习近平主…</p>
-<p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="http://politics.people.com.cn/n1/2026/1020/c1024-40817687.html">人民网时政</a> — 李强会见伊朗第一副总统阿雷夫</li>
-<li><a href="http://politics.people.com.cn/n1/2026/1019/c1024-40817667.html">人民网时政</a> — 李强会见伊朗第一副总统阿雷夫</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>上海发布国际航空枢纽规划：“第三机场”2035年建成</title>
-      <link>https://companies.caixin.com/2026-10-21/102495842.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fcompanies.caixin.com%2F2026-10-21%2F102495842.html</guid>
-      <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 14:59:39 GMT</pubDate>
-      <description><![CDATA[<p>中国民航首次应用多机场差异化协同治理模式，浦东机场将为上海国际枢纽主平台，虹桥机场、南通新机场为重要支撑 民航局资料显示，南通新机场选址在南通通州区二甲镇，与浦东、虹桥机场相距约100公里、与南通现有的兴东机场相距仅几十公里，此前规划于2027年开工。图：央视新闻 【财新网】 有“上海第三机场”之称的南通新机场将在2035年建成，与浦东、虹桥机场形成“两地三场”国际航空体系。10月20日，在“2026北外滩国际航运论坛国际航空论坛”上，中国民航局发展计划司副司长李诺解读最新发布的上海国际航空枢纽规划时称，这将是中国民航史上首次应用多机场差异化协同治理模式。 南通新机场并不在上海行政区域内。民航局资料显示，南通新机场选址在南通通州区二甲镇，与浦东、虹桥机场相距约100公里、与南通现有的兴东机场相距仅几十公里，此前规划于2027年开工。</p>
+      <pubDate>Thu, 22 Oct 2026 13:08:28 GMT</pubDate>
+      <description><![CDATA[<p>离岸信托90天补税过渡期于10月22日届满，首批收到税务部门通知的企业家多数已完成申报，仍有部分高净值人士选择观望 10月22日，离岸信托个人所得税申报的90天过渡期届满，历史未缴税款在此之后再申报，税务部门将会加收滞纳金。图：视觉中国 【财新网】 10月22日，离岸信托个人所得税申报的90天过渡期届满，历史未缴税款在此之后再申报，税务部门将会加收滞纳金。据财新了解，随着期限届满，部分高净值人士近期集中完成补税，但是也有部分人因征税范围、税款金额及历史收益追征等问题，选择继续观望。 安理律师事务所税务业务合伙人叶永青10月22日向财新透露，由他的团队接手的相关客户均已完成申报缴税。他估计，首批收到税务部门通知的离岸信托持有人多数已经完成申报，仍未申报者可能存在资金安排上的困难，或对征税口径持有不同意见。</p>
 <p><b>1 家媒体报道 · 重要度 6.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://companies.caixin.com/2026-10-21/102495842.html">财新网</a> — 上海发布国际航空枢纽规划：“第三机场”2035年建成</li>
+<li><a href="https://finance.caixin.com/2026-10-22/102496182.html">财新网</a> — 离岸信托补税过渡期结束 富豪企业家都完税了吗？</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>国家能源局发文推动煤电与新能源融合发展</title>
-      <link>http://finance.people.com.cn/n1/2026/1021/c1004-40819142.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Ffinance.people.com.cn%2Fn1%2F2026%2F1021%2Fc1004-40819142.html</guid>
+      <title>谷神星一号海射型遥八运载火箭发射成功</title>
+      <link>http://finance.people.com.cn/n1/2026/1022/c1004-40819259.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Ffinance.people.com.cn%2Fn1%2F2026%2F1022%2Fc1004-40819259.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 14:08:00 GMT</pubDate>
-      <description><![CDATA[<p>新华社北京10月21日电（记者王悦阳）记者10月21日从国家能源局获悉，国家能源局近日印发《关于推动煤电与新能源融合发展的实施意见》提出，到“十五五”末，煤电与新能源融合场景模式成熟应用，融合项目相较改造建设前的年度碳排放水平显著降低。 国家能源局有关负责同志表示，“十四五”以来，煤电节能降碳工作持续推进，取得了积极成效，为进一步加快新一代煤电转型升级，提高新能源利用水平，意见系统性提出煤电与新能源融合的场景模式和技术要求。 意见聚焦煤电与新能源融合协同发展，提出了五类融合发展的典型场景模式，分别为新能源直接接入近区公用煤电机组实现协同送出消纳，新能源直接接入近区公用热电联产煤电机组实现清洁供热，海上风电直接接入沿海公用煤电机组实现协同送出消纳，近区新能源接入自备煤电机组实现打捆利用，厂内或近区新能源直连煤电厂用能系统实现煤电自身用能绿色替代。 围绕降碳改造、接网方式、涉网性能、计量方式和…</p>
+      <pubDate>Thu, 22 Oct 2026 00:10:00 GMT</pubDate>
+      <description><![CDATA[<p>21日11时39分，我国太原卫星发射中心在山东日照附近海域成功发射谷神星一号海射型遥八运载火箭，搭载发射的西光肆号01星（五羊星座先导A星）顺利进入预定轨道，飞行试验任务取得圆满成功。西光肆号01星作为五羊星座首发星，其成功发射标志着全球首个非太阳同步低倾角低轨高分遥感卫星网络正式启动建设，实现我国民用遥感观测体系结构性革新，开创全球低纬度遥感观测全新发展范式。 五羊星座是全球首个低倾角民用遥感星座。该项目由广州市政府、国家信息中心、广州大学联合推动部署，广东省天垣科技有限公司负责商业化建设与运营，汇聚国内遥感、航天、信息领域顶尖科研力量与优质产业资源，是粤港澳大湾区培育空天新经济、布局战略性新兴产业的重大工程。 五羊星座工程总师、广州大学空天遥感创新研究院院长顾行发介绍，五羊星座创新采用非太阳同步低倾角轨道设计，定向服务南北纬35度低纬度核心区域。星座整体规划为3颗先导星+25颗业务星组…</p>
 <p><b>1 家媒体报道 · 重要度 6.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="http://finance.people.com.cn/n1/2026/1021/c1004-40819142.html">人民网财经</a> — 国家能源局发文推动煤电与新能源融合发展</li>
+<li><a href="http://finance.people.com.cn/n1/2026/1022/c1004-40819259.html">人民网财经</a> — 谷神星一号海射型遥八运载火箭发射成功</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>9月上海二手房价三年来首次同比转涨 前三季近半成交总价低于200万元</title>
-      <link>https://www.caixin.com/2026-10-21/102495755.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.caixin.com%2F2026-10-21%2F102495755.html</guid>
+      <title>结构分化下的信心修复：经济与股市走势为何背离</title>
+      <link>https://opinion.caixin.com/2026-10-22/102496112.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fopinion.caixin.com%2F2026-10-22%2F102496112.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 09:40:02 GMT</pubDate>
-      <description><![CDATA[<p>中指研究院认为，上海楼市后续能否进一步回暖，取决于改善性需求能否持续释放、挂牌规模能否保持稳定，以及居民预期能否进一步修复 2026年9月29日，上海黄浦区的二手房楼盘。图：视觉中国 【财新网】 2026年9月，上海二手房价实现最近三年首次同比上涨。据国家统计局10月19日披露，9月上海二手房价同比上涨0.8%。当月，上海二手房价环比上涨0.5%，该市也成为同期70个大中城市中唯一二手房价录得同比涨幅的城市。 上海二手房价率先同比转涨，是一线城市二手房市场修复的重要信号。国家统计局历史数据显示，一线城市二手住宅销售价格指数自2023年6月起同比转跌，降幅于2024年9月扩大至10.7%。此后，市场逐步修复，自2026年3月起，一线城市二手住宅销售价格指数连续七个月环比上涨，同比降幅也持续收窄。</p>
-<p><b>1 家媒体报道 · 重要度 6.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.caixin.com/2026-10-21/102495755.html">财新网</a> — 9月上海二手房价三年来首次同比转涨 前三季近半成交总价低于200万元</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>马里东北部袭击致至少48人死亡 萨赫勒地区跨境战乱反复拉锯</title>
-      <link>https://international.caixin.com/2026-10-21/102495811.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Finternational.caixin.com%2F2026-10-21%2F102495811.html</guid>
-      <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 12:37:27 GMT</pubDate>
-      <description><![CDATA[<p>马里、布基纳法索和尼日尔组成的中部萨赫勒，已成极端武装活动的重要区域 当地时间2026年4月25日，马里，武装分子袭击全国多处军事基地后，民众在街头转移。近年来，马里的危机已超出国境。图：视觉中国 【财新网】 西非萨赫勒地区国家马里东北部梅纳卡地区遭武装袭击，造成至少48名平民死亡。 地方官员及安全消息人士指袭击系由“伊斯兰国”的萨赫勒分支实施，疑为报复此前马里政府军及其盟友的军事行动。 马里位于西非的内陆，北部深入撒哈拉沙漠，中南部地处萨赫勒及其以南地带，首都为巴马科。 近年来，马里的危机已超出国境。萨赫勒是撒哈拉沙漠以南横贯非洲的过渡地带，其中马里、布基纳法索和尼日尔组成的中部萨赫勒，是极端武装活动的重要区域。</p>
+      <pubDate>Thu, 22 Oct 2026 09:32:19 GMT</pubDate>
+      <description><![CDATA[<p>基本面&apos;不差&apos;与股市&apos;调整较快&apos;之间，不是简单的情绪脱节，而是增长结构与资金结构在同一方向上出现了分化 2026年9月28日，江苏南京，一家企业内的生产景象。图：泱波/中新社/视觉中国 三季度数据出来后，一个值得关注的背离清晰地呈现出来。GDP同比增长4.5%，较二季度回升0.2个百分点；9月出口按美元计增长36.3%，三季度出口增速升至28.4%，高技术制造业增加值增长14.3%，接近整体工业增速的三倍。总量读数不差，外需和高技术制造的景气是真实的。但同期股市却出现了连续两周的显著回调，创业板指自9月23日至10月20日下跌19.43%，科创综指下跌18.29%，全A半年滚动最大回撤达到21.4%，处于历史分位的71.1%（ Wind 测算）。 .lanmu_textend a 推荐进入 财新数据库 ，可随时查阅宏观经济、股票债券、公司人物，财经数据尽在掌握。</p>
 <p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://international.caixin.com/2026-10-21/102495811.html">财新网</a> — 马里东北部袭击致至少48人死亡 萨赫勒地区跨境战乱反复拉锯</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>全球气候治理重心转向行动落实 COP31将围绕近百项议题谈判磋商</title>
-      <link>https://www.chinanews.com.cn/gn/2026/10-21/10718674.shtml</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.chinanews.com.cn%2Fgn%2F2026%2F10-21%2F10718674.shtml</guid>
-      <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 11:51:46 GMT</pubDate>
-      <description><![CDATA[<p>中新社北京10月21日电 (记者 阮煜琳)在国新办21日举行的新闻发布会上，中国生态环境部副部长李高说，当前，尽管地缘政治冲突加剧，单边主义、保护主义抬头等因素给全球气候治理带来一定干扰和影响，但绿色低碳转型仍是全球大势所趋。</p>
-<p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.chinanews.com.cn/gn/2026/10-21/10718674.shtml">中新网国内</a> — 全球气候治理重心转向行动落实 COP31将围绕近百项议题谈判磋商</li>
+<li><a href="https://opinion.caixin.com/2026-10-22/102496112.html">财新网</a> — 结构分化下的信心修复：经济与股市走势为何背离</li>
 </ul>]]></description>
     </item>
     <item>
@@ -481,70 +491,96 @@
 </ul>]]></description>
     </item>
     <item>
-      <title>王毅谈欧亚之行的四点感受</title>
-      <link>http://politics.people.com.cn/n1/2026/1021/c1001-40818462.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fpolitics.people.com.cn%2Fn1%2F2026%2F1021%2Fc1001-40818462.html</guid>
+      <title>聚力奋发 推动高质量发展行稳致远——“十五五”专项规划观察之二</title>
+      <link>http://www.news.cn/20261023/06bb6f7c927747ba96a4c8a99f83f705/c.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fwww.news.cn%2F20261023%2F06bb6f7c927747ba96a4c8a99f83f705%2Fc.html</guid>
       <category>国内新闻</category>
-      <pubDate>Tue, 20 Oct 2026 22:13:00 GMT</pubDate>
-      <description><![CDATA[<p>新华社索非亚10月19日电 （记者林浩、姚雨璘）中共中央政治局委员、外交部长王毅19日在索非亚同保加利亚外长佩特罗娃共同会见记者时表示，此次出访作为习近平主席特别代表出席了亚信峰会，还访问了阿塞拜疆、克罗地亚、黑山和保加利亚。他借此机会分享了此次欧亚之行的四点感受。 第一，信任是和平基石。中方向各方传递的明确信息是：坚定信心、锲而不舍、对话协商、互谅互让、重建信任、共筑和平。中方将始终站在历史正确一边，为消弭信任赤字、化解危机冲突履行大国担当，发挥应有作用。 第二，友谊是宝贵财富。中国与四国人民间跨越时间和距离的友好交往是古丝路精神的传承接续，是欧亚大陆文明互鉴的生动实践。这些宝贵的友谊应当被赋予新的时代内涵，不断发扬光大。 第三，合作是坚实动力。中方愿与四国挖潜增效，巩固经贸、投资、基建等传统领域合作，积极对接“一带一路”和“中间走廊”建设，加强人工智能、绿色转型等新质生产力合作，为各国…</p>
-<p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="http://politics.people.com.cn/n1/2026/1021/c1001-40818462.html">人民网时政</a> — 王毅谈欧亚之行的四点感受</li>
-<li><a href="http://politics.people.com.cn/n1/2026/1020/c1001-40818075.html">人民网时政</a> — 王毅谈欧亚之行的四点感受</li>
-<li><a href="http://politics.people.com.cn/n1/2026/1020/c1001-40817782.html">人民网时政</a> — 王毅同保加利亚外长共见记者 谈欧亚之行的四点感受</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>2026粤港澳大湾区国际脑机接口产业创新大会举行</title>
-      <link>https://www.jiemian.com/article/15220194.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.jiemian.com%2Farticle%2F15220194.html</guid>
-      <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 15:58:32 GMT</pubDate>
-      <description><![CDATA[<p>今天（10月21日），首届粤港澳大湾区国际脑机接口产业创新大会暨第六届脑科学前沿与产业大会在深圳光明生命科学园举行。大会以“用‘脑’建设湾区，用‘芯’造福世界”为主题，发布《广东省脑机接口产业发展白皮书》及产业图谱，启动粤港澳大湾区脑机接口标准体系建设及应用验证项目，发布广东省脑机接口临床研究病房建设专家共识并推进病房标准化建设，同时启动2026AI脑机接口全球挑战赛总决赛。大会同期举办的6场平行分论坛，分别聚焦投融资、标准化、神经精神医学、具身智能等细分赛道，将产业关键议题逐一拆解。从柔性电极制备到猕猴闭环验证，从种子基金“投早投小”到临床研究病房标准试点，创新链、产业链、资金链、人才链在光明科学城实现深度合流。</p>
+      <pubDate>Thu, 22 Oct 2026 16:54:40 GMT</pubDate>
+      <description><![CDATA[<p>新华社北京10月22日电 题：聚力奋发 推动高质量发展行稳致远——“十五五”专项规划观察之二 新华社记者胡璐、周圆、高亢 高质量发展贯穿经济社会各领域全过程，是方方面面的总要求。 习近平总书记鲜明指出，“继续把推动高质量发展确定为‘十五五’时期经济社会发展的主题”。 “十五五”规划纲要将“高质量发展取得显著成效”列为首要目标。当前，一批国家级专项规划接续出台，紧扣高质量发展要求，将顶层设计转化为可落地、可检验的任务清单。各地各部门扎实推进规划落地实施，更好统筹质的有效提升和量的合理增长，促进经济持续健康发展和社会全面进步，推动中国式现代化建设持续迈出新步伐。 牢牢把握高质量发展主题 近期，一系列专项规划对外发布：《新型电池产业发展“十五五”规划》提出到2030年，我国新型电池产业规模实现稳步增长、全链条创新能力持续增强；《铁路科技创新“十五五”规划》明确“十五五”时期，我国将新建30家左右…</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.jiemian.com/article/15220194.html">界面新闻</a> — 2026粤港澳大湾区国际脑机接口产业创新大会举行</li>
+<li><a href="http://www.news.cn/20261023/06bb6f7c927747ba96a4c8a99f83f705/c.html">新华社最新播报</a> — 聚力奋发 推动高质量发展行稳致远——“十五五”专项规划观察之二</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>德国总理说中东冲突严重冲击全球能源市场和供应链</title>
-      <link>https://www.jiemian.com/article/15220171.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.jiemian.com%2Farticle%2F15220171.html</guid>
+      <title>薪火相传 中国轮椅女篮达成亚残运会四连冠</title>
+      <link>http://www.news.cn/20261023/5e97f3eb7dcf40b5a0d2fdb1a29281a6/c.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fwww.news.cn%2F20261023%2F5e97f3eb7dcf40b5a0d2fdb1a29281a6%2Fc.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 15:40:11 GMT</pubDate>
-      <description><![CDATA[<p>德国总理默茨10月21日说，中东冲突对全球能源市场和供应链造成严重冲击。默茨当天在2026柏林全球对话论坛上说，霍尔木兹海峡和曼德海峡遭封锁进一步加剧相关影响。谈及欧洲面临的挑战，默茨说，德国和欧洲必须改善营商环境，增加私人投资，并通过创新推动科研成果转化为市场产品。他说，德国经济虽出现恢复增长迹象，但增长基础尚不稳固，仍需推进结构性改革。默茨还说，德国和欧洲还需要深化国际合作，他支持欧盟扩大贸易关系，推进新的贸易协定。（新华社）</p>
+      <pubDate>Thu, 22 Oct 2026 16:22:06 GMT</pubDate>
+      <description><![CDATA[<p>新华社日本名古屋10月22日电（记者郑直、岳晨星）经历了更新换代的中国女子轮椅篮球队22日在爱知·名古屋亚残运会决赛中以75:25大胜东道主日本队，达成四连冠。 当晚决赛在爱知国际体育馆打响，中国队在首节就以16:4领先，为比赛定下基调。此后，中国队凭借娴熟的配合在移动中不断创造较为轻松的得分机会，日本队则屡屡投篮不中。双方差距不断拉大，最终中国队取得一场50分的大胜。 中国队四人得分上双，陈静雯得到18分，张雪梅贡献全场最高的26分，还拿下13个篮板和5次助攻。 “开赛前教练就有布置战术，我们都去执行，然后也是队友给我创造机会，我才能有好的出手。”32岁的张雪梅说，“我感觉都是她们防守吸引得好，我才能有这个机会去投篮。” 着眼未来，中国轮椅篮球女队本届赛事进行了“大换血”。杭州亚残运会的冠军阵容中，留在队伍里的只有张雪梅等几名老将，其他几乎都是新征召的“00后”球员。 “包括林穗玲、张雪…</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.jiemian.com/article/15220171.html">界面新闻</a> — 德国总理说中东冲突严重冲击全球能源市场和供应链</li>
+<li><a href="http://www.news.cn/20261023/5e97f3eb7dcf40b5a0d2fdb1a29281a6/c.html">新华社最新播报</a> — 薪火相传 中国轮椅女篮达成亚残运会四连冠</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>胡塞武装称打击也门东南部一机场</title>
-      <link>https://www.jiemian.com/article/15220078.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.jiemian.com%2Farticle%2F15220078.html</guid>
+      <title>算力成底座、AI进实验室——从第23届中国计算机大会看人工智能发展新动向</title>
+      <link>http://www.news.cn/20261022/1d81872662a34789a9db3fa2ffc4ba3f/c.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Fwww.news.cn%2F20261022%2F1d81872662a34789a9db3fa2ffc4ba3f%2Fc.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 14:43:08 GMT</pubDate>
-      <description><![CDATA[<p>当地时间10月21日，也门胡塞武装发言人叶海亚·萨雷亚在社交媒体上发表声明说，胡塞武装实施了一次军事行动，目标是也门东南部哈德拉毛省的赖扬国际机场内的军事装备。沙特阿拉伯此前使用军用运输机将这些装备运抵机场。他指责沙特军队将民用机场用于军事目的。萨雷亚还警告沙特不要将也门民用设施用于军事目的，否则将带来进一步后果。沙特方面暂未对此作出回应。（央视新闻）</p>
+      <pubDate>Thu, 22 Oct 2026 15:31:28 GMT</pubDate>
+      <description><![CDATA[<p>新华社成都10月22日电 题：算力成底座、AI进实验室——从第23届中国计算机大会看人工智能发展新动向 新华社记者李力可 10月22日，第23届中国计算机大会在成都西部国际博览城开幕，注册人数超过1.1万人，这是中国计算机大会创办二十余年来首次落地四川。 会场内外，三个词被反复提起：数据、算力、实验室。 “随着模型参数增长、智能体加速落地，算力系统走向集约化、规模化，需要围绕计算、存储、互连、供电、冷却等进行一体紧耦合系统创新。”中科曙光高级副总裁李斌说，通过“超节点+超集群”系统级创新，可以大幅提升Token生产效率。 李斌介绍，今年7月上线的曙光8000（登峰）全国产十万卡AI超集群，已支撑300多个重点科学工程仿真和万卡级模型预训练。 “大模型参数量正从千亿级向万亿级、甚至十万亿级跃升，单卡、单机已经难以支撑大规模训练和推理。”海光信息智算量化设计专家孙建鹏说，AI基础设施建设正从优…</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.jiemian.com/article/15220078.html">界面新闻</a> — 胡塞武装称打击也门东南部一机场</li>
+<li><a href="http://www.news.cn/20261022/1d81872662a34789a9db3fa2ffc4ba3f/c.html">新华社最新播报</a> — 算力成底座、AI进实验室——从第23届中国计算机大会看人工智能发展新动向</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>北交所将推多项新政 引入市值配售、推动北证50ETF落地</title>
-      <link>https://finance.caixin.com/2026-10-21/102495837.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Ffinance.caixin.com%2F2026-10-21%2F102495837.html</guid>
+      <title>英伟达推出AI运维平台Minerva</title>
+      <link>https://www.jiemian.com/article/15225692.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fwww.jiemian.com%2Farticle%2F15225692.html</guid>
       <category>国内新闻</category>
-      <pubDate>Wed, 21 Oct 2026 14:43:01 GMT</pubDate>
-      <description><![CDATA[<p>推进投融资平衡，发布创新性评价标准，加大基金产品供给，丰富市场指数，畅通中长期资金入市渠道 10月20日，北交所董事长鲁颂宾在2026金融街论坛年会发表主旨演讲。 【财新网】 北交所成立五周年之际，多项重要政策启动。 10月20日，北交所董事长鲁颂宾在2026金融街论坛表示，“完善发行承销制度，推进引入新股发行市值配售，丰富市场指数基金产品，推进北证50ETF落地工作，加大北交所基金产品供给，持续丰富市场指数，畅通中长期资金入市渠道。” 2026年是北交所开市五周年，从首批81家公司起步，目前北交所上市公司已达351家。其中，中小企业超七成，民营企业近九成，战略新兴产业超八成，国家级专精特新“小巨人”企业超六成。特别是2025年以来，新上市公司中“小巨人”企业占比近八成。</p>
+      <pubDate>Thu, 22 Oct 2026 15:30:40 GMT</pubDate>
+      <description><![CDATA[<p>10月22日，英伟达推出AI运维平台Minerva，旨在通过整合基础设施与AI工作负载遥测数据，提前发现故障、提高GPU运行时间并提升AI工厂产出效率。该平台可每小时分析数十亿个数据点，识别异常、预测潜在故障，并将关联告警整合为可执行的故障处理事项。</p>
 <p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://finance.caixin.com/2026-10-21/102495837.html">财新网</a> — 北交所将推多项新政 引入市值配售、推动北证50ETF落地</li>
+<li><a href="https://www.jiemian.com/article/15225692.html">界面新闻</a> — 英伟达推出AI运维平台Minerva</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>梅州知名企业侵占案重审仍定罪 两高管再度上诉</title>
+      <link>https://china.caixin.com/2026-10-22/102496207.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Fchina.caixin.com%2F2026-10-22%2F102496207.html</guid>
+      <category>国内新闻</category>
+      <pubDate>Thu, 22 Oct 2026 14:54:36 GMT</pubDate>
+      <description><![CDATA[<p>宝丽华集团创始人叶华能与职业经理人宁远喜因股票代持问题产生裂痕，逐步反目。该公司刑事报案后，宁远喜、温惠因职务侵占被定罪判刑，经过异地重审仍定罪，二人继续上诉 叶华能（左）、宁远喜（右）。 【财新网】 历时两年多，广东梅州知名上市民营企业广东宝丽华新能源股份有限公司（000690.SZ，下称“宝新能源”）创始人和职业经理人内斗案回到原点。近日，广东省佛山市顺德区法院作出重审一审判决：宝新能源原董事长宁远喜、广东宝丽华集团有限公司（下称“宝丽华集团”）总经理温惠构成职务侵占罪，分别判处有期徒刑九年六个月、六年。 财新获悉，被告人宁远喜和温惠均不服，坚持认为自己无罪，已经委托辩护律师提交上诉状。</p>
+<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://china.caixin.com/2026-10-22/102496207.html">财新网</a> — 梅州知名企业侵占案重审仍定罪 两高管再度上诉</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>AI资本开支高企、回报验证周期拉长 科创资产如何定价？</title>
+      <link>https://finance.caixin.com/2026-10-22/102496194.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#https%3A%2F%2Ffinance.caixin.com%2F2026-10-22%2F102496194.html</guid>
+      <category>国内新闻</category>
+      <pubDate>Thu, 22 Oct 2026 13:54:20 GMT</pubDate>
+      <description><![CDATA[<p>中国AI被低估，业内呼吁长期资本介入重估，并推动股东结构全球化 2026年10月22日，当日股市收盘行情。近期，A股科技板块出现波动，前期涨幅明显的光模块、PCB等热门赛道与个股都经历了不同程度的回调。图：视觉中国 【财新网】 近期， A股 科技板块出现波动，前期涨幅明显的光模块、PCB等热门赛道与个股都经历了不同程度的回调，资金对科技资产的估值逻辑正在重新调整。在近日举办的2026金融街论坛瑞银集团“全球资本，开放创新：共创增长与长远价值”平行论坛上，来自实业界与投资界的嘉宾围绕技术与资本的结合展开了讨论。 瑞银亚太区总裁兼财富管理全球联席总裁康瑞博（Iqbal Khan）表示：“中国拥有将创新成果快速转化为产业应用并实现规模化发展的独特优势。深厚的产业基础、丰富的应用场景与持续提升的技术能力，为创新经济发展提供了坚实支撑，也让中国成为塑造全球未来增长的重要力量。释放这些机遇的长期价值，…</p>
+<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://finance.caixin.com/2026-10-22/102496194.html">财新网</a> — AI资本开支高企、回报验证周期拉长 科创资产如何定价？</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>在制度上更好保障对外投资发展和安全——国家发展改革委有关负责人就《对外投资管理办法》答记者问</title>
+      <link>http://finance.people.com.cn/n1/2026/1022/c1004-40819836.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-china.xml#http%3A%2F%2Ffinance.people.com.cn%2Fn1%2F2026%2F1022%2Fc1004-40819836.html</guid>
+      <category>国内新闻</category>
+      <pubDate>Thu, 22 Oct 2026 12:37:00 GMT</pubDate>
+      <description><![CDATA[<p>新华社北京10月22日电 题：在制度上更好保障对外投资发展和安全——国家发展改革委有关负责人就《对外投资管理办法》答记者问 新华社记者 10月22日，国家发展改革委公布《对外投资管理办法》，在制度上更好保障对外投资发展和安全。新办法自2026年12月1日起施行，届时2017年出台的《企业境外投资管理办法》同步废止。为何出台新办法？如何实施好新办法？国家发展改革委有关负责人回答了记者提问。 问：为什么要修订出台新办法？ 答：对外投资即境外投资。《企业境外投资管理办法》施行以来，在高质量共建“一带一路”引领下，我国对外投资取得长足发展，流量从2017年1583亿美元增至2025年2136亿美元，存量从1.8万亿美元增至3.4万亿美元。对外投资促进中国产品、服务、品牌、标准等稳步“走出去”，境内投资者由此获得投资收益，众多从业者从中获得工作机会。重大标志性工程和“小而美”民生项目落地见效，实实在…</p>
+<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="http://finance.people.com.cn/n1/2026/1022/c1004-40819836.html">人民网财经</a> — 在制度上更好保障对外投资发展和安全——国家发展改革委有关负责人就《对外投资管理办法》答记者问</li>
+<li><a href="http://finance.people.com.cn/n1/2026/1022/c1004-40819835.html">人民网财经</a> — 《对外投资管理办法》发布 自12月1日起施行</li>
+<li><a href="http://finance.people.com.cn/n1/2026/1022/c1004-40819808.html">人民网财经</a> — 《对外投资管理办法》发布 自12月1日起施行</li>
 </ul>]]></description>
     </item>
   </channel>
