@@ -5,21 +5,51 @@
     <link>https://zhh7ce.github.io/static/news-digest/feed-tech.xml</link>
     <description>多源报道优先的每日新闻摘要</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 02 Nov 2026 18:24:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 18:39:07 GMT</lastBuildDate>
     <atom:link href="https://zhh7ce.github.io/static/news-digest/feed-tech.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光</title>
-      <link>https://www.qbitai.com/2026/11/507082.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.qbitai.com%2F2026%2F11%2F507082.html</guid>
+      <title>AI教AI开车！百度Apollo World世界模型叩开无人驾驶产业“AGI时刻”</title>
+      <link>https://www.leiphone.com/category/industrynews/NVxn28w1vAG2qbFy.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.leiphone.com%2Fcategory%2Findustrynews%2FNVxn28w1vAG2qbFy.html</guid>
       <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 04:28:53 GMT</pubDate>
-      <description><![CDATA[<p>HuggingFace疑似泄露权重已被下5000次</p>
-<p><b>3 家媒体报道 · 重要度 9.0/10</b></p>
+      <pubDate>Tue, 03 Nov 2026 21:26:32 GMT</pubDate>
+      <description><![CDATA[<p>“世界模型，重点不是渲染的画质是否好看，而是模拟器是否能忠实还原现实物理规律和行为的因果”。11月3日，在深圳举行的百度AI Day·Apollo专场上，百度Apollo首次披露面向物理AI的智能体驱动全模态世界模型Apollo World，并提出世界模型“2+3”判断标准。目前，该模型已用于萝卜快跑全球化测试与验证，助力无人驾驶规模化落地。 百度智能驾驶事业群组(IDG)首席架构师、IDG技术委员会主席王亮表示，世界模型不能只做“生成炫酷视频的画师”，更要成为验证无人驾驶安全性的“考官”。萝卜快跑是中国唯一以端到端技术规模化运行 L4 无人驾驶的出行平台，端到端全无人运营超百万公里，Apollo World为其提供虚拟训练环境，帮助“学生” AI Driver学习、验证和迭代。 “Apollo World将虚拟场景内所有交通参与者建模为具备决策与交互能力的AI智能体，支持无人车在虚拟城市…</p>
+<p><b>3 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.qbitai.com/2026/11/507082.html">量子位</a> — GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光</li>
-<li><a href="https://www.ifanr.com/1687071?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了</li>
-<li><a href="https://www.36kr.com/p/4051964645331847">36Kr 热榜</a> — 一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了</li>
+<li><a href="https://www.leiphone.com/category/industrynews/NVxn28w1vAG2qbFy.html">雷锋网</a> — AI教AI开车！百度Apollo World世界模型叩开无人驾驶产业“AGI时刻”</li>
+<li><a href="https://www.infoq.cn/article/tIt75FRqU2hwy4eWrOIu?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”</li>
+<li><a href="https://www.36kr.com/newsflashes/4054026915189896">36氪快讯</a> — 百度Apollo World世界模型亮相</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>【视频】苹果把 OLED 塞进 mini 但还留了一手，iPad mini ( A20 Pro ) 首发体验</title>
+      <link>https://www.ithome.com/1/021/828.htm</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F021%2F828.htm</guid>
+      <category>科技前沿</category>
+      <pubDate>Tue, 03 Nov 2026 15:18:46 GMT</pubDate>
+      <description><![CDATA[<p>标准版 255 克，能泡水，声音直接从屏幕里出来——苹果三年没管的 iPad mini，这次一口气补了三个短板。这块 OLED 值不值得换机，一次说清。 点击关注IT之家B站账号</p>
+<p><b>3 家媒体报道 · 重要度 5.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.ithome.com/1/021/828.htm">IT之家</a> — 【视频】苹果把 OLED 塞进 mini 但还留了一手，iPad mini ( A20 Pro ) 首发体验</li>
+<li><a href="https://www.ithome.com/1/021/827.htm">IT之家</a> — 【IT之家开箱】苹果 iPad mini 8 图赏：升级 OLED 屏、A20 Pro 芯片，机身薄至 5.4mm</li>
+<li><a href="https://www.ifanr.com/1687473?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — iPad mini 8 首发评测：本该是一台完美的平板电脑</li>
+<li><a href="https://sspai.com/post/118263">少数派</a> — 一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>GPT-6 Astra 爆改 Qwen 大脑：只动 0.016% 参数，数学成绩疯涨</title>
+      <link>https://www.ifanr.com/1687285?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ifanr.com%2F1687285%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3D</guid>
+      <category>科技前沿</category>
+      <pubDate>Tue, 03 Nov 2026 07:22:57 GMT</pubDate>
+      <description><![CDATA[<p>只改了 0.016% 的权重，一个 8 亿参数大模型的数学成绩，就从 7.9% 飙升到了 48.1%。 更夸张的是，动手修改这些权重的，竟然是另一个大模型 GPT-6 Astra。 最近，MIT CSAIL 的研究团队展示了一种相当大胆的 AI 优化方法。他们让 GPT-6 Astra 像程序员阅读和修改代码一样，直接分析神经网络的权重，定位模型的问题，再修改其中的参数。 图｜研究博客地址：https://rikiyat.github.io/blog/weight-space-programming/ 整个过程没有使用传统的梯度训练。研究人员仅修改了 Qwen3.5-0.8B 的 131072 个参数， 就让它在 MATH-500 上的成绩从 7.9% 提升至 48.1% ，GSM8K 从 13.8% 提升至 67.1%，指令遵循能力也明显改善。 这项研究被称为「权重空间编程」（Weigh…</p>
+<p><b>2 家媒体报道 · 重要度 8.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.ifanr.com/1687285?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — GPT-6 Astra 爆改 Qwen 大脑：只动 0.016% 参数，数学成绩疯涨</li>
+<li><a href="https://rikiyat.github.io/blog/weight-space-programming/">Hacker News Best</a> — Astra can read and write weights to improve Qwen</li>
 </ul>]]></description>
     </item>
     <item>
@@ -27,9 +57,9 @@
       <link>http://www.geekpark.net/news/373220</link>
       <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F373220</guid>
       <category>科技前沿</category>
-      <pubDate>Sat, 31 Oct 2026 04:10:39 GMT</pubDate>
+      <pubDate>Sat, 31 Oct 2026 01:37:05 GMT</pubDate>
       <description><![CDATA[<p>国行 Apple 智能确定上线时间：11 月开放测试，千问接入 Siri 10 月 31 日，苹果宣布，国行 Apple 智能首批功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月随 iOS 27.3 正式面向用户推出。首批功能包括实时翻译、写作工具、照片消除、智绘表情和通知摘要等，支持 iPhone 15 Pro 系列、iPhone 16 及后续机型，以及 iPhone Air、iPhone Duo。 阿里巴巴强调，在任何问题、文档和图片发送给千问之前，都会先征得用户同意。 苹果表示，这些功能由其自有模型驱动；用户也可以选择接入阿里巴巴千问，在 Siri、写作工具和视觉智能中处理部分请求。不过，首批更新不包含新版 Siri AI，iPad、Mac 等其他平台还需等待必要审批。（来源：极客公园） OpenAI 撤回 Pro 200 降额计划，同时提高 Work 和…</p>
-<p><b>3 家媒体报道 · 重要度 8.5/10</b></p>
+<p><b>2 家媒体报道 · 重要度 8.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
 <li><a href="http://www.geekpark.net/news/373220">极客公园</a> — 苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道</li>
@@ -37,52 +67,38 @@
 <li><a href="https://www.ifanr.com/1687012?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等</li>
 <li><a href="https://www.ifanr.com/1686979?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」</li>
 <li><a href="https://www.ifanr.com/1686969?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — iPhone 国行 AI 真的来了，千问成为 Siri 新搭档</li>
-<li><a href="https://sspai.com/post/117953">少数派</a> — 一图流 | 一张图看懂中国版 Apple 智能</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>Anthropic 第三季度营收 170 亿美元同比暴涨 11 倍，冲刺史上最大 IPO</title>
-      <link>https://www.ithome.com/1/021/277.htm</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F021%2F277.htm</guid>
+      <title>苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道</title>
+      <link>http://www.geekpark.net/news/372863</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372863</guid>
       <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 15:02:09 GMT</pubDate>
-      <description><![CDATA[<p>IT之家 11 月 2 日消息，Anthropic PBC 披露，截至 9 月 30 日的第三季度营收接近 170 亿美元 （IT之家注：现汇率约合 1,132.35 亿元人民币） ，同比暴涨 11 倍，市场对这家 AI 实验室有望创下纪录的 IPO 预期进一步升温。 这家 Claude 大模型背后的公司当地时间周一向美国证券交易委员会（SEC）提交文件显示：截至 9 月末的三个月，净亏损 233 亿美元 （现汇率约合 1,551.98 亿元人民币） ；去年同期净亏损为 121 亿美元 （现汇率约合 805.96 亿元人民币） 。本季度运营费用飙升至 175 亿美元 （现汇率约合 1,165.65 亿元人民币） ，同比增幅 292%。 文件显示，公司已敲定总额 8,950 亿美元 （现汇率约合 5.96 万亿元人民币） 的承诺支出，绝大部分用于算力与基础设施建设。其中约 4,480 亿美元…</p>
-<p><b>3 家媒体报道 · 重要度 7.5/10</b></p>
+      <pubDate>Tue, 03 Nov 2026 02:09:08 GMT</pubDate>
+      <description><![CDATA[<p>张雪时隔 17 年圆梦「水上漂」，在家乡麻阳刷新吉尼斯纪录 10 月 25 日，「张雪机车」创始人张雪驾驶改装摩托车 MX450，在湖南省怀化市麻阳苗族自治县郭公坪镇小坡村，成功挑战「改装摩托车在开阔水域行驶最远距离」吉尼斯世界纪录。 这场挑战要追溯到 2009 年。当时 22 岁的张雪在央视节目中骑着一辆车轮上焊着铁皮的摩托车冲向水面，四次尝试全部落水，最远只滑出 20 米，离他自己定下的 26 米目标差了一口气。 本次用于挑战的「张雪机车」MX450，是专门为了应对水上滑行而改装的型号。据「张雪机车」研发工程师邓连松介绍，改装摩托车以标准摩托车车架和动力总成作为基础，技术团队进行了相应的优化升级。 麻阳是张雪的故乡，当地龙舟以逆水行舟而闻名。在张雪挑战成功之后，乡亲们以龙舟表演等方式为张雪团队庆祝胜利。（来源：新华网） OpenAI 前沿模型训练不再接入实时互联网，改用离线网页环境 1…</p>
+<p><b>2 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.ithome.com/1/021/277.htm">IT之家</a> — Anthropic 第三季度营收 170 亿美元同比暴涨 11 倍，冲刺史上最大 IPO</li>
+<li><a href="http://www.geekpark.net/news/372863">极客公园</a> — 苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道</li>
+<li><a href="http://www.geekpark.net/news/372860">极客公园</a> — 苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机</li>
+<li><a href="https://www.ifanr.com/1686623?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 乔布斯的「祖训」和触屏 MacBook，何以同时成立？｜硬哲学</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>看了招股书，我终于知道为什么 Anthropic 不在乎用户了</title>
+      <link>http://www.geekpark.net/news/373006</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F373006</guid>
+      <category>科技前沿</category>
+      <pubDate>Mon, 02 Nov 2026 22:33:20 GMT</pubDate>
+      <description><![CDATA[<p>大的，终于来了。 10 月 26 日，Anthropic 向美国证监会公开递交了 S-1 招股书，准备在纳斯达克全球精选市场挂牌上市，股票代码定为 ANT。媒体报道中， 这家公司的估值讨论区间已经来到了 1.5 万亿至 2 万亿美元 ，发行价区间尚未披露。 24 小时内，这本 300 多页的招股书已经被科技圈和金融圈翻了个底朝天，最抓眼球的几个数字大家都看过了：2026 年上半年营收 162.86 亿美元，去年同期只有 11.63 亿美元；第二季度交出 9.74 亿美元经营利润，迎来公司历史上首个经营盈利的季度；至于账面上高达 807 亿美元的净亏损，大头是 723.88 亿美元的可转债、衍生负债和 SAFE 公允价值变动，属于非现金的会计费用。 但在这些华尔街叙事之外，国内的开发者和日常使用者有着另一种割裂的体感。在中国大陆用户眼里，Claude 大概是目前市面上封号最多、风控最严苛、用…</p>
+<p><b>2 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
 <li><a href="http://www.geekpark.net/news/373006">极客公园</a> — 看了招股书，我终于知道为什么 Anthropic 不在乎用户了</li>
-<li><a href="https://twitter.com/jiahaoshao1/status/2116475922190922088">Hacker News Best</a> — Anthropic blocks users for anything touching training larger models</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>ChatGPT Pro 额度翻倍：是让步，不是福利？</title>
-      <link>https://www.infoq.cn/article/WpTNht7guarWEyejJFV6?utm_source=rss&amp;utm_medium=article</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.infoq.cn%2Farticle%2FWpTNht7guarWEyejJFV6%3Futm_source%3Drss%26utm_medium%3Darticle</guid>
-      <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 09:16:03 GMT</pubDate>
-      <description><![CDATA[<p>点击查看原文&gt;</p>
-<p><b>3 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.infoq.cn/article/WpTNht7guarWEyejJFV6?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — ChatGPT Pro 额度翻倍：是让步，不是福利？</li>
-<li><a href="https://www.ifanr.com/1686830?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 刚刚，ChatGPT Pro 额度官宣翻倍，但免费重置可能要没了</li>
-<li><a href="https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits">Hacker News Best</a> — ChatGPT and Codex usage limits merging</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>Claude紧急叫停！暗改Harness禁止逆向游戏</title>
-      <link>https://www.qbitai.com/2026/11/507038.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.qbitai.com%2F2026%2F11%2F507038.html</guid>
-      <category>科技前沿</category>
-      <pubDate>Sun, 01 Nov 2026 13:09:55 GMT</pubDate>
-      <description><![CDATA[<p></p>
-<p><b>3 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.qbitai.com/2026/11/507038.html">量子位</a> — Claude紧急叫停！暗改Harness禁止逆向游戏</li>
-<li><a href="https://www.ifanr.com/1686874?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — Fable 5.5测试曝光，Claude每次回答后，还会执行一条你看不到的指令</li>
-<li><a href="https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering">Hacker News Best</a> — Anthropic takes steps to block Claude from reverse-engineering video games</li>
+<li><a href="https://www.regenerator1.com/p/anthropics-growth-just-flattened">Hacker News Best</a> — Anthropic&apos;s growth just flattened</li>
+<li><a href="https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/">Hacker News Best</a> — The SEC Should Block Anthropic&apos;s IPO to Protect the Public</li>
+<li><a href="https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11">Hacker News Best</a> — Anthropic&apos;s internal AI use, at retail prices, now exceeds its employee pay</li>
+<li><a href="https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html">Hacker News Best</a> — Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1</li>
 </ul>]]></description>
     </item>
     <item>
@@ -96,38 +112,49 @@
 <p><b>来源：</b></p>
 <ul>
 <li><a href="http://www.geekpark.net/news/373243">极客公园</a> — DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人</li>
-<li><a href="http://www.geekpark.net/news/372767">极客公园</a> — DeepSeek 据悉完成 1000 亿元新一轮融资；特斯拉三季度利润大跌 43%；微信称已完成适配 iPhone Duo | 极客早知道</li>
 <li><a href="https://www.ifanr.com/1687026?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>Lumentum 2027 财年第一财季归母净利润 3.6 亿美元，同比增长 8478.57%</title>
-      <link>https://www.ithome.com/1/021/260.htm</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F021%2F260.htm</guid>
+      <title>到手价 13999 元：拓竹 H3C 多头打印完全体发布</title>
+      <link>https://www.ithome.com/1/021/836.htm</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F021%2F836.htm</guid>
       <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 12:31:24 GMT</pubDate>
-      <description><![CDATA[<p>IT之家 11 月 2 日消息，Lumentum今日发布 2027 财年（2026年6月28日～2027年7月1日）第一财季（2026年6月28日～2026年9月26日）报告： 营业总收入 ：12.63 亿美元 （IT之家注：现汇率约合 84.1 亿元人民币） ，同比增长 136.5%，环比增长 25.5% 毛利润 ：6.44 亿美元 （现汇率约合 42.9 亿元人民币） ，同比增长 254.82%，环比增长 34.93% 毛利率 ：51% 归母净利润 ：3.6 亿美元 （现汇率约合 24 亿元人民币） ，同比增长 8478.57%，环比扭亏为盈 扣非净利润 ：4.61 亿美元 （现汇率约合 30.71 亿元人民币） ，同比增长 433.68%，环比增长 41.31% 基本每股收益 ：3.9 美元 （现汇率约合 25.98 元人民币） ，同比增长 6400% 稀释每股收益 ：3.54 美元…</p>
-<p><b>2 家媒体报道 · 重要度 6.5/10</b></p>
+      <pubDate>Tue, 03 Nov 2026 15:13:00 GMT</pubDate>
+      <description><![CDATA[<p>IT之家 11 月 3 日消息，拓竹 H3C 多头打印完全体今日发布，新品采用 Swaptek 多头闪切系统，支持超软 TPU 高速打印，具备双 85° 烘干槽位， 政府补贴后到手价 13999 元 。 IT之家了解到，这款产品标配 9 个可切换打印头，每个打印头拥有独立的进料和加热系统，保证耗材始终处于装载状态，无需反复进退料。通过优化结构、调节参数以及主动预热，H3C 能够将换头速度控制在 3.4 秒。 同时该产品支持叠色打印。内置多头闪切系统，九头独立进料，免去来回抽和换料带来的等待与废料。并将 TPU 75A 线径增加至 2.85mm，打印速度达到其他 TPU 的三倍以上。 此外，该产品的加工套件能够安装刀切头、画笔等，配备 AMS 3H 自动供料系统。采用全密封防潮设计，避免耗材受潮氧化，减少拉丝、气泡、断层等问题。出厂标配双烘干槽，最高烘干温度可达 85°C。最多可并联接入 4…</p>
+<p><b>2 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.ithome.com/1/021/260.htm">IT之家</a> — Lumentum 2027 财年第一财季归母净利润 3.6 亿美元，同比增长 8478.57%</li>
-<li><a href="https://www.ithome.com/1/021/255.htm">IT之家</a> — Marvell 宣布将以全股票交易收购 Lumentum，拓展 AI 光互连版图</li>
-<li><a href="https://www.36kr.com/newsflashes/4052573767111560">36氪快讯</a> — 迈威尔将以全股票交易收购Lumentum，交易完成后后者股东持股约33%</li>
-<li><a href="https://www.36kr.com/newsflashes/4052571152258179">36氪快讯</a> — Lumentum第一财季营收为12.60亿美元，略高于市场预期</li>
+<li><a href="https://www.ithome.com/1/021/836.htm">IT之家</a> — 到手价 13999 元：拓竹 H3C 多头打印完全体发布</li>
+<li><a href="https://www.leiphone.com/category/industrynews/xBbVCZ6pFQNa7XzR.html">雷锋网</a> — 拓竹年度机皇 H3C 发布：9 头闪切、6 秒换头，开启多色多材料新时代</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>Lenovo&apos;s &apos;encrypted&apos; fingerprint USB is just an unencrypted SD card in a case</title>
-      <link>https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.reddit.com%2Fr%2Ftechnology%2Fcomments%2F1xl2pr3%2Flenovos_encrypted_fingerprint_usb_drive_is_just%2F</guid>
+      <title>AI数据平台OceanBase获世界互联网大会杰出贡献奖</title>
+      <link>https://www.qbitai.com/2026/11/507405.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.qbitai.com%2F2026%2F11%2F507405.html</guid>
       <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 02:19:21 GMT</pubDate>
-      <description><![CDATA[<p>Article URL: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/ Comments URL: https://news.ycombinator.com/item?id=50326099 Points: 547 # Comments: 170</p>
-<p><b>2 家媒体报道 · 重要度 6.5/10</b></p>
+      <pubDate>Tue, 03 Nov 2026 06:46:00 GMT</pubDate>
+      <description><![CDATA[<p>11月3日上午，2026世界互联网大会在浙江乌镇开幕。</p>
+<p><b>2 家媒体报道 · 重要度 5.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/">Hacker News Best</a> — Lenovo&apos;s &apos;encrypted&apos; fingerprint USB is just an unencrypted SD card in a case</li>
-<li><a href="https://www.zhihu.com/question/2100532447242932373">知乎热榜</a> — 联想指纹加密 U 盘被曝拆壳即可明文读取数据，为何硬件加密会形同虚设？</li>
+<li><a href="https://www.qbitai.com/2026/11/507405.html">量子位</a> — AI数据平台OceanBase获世界互联网大会杰出贡献奖</li>
+<li><a href="https://www.leiphone.com/category/industrynews/i1taFLhrbqRyM9UH.html">雷锋网</a> — 蚂蚁自研AI数据平台OceanBase获获世界互联网大会杰出贡献奖</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>卡帕西用Claude两小时重做了YouTube，每个人都能拥有一个自己的互联网</title>
+      <link>https://www.ifanr.com/1687094?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ifanr.com%2F1687094%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3D</guid>
+      <category>科技前沿</category>
+      <pubDate>Mon, 02 Nov 2026 23:15:53 GMT</pubDate>
+      <description><![CDATA[<p>周五晚上 11 点，AI 大神 Karpathy 打开 YouTube，想找个视频看看。 结果首页全是夸张的封面、看过无数遍的老话题。受不了这些算法推荐的他，第二天干脆打开 Claude，给自己重新做了一个 YouTube。 整个过程只花了两个小时，用的还是 Claude Opus 5.5 的 Medium 推理强度。 图｜HackerTube 网址：https://hackertube.org/ 整个视频网站和最近大火的 REA 逆向工程一样，可以说是直接复刻了完整的 YouTube 网页布局。左边的导航栏显示点赞过的视频、历史以及稍后再看等，右边的视频推荐流，也是同样的封面大小、发布时间以及播放量等。 他用的提示词只有一句话，「 嗨 Claude 早上好你好吗我很好谢谢帮我建一个 YouTube 风格的网站但只限于多年来在 HN 上被反复推荐的视频拜托了。别犯任何错误。 」 两个小时的…</p>
+<p><b>2 家媒体报道 · 重要度 5.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.ifanr.com/1687094?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 卡帕西用Claude两小时重做了YouTube，每个人都能拥有一个自己的互联网</li>
+<li><a href="https://www.36kr.com/p/4053199433749385">36Kr 热榜</a> — 卡帕西用Claude两小时重做了YouTube，每个人都能拥有一个自己的互联网</li>
 </ul>]]></description>
     </item>
     <item>
@@ -145,69 +172,149 @@
 </ul>]]></description>
     </item>
     <item>
-      <title>OpenAI CEO 奥尔特曼称个人电脑浪费内存遭全网声讨，马斯克也来补刀</title>
-      <link>https://www.ithome.com/1/021/274.htm</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F021%2F274.htm</guid>
+      <title>小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”</title>
+      <link>https://www.qbitai.com/2026/11/507396.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.qbitai.com%2F2026%2F11%2F507396.html</guid>
       <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 14:21:52 GMT</pubDate>
-      <description><![CDATA[<p>IT之家 11 月 2 日消息，萨姆 · 奥尔特曼近期关于内存的言论引发越来越多人反对，埃隆 · 马斯克也加入了这场声讨。 上周，这位 OpenAI 首席执行官的一番话在全网、尤其是玩家群体中引发强烈不满。他称，人们把内存装在个人电脑里，而不是放在数据中心，是一件“很糟糕”的事。 在和博主 Cheeky Pint 的访谈中，奥尔特曼说：“从全球资源分配角度来看，所有人都把全球有限的 DRAM 资源放在自家电脑里，而内存大部分时间利用率只有 5%，这其实非常糟糕。在供给紧张的大环境下，资源放在云端才能实现利用率最大化。可很多人的直觉恰恰相反。” 这番言论遭到大量嘲讽。不少人认为，无论他本意如何，听起来像是想剥夺个人对内存的所有权，迫使全社会把资源交给 OpenAI 这类 AI 企业使用。社交媒体上充斥着批评帖、表情包和短视频，大家纷纷表态要守住自己的内存。也有大量玩梗内容，无数表情包、AI …</p>
+      <pubDate>Tue, 03 Nov 2026 07:56:00 GMT</pubDate>
+      <description><![CDATA[<p>11月3日，小米方面披露，小米集团获得2026世界互联网大会“杰出贡献奖”创新突破类奖项</p>
+<p><b>2 家媒体报道 · 重要度 4.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.qbitai.com/2026/11/507396.html">量子位</a> — 小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”</li>
+<li><a href="https://www.leiphone.com/category/industrynews/VVyx6DK55x5rIlQ4.html">雷锋网</a> — 小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>机器人干活，AI当厂长！这家巨头要造下一代自主智能仓</title>
+      <link>https://www.qbitai.com/2026/11/507507.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.qbitai.com%2F2026%2F11%2F507507.html</guid>
+      <category>科技前沿</category>
+      <pubDate>Tue, 03 Nov 2026 13:57:11 GMT</pubDate>
+      <description><![CDATA[<p>AI接管调度运营，仓库越干越聪明</p>
 <p><b>2 家媒体报道 · 重要度 4.0/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.ithome.com/1/021/274.htm">IT之家</a> — OpenAI CEO 奥尔特曼称个人电脑浪费内存遭全网声讨，马斯克也来补刀</li>
-<li><a href="https://www.ifanr.com/1686901?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 「史上最强」的 iPad mini，为什么还是 60Hz 屏幕？</li>
+<li><a href="https://www.qbitai.com/2026/11/507507.html">量子位</a> — 机器人干活，AI当厂长！这家巨头要造下一代自主智能仓</li>
+<li><a href="https://www.ifanr.com/1686953?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 汽车工业的下一条流水线，开始由 AI 来安排</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>66 岁 Yann LeCun 发新论文挑战 Scaling Law：1.09 亿参数胜过 720 亿，模型越大不一定越懂世界</title>
-      <link>https://www.infoq.cn/article/pWwkDpoFHIsfw9aCRkij?utm_source=rss&amp;utm_medium=article</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.infoq.cn%2Farticle%2FpWwkDpoFHIsfw9aCRkij%3Futm_source%3Drss%26utm_medium%3Darticle</guid>
+      <title>Disc Image Studio：你想不想在光盘上「画」点什么？</title>
+      <link>https://sspai.com/post/118211</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fsspai.com%2Fpost%2F118211</guid>
       <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 15:17:48 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 02:53:50 GMT</pubDate>
+      <description><![CDATA[<p>把喜欢的图烧进 CD 里，你也可以。 查看全文</p>
+<p><b>2 家媒体报道 · 重要度 3.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://sspai.com/post/118211">少数派</a> — Disc Image Studio：你想不想在光盘上「画」点什么？</li>
+<li><a href="https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio">Hacker News Best</a> — DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了</title>
+      <link>https://www.ifanr.com/1687071?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ifanr.com%2F1687071%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3D</guid>
+      <category>科技前沿</category>
+      <pubDate>Mon, 02 Nov 2026 01:51:47 GMT</pubDate>
+      <description><![CDATA[<p>刚进入 11 月，AI 圈又开始热闹起来了。 过去十几个小时里，Anthropic 和 OpenAI 接连传出新模型消息。有人在 Anthropic 官网源代码中发现了 Claude Mythos 5.5 的名字，还有开发者晒出疑似 Claude Fable 5.5 生成的 3D 游戏和交互作品。 另一边，OpenAI 尚未官宣的 GPT-6.2 Astra，也出现在部分用户的 Codex 使用统计和 API 响应记录中，甚至有人声称已经成功调用。 两家公司的新模型线索几乎同时出现，结合此前关于 Qwen4、GLM-5.5 和 Hy4 的传闻，也让 AI 社区开始猜测，11 月是否又会迎来一轮旗舰模型集中更新。 Claude 5.5 官网意外曝光，新模型要来了？ 事情要从 Anthropic 官网的一次意外发现说起。 11 月 1 日深夜，科技博主 @kimmonismus 在 X 平台发…</p>
+<p><b>1 家媒体报道 · 重要度 9.0/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.ifanr.com/1687071?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>B 社正式公布《上古卷轴 6：哨兵》，距首次预告片已有 8 年 4 个月</title>
+      <link>https://www.ithome.com/1/021/845.htm</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F021%2F845.htm</guid>
+      <category>科技前沿</category>
+      <pubDate>Tue, 03 Nov 2026 15:30:04 GMT</pubDate>
+      <description><![CDATA[<p>IT之家 11 月 3 日消息，贝塞斯达（Bethesda）今日正式宣布， 《上古卷轴》新作定名为《上古卷轴 6：哨兵》 。此次公布距离《上古卷轴 6》首个预告发布已经过去 8 年 4 个月。 官方公布的视频显示，《上古卷轴 6：哨兵》将拥有相当精细的沙地物理效果。视频中还出现了一段引言：“卷轴中只有一道微光，薄纱在我眼前缓缓揭开。一个失落的未来，一场未竟的胜利。命运让时间之沙四散飘零。” IT之家注意到，微软 XBOX CEO 阿莎 · 夏尔马曾表示，她今年 8 月探访 B 社时体验过这款游戏。此次游戏公布，距离 B 社遭到大规模裁员还不到半年。 不过截至目前，B 社和微软并没有公布这款游戏的更多信息。</p>
+<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.ithome.com/1/021/845.htm">IT之家</a> — B 社正式公布《上古卷轴 6：哨兵》，距首次预告片已有 8 年 4 个月</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>欧洲最高法院顾问：谷歌 Gemini 使用新闻报道可能侵犯版权</title>
+      <link>https://www.ithome.com/1/021/835.htm</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F021%2F835.htm</guid>
+      <category>科技前沿</category>
+      <pubDate>Tue, 03 Nov 2026 14:36:31 GMT</pubDate>
+      <description><![CDATA[<p>IT之家 11 月 3 日消息，据路透社报道，欧洲最高法院的一名顾问周二表示，谷歌旗下 Gemini 聊天机器人在回答互联网用户提问时使用新闻报道，在特定情况下可能违反版权规定。 IT之家注意到，这项意见由欧盟法院（CJEU）驻卢森堡的法务总顾问马切伊 · 什普纳尔（Maciej Szpunar）提出，涉及匈牙利网站运营商 Like Company 对谷歌提起的一起诉讼，争议焦点是谷歌人工智能聊天机器人 Gemini 对新闻内容的使用方式。 如果法院最终作出对谷歌不利的裁决，要求这家科技巨头为使用新闻媒体内容支付费用，或将为 Like Company 这类网络媒体带来新的生存机会。随着 Gemini 等 AI 聊天机器人生成的新闻摘要越来越多地取代传统搜索引擎提供的搜索结果，后者通常包含指向新闻原文的超链接，网络媒体获得的网站流量正不断减少。 根据欧盟法院发布的声明，什普纳尔表示：“当一款…</p>
+<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://www.ithome.com/1/021/835.htm">IT之家</a> — 欧洲最高法院顾问：谷歌 Gemini 使用新闻报道可能侵犯版权</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>微软向6万员工发出自愿离职邀请：覆盖全球超四分之一员工，副总裁也在列</title>
+      <link>https://www.infoq.cn/article/UNTqkzASI7dJuq65kSNZ?utm_source=rss&amp;utm_medium=article</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.infoq.cn%2Farticle%2FUNTqkzASI7dJuq65kSNZ%3Futm_source%3Drss%26utm_medium%3Darticle</guid>
+      <category>科技前沿</category>
+      <pubDate>Tue, 03 Nov 2026 13:03:43 GMT</pubDate>
       <description><![CDATA[<p>点击查看原文&gt;</p>
-<p><b>1 家媒体报道 · 重要度 8.0/10</b></p>
+<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.infoq.cn/article/pWwkDpoFHIsfw9aCRkij?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — 66 岁 Yann LeCun 发新论文挑战 Scaling Law：1.09 亿参数胜过 720 亿，模型越大不一定越懂世界</li>
+<li><a href="https://www.infoq.cn/article/UNTqkzASI7dJuq65kSNZ?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — 微软向6万员工发出自愿离职邀请：覆盖全球超四分之一员工，副总裁也在列</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>谷歌 SynthID Detector 简化了水印检测流程，并将支持范围扩展至其他 AI 提供商</title>
-      <link>https://www.infoq.cn/article/JoVxAdq1OjtIDkRBjWOW?utm_source=rss&amp;utm_medium=article</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.infoq.cn%2Farticle%2FJoVxAdq1OjtIDkRBjWOW%3Futm_source%3Drss%26utm_medium%3Darticle</guid>
+      <title>Anthropic团队零Rust经验起步，靠Claude完成核心API跨语言重构：CPU省40%，延迟降20%</title>
+      <link>https://www.infoq.cn/article/IMWM7ZXDi99sMiUVZBIF?utm_source=rss&amp;utm_medium=article</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.infoq.cn%2Farticle%2FIMWM7ZXDi99sMiUVZBIF%3Futm_source%3Drss%26utm_medium%3Darticle</guid>
       <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 18:52:12 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 12:51:41 GMT</pubDate>
       <description><![CDATA[<p>点击查看原文&gt;</p>
 <p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.infoq.cn/article/JoVxAdq1OjtIDkRBjWOW?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — 谷歌 SynthID Detector 简化了水印检测流程，并将支持范围扩展至其他 AI 提供商</li>
+<li><a href="https://www.infoq.cn/article/IMWM7ZXDi99sMiUVZBIF?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — Anthropic团队零Rust经验起步，靠Claude完成核心API跨语言重构：CPU省40%，延迟降20%</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>美股要“通宵”了，纳斯达克全天23小时交易实施在即，覆盖A股、港股绝大部分交易时段，究竟有何影响？解读来了</title>
-      <link>https://www.huxiu.com/article/4902393.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.huxiu.com%2Farticle%2F4902393.html</guid>
+      <title>谷歌宁愿少卖云算力，也要先把算力留给 Gemini：皮查伊罕见长访谈，披露 AI 自我改进与算力争夺内幕</title>
+      <link>https://www.infoq.cn/article/JmVl0yY2RYIBNpuD0xuu?utm_source=rss&amp;utm_medium=article</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.infoq.cn%2Farticle%2FJmVl0yY2RYIBNpuD0xuu%3Futm_source%3Drss%26utm_medium%3Darticle</guid>
       <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 12:00:58 GMT</pubDate>
-      <description><![CDATA[<p>纳斯达克自1971年成立以来，美股常规交易时段长期保持在美东时间9:30至16:00，盘前、盘后交易虽已开放多年，但核心交易框架四十余年未变。今年12月，这一格局将迎来重大改变——纳斯达克将于12月6日正式上线“23/5”交易制度，每日仅保留1小时休市窗口，其余23小时连续开放交易。新增的夜间交易时段（美东时...... 本文来自微信公众号： 每经头条 ， ， ，原文标题：《美股要“通宵”了！纳斯达克全天23小时交易实施在即，覆盖A股、港股绝大部分交易时段，究竟有何影响？解读来了》 纳斯达克自1971年成立以来，美股常规交易时段长期保持在美东时间9:30至16:00，盘前、盘后交易虽已开放多年，但核心交易框架四十余年未变。今年12月，这一格局将迎来重大改变——纳斯达克将于12月6日正式上线“23/5”交易制度，每日仅保留1小时休市窗口，其余23小时连续开放交易。 新增的夜间交易时段（美东时…</p>
+      <pubDate>Tue, 03 Nov 2026 10:45:58 GMT</pubDate>
+      <description><![CDATA[<p>点击查看原文&gt;</p>
 <p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.huxiu.com/article/4902393.html">虎嗅</a> — 美股要“通宵”了，纳斯达克全天23小时交易实施在即，覆盖A股、港股绝大部分交易时段，究竟有何影响？解读来了</li>
+<li><a href="https://www.infoq.cn/article/JmVl0yY2RYIBNpuD0xuu?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — 谷歌宁愿少卖云算力，也要先把算力留给 Gemini：皮查伊罕见长访谈，披露 AI 自我改进与算力争夺内幕</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>央行“上子弹”了，机构扩容、费率有望下行</title>
-      <link>https://www.huxiu.com/article/4902383.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.huxiu.com%2Farticle%2F4902383.html</guid>
+      <title>国内首个半导体工艺保护流体材料重大突破</title>
+      <link>https://www.leiphone.com/category/industrynews/PHr6tfngmZX7R5db.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.leiphone.com%2Fcategory%2Findustrynews%2FPHr6tfngmZX7R5db.html</guid>
       <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 11:13:08 GMT</pubDate>
-      <description><![CDATA[<p>央行“上子弹”了！11月2日，中国人民银行联合中国证监会召开证券、基金、保险公司互换便利（SFISF）工具工作会议。中国人民银行将在11月3日启动第三次SFISF操作招标。此次将在此前20家参与机构的基础上，进一步扩大参与范围。此次机构申报意愿积极，目前有超30家证券公司和基金公司申报。此外，互换费率也有望进...... 本文来自微信公众号： 界面新闻 ， 杜萌，原文标题：《央行“上子弹”了！机构扩容、费率有望下行》 央行“上子弹”了！ 11月2日，中国人民银行联合中国证监会召开证券、基金、保险公司互换便利（SFISF）工具工作会议。 中国人民银行将在11月3日启动第三次SFISF操作招标。此次将在此前20家参与机构的基础上，进一步扩大参与范围。此次机构申报意愿积极，目前有超30家证券公司和基金公司申报。此外，互换费率也有望进一步降低。 参会人士表示，此次SFISF操作后将大幅提升非银机构…</p>
+      <pubDate>Tue, 03 Nov 2026 09:41:00 GMT</pubDate>
+      <description><![CDATA[<p>历时近七年自主攻关，上海凯锐恩半导体科技有限公司成功开发出应用于晶圆级工艺保护的流体成型材料及配套热压成型设备，建立起完整的知识产权体系，实现“材料＋设备＋工艺”三位一体。产品已应用于芯片先进封装领域，实现了国内半导体工艺保护流体材料的产业化突破，技术处于国际领先水平。 当前，随着半导体先进封装向凸点、异构堆叠等方向加速发展，晶圆级与面板级封装对保护工艺提出了更高要求；但大部分相关材料、设备和工艺仍被国外企业垄断，已成为制约我国半导体先进封装产业发展的“卡脖子”环节。 上海凯锐恩绕开了被国外企业垄断数十年的传统保护胶带专利壁垒，创新性地提出基于流体成型材料的晶圆保护工艺解决方案，以耐腐蚀、无气泡、无剥离残留的流体成型材料技术，从根本上解决了传统胶带的固有物理缺陷，为半导体晶圆保护开辟了全新的材料与工艺路径。 目前，上海凯锐恩的流体成型材料与设备工艺一体化技术已与国内外头部芯片制造商开展深度…</p>
 <p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.huxiu.com/article/4902383.html">虎嗅</a> — 央行“上子弹”了，机构扩容、费率有望下行</li>
+<li><a href="https://www.leiphone.com/category/industrynews/PHr6tfngmZX7R5db.html">雷锋网</a> — 国内首个半导体工艺保护流体材料重大突破</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>BYD sold more EVs last month than the US did all quarter</title>
+      <link>https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Felectrek.co%2F2026%2F11%2F02%2Fbyd-sold-more-evs-last-month-than-the-us-did-all-quarter%2F</guid>
+      <category>科技前沿</category>
+      <pubDate>Mon, 02 Nov 2026 21:38:49 GMT</pubDate>
+      <description><![CDATA[<p>Article URL: https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/ Comments URL: https://news.ycombinator.com/item?id=50344181 Points: 276 # Comments: 293</p>
+<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
+<p><b>来源：</b></p>
+<ul>
+<li><a href="https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/">Hacker News Best</a> — BYD sold more EVs last month than the US did all quarter</li>
 </ul>]]></description>
     </item>
     <item>
@@ -224,19 +331,6 @@
 </ul>]]></description>
     </item>
     <item>
-      <title>OpenAI重写大模型法则，第一条：忠于人类！！</title>
-      <link>https://www.qbitai.com/2026/11/507225.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.qbitai.com%2F2026%2F11%2F507225.html</guid>
-      <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 07:27:54 GMT</pubDate>
-      <description><![CDATA[<p>新版“机器人三定律”。</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.qbitai.com/2026/11/507225.html">量子位</a> — OpenAI重写大模型法则，第一条：忠于人类！！</li>
-</ul>]]></description>
-    </item>
-    <item>
       <title>​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场</title>
       <link>http://www.geekpark.net/news/373252</link>
       <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F373252</guid>
@@ -248,32 +342,6 @@
 <ul>
 <li><a href="http://www.geekpark.net/news/373252">极客公园</a> — ​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场</li>
 <li><a href="http://www.geekpark.net/news/373084">极客公园</a> — 「推翻」乔布斯的触屏 MacBook 来了，22999 元起</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考</title>
-      <link>https://www.qbitai.com/2026/11/507031.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.qbitai.com%2F2026%2F11%2F507031.html</guid>
-      <category>科技前沿</category>
-      <pubDate>Sun, 01 Nov 2026 08:02:37 GMT</pubDate>
-      <description><![CDATA[<p>让AI像牛顿一样思考</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.qbitai.com/2026/11/507031.html">量子位</a> — 清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8</title>
-      <link>https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fatlasum.net%2Fblog%2Fcve-2026-98432-linux-ipv4-tcp-uaf</guid>
-      <category>科技前沿</category>
-      <pubDate>Sat, 31 Oct 2026 19:16:30 GMT</pubDate>
-      <description><![CDATA[<p>Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 732 # Comments: 330</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf">Hacker News Best</a> — TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8</li>
 </ul>]]></description>
     </item>
     <item>
@@ -316,82 +384,55 @@
 </ul>]]></description>
     </item>
     <item>
-      <title>苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道</title>
-      <link>http://www.geekpark.net/news/372863</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F372863</guid>
+      <title>R 星：《GTA6》游戏 11 月 10 日开始预载，最高占用 212GB 空间</title>
+      <link>https://www.ithome.com/1/021/850.htm</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F021%2F850.htm</guid>
       <category>科技前沿</category>
-      <pubDate>Mon, 26 Oct 2026 00:34:07 GMT</pubDate>
-      <description><![CDATA[<p>张雪时隔 17 年圆梦「水上漂」，在家乡麻阳刷新吉尼斯纪录 10 月 25 日，「张雪机车」创始人张雪驾驶改装摩托车 MX450，在湖南省怀化市麻阳苗族自治县郭公坪镇小坡村，成功挑战「改装摩托车在开阔水域行驶最远距离」吉尼斯世界纪录。 这场挑战要追溯到 2009 年。当时 22 岁的张雪在央视节目中骑着一辆车轮上焊着铁皮的摩托车冲向水面，四次尝试全部落水，最远只滑出 20 米，离他自己定下的 26 米目标差了一口气。 本次用于挑战的「张雪机车」MX450，是专门为了应对水上滑行而改装的型号。据「张雪机车」研发工程师邓连松介绍，改装摩托车以标准摩托车车架和动力总成作为基础，技术团队进行了相应的优化升级。 麻阳是张雪的故乡，当地龙舟以逆水行舟而闻名。在张雪挑战成功之后，乡亲们以龙舟表演等方式为张雪团队庆祝胜利。（来源：新华网） OpenAI 前沿模型训练不再接入实时互联网，改用离线网页环境 1…</p>
-<p><b>1 家媒体报道 · 重要度 7.5/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="http://www.geekpark.net/news/372863">极客公园</a> — 苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道</li>
-<li><a href="http://www.geekpark.net/news/372860">极客公园</a> — 苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>“惠普们”要把产能搬回中国，手机代工厂抢先接单了</title>
-      <link>https://www.huxiu.com/article/4902447.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.huxiu.com%2Farticle%2F4902447.html</guid>
-      <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 16:15:23 GMT</pubDate>
-      <description><![CDATA[<p>全球电脑制造业，正在发生一次出人意料的回流。10月28日，《日经亚洲》援引多名产业链人士消息称，惠普、华硕、宏碁正在将部分PC生产订单从泰国、越南重新转回中国，戴尔也在评估类似调整。英国《金融时报》随后在10月29日的报道中关注了这一变化。几年前，这些公司还在积极寻找中国之外的制造基地。现在，一部分订单开始掉...... 本文来自微信公众号： 好望角view ， 全球电脑制造业，正在发生一次出人意料的回流。 10月28日，《日经亚洲》援引多名产业链人士消息称，惠普、华硕、宏碁正在将部分PC生产订单从泰国、越南重新转回中国，戴尔也在评估类似调整。英国《金融时报》随后在10月29日的报道中关注了这一变化。 几年前，这些公司还在积极寻找中国之外的制造基地。 现在，一部分订单开始掉头。 TrendForce的数据提供了更直观的证据：2025年，全球约24%的笔记本电脑在中国境外生产。2026年这一…</p>
+      <pubDate>Tue, 03 Nov 2026 15:40:28 GMT</pubDate>
+      <description><![CDATA[<p>IT之家 11 月 3 日消息，Rockstar 今天宣布，《GTA6》游戏将在 11 月 10 日（周日）开始预载，全球玩家可以从当天开始下载，确保 11 月 19 日发售时第一时间体验到这款开放世界大作。 IT之家了解到， PS5 数字版游戏将在当地时间 11 月 10 日午夜开始预载 ；Xbox Series X|S 版将于格林尼治标准时间 11 月 10 日 00:00（北京时间 8:00）开始预载。盒装兑换码版本预计将于 11 月 12 日起，在各大零售商销售。 根据设备不同， 游戏预载文件最高需要占用 212GB 存储空间 。请确保您手上的游戏机拥有足够可用空间，以便尽早开始预载。 此外，R 星将在 11 月 19 日提供《侠盗猎车手 VI》官方封面海报和雷奥奈达地图的打印文件，供玩家免费下载。双面实体海报将在游戏发售后登陆 R 星商城，单买价格 0.99 美元 （IT之家注：…</p>
 <p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.huxiu.com/article/4902447.html">虎嗅</a> — “惠普们”要把产能搬回中国，手机代工厂抢先接单了</li>
+<li><a href="https://www.ithome.com/1/021/850.htm">IT之家</a> — R 星：《GTA6》游戏 11 月 10 日开始预载，最高占用 212GB 空间</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>消息称 SpaceX 洽谈收购 Boost Mobile，挑战美国电信三巨头</title>
-      <link>https://www.ithome.com/1/021/262.htm</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F021%2F262.htm</guid>
+      <title>我国人工智能发展速度及应用规模全球领先</title>
+      <link>https://www.ithome.com/1/021/840.htm</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F021%2F840.htm</guid>
       <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 12:35:14 GMT</pubDate>
-      <description><![CDATA[<p>IT之家 11 月 2 日消息，《华盛顿邮报》周一报道，SpaceX 正在洽谈收购 EchoStar 旗下无线业务 Boost Mobile，或是获取该品牌的网络使用权；Boost Mobile 本身向 AT&amp;T 和 T-Mobile 租用网络资源运营。 报道援引知情谈判人士消息称，近几个月 SpaceX 一直在和电信运营商 EchoStar 磋商，计划依托这笔合作推出自有品牌无线服务。 此举是为了支撑马斯克这家公司通过 Starlink Mobile 打造星地混合移动网络的规划：把卫星星座和地面基础设施结合起来，向美国无线巨头 AT&amp;T、Verizon、T-Mobile 发起挑战。 此前 SpaceX 一笔 80 亿美元 （IT之家注：现汇率约合 532.87 亿元人民币） 频谱交易落地后，电信板块股价承压，投资者开始评估这家卫星新玩家带来的竞争威胁。 收购 Boost Mobile 或…</p>
+      <pubDate>Tue, 03 Nov 2026 15:07:54 GMT</pubDate>
+      <description><![CDATA[<p>IT之家 11 月 3 日消息，据央视新闻今日报道，国家发展改革委今天（3 日）举行了“奋进‘十五五’”系列新闻发布会。会上提到， 当前，我国人工智能发展速度、应用规模全球领先 。 国家发展改革委创新和高技术发展司副司长王若蒙介绍，人工智能正从实验室走向工厂、田间、办公室： 工业领域，累计建成了万余家先进级智能工厂； 农业领域，显著降低农药、化肥用量，田间管理更加精准，改变靠天靠经验的老办法； 服务业领域，在金融、物流、外贸方面，智能体可自动完成合同审核、报关报税、理赔核损等任务，催生“员工 + 智能体”等新业态新模式涌现。 据IT之家今日早些时候报道，我国目前正在推动世界人工智能（AI）合作组织的实体化运行进程， 已有 38 国作为创始成员国加入 。本月初，中国电子信息产业发展研究院发布的《新域新质创新发展十大趋势》显示，我国人工智能推理数据量首次超过训练数据量，标志着我国人工智能从模型…</p>
 <p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.ithome.com/1/021/262.htm">IT之家</a> — 消息称 SpaceX 洽谈收购 Boost Mobile，挑战美国电信三巨头</li>
+<li><a href="https://www.ithome.com/1/021/840.htm">IT之家</a> — 我国人工智能发展速度及应用规模全球领先</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>“徽剑”身后事：知情者称家属曾全力筹办丧事，不想再被误解打扰</title>
-      <link>https://www.huxiu.com/article/4902391.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.huxiu.com%2Farticle%2F4902391.html</guid>
+      <title>苹果的一切都在变贵，全怪 AI</title>
+      <link>https://www.ifanr.com/1687259?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ifanr.com%2F1687259%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3D</guid>
       <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 11:54:06 GMT</pubDate>
-      <description><![CDATA[<p>长期实名曝光境外电诈势力的自媒体人“徽剑”（本名吴恺）遭买凶遇害一案，经界面新闻披露后受到广泛关注。幕后主谋“少校”的真实身份、法庭审理边界、家属出具刑事谅解书的内情，持续引发热议。广东省高级人民法院2026年8月作出的终审裁定显示，涉案14名被告人分别以故意伤害罪、非法拘禁罪、窝藏罪获刑，其中主犯赵冰被判处...... 本文来自微信公众号： 界面新闻 ， 长期实名曝光境外电诈势力的自媒体人“徽剑”（本名吴恺）遭买凶遇害一案，经界面新闻披露后受到广泛关注。幕后主谋“少校”的真实身份、法庭审理边界、家属出具刑事谅解书的内情，持续引发热议。 广东省高级人民法院2026年8月作出的终审裁定显示，涉案14名被告人分别以故意伤害罪、非法拘禁罪、窝藏罪获刑，其中主犯赵冰被判处死刑缓期二年执行。全程发布作案指令的境外人员“少校”截至二审审结仍未落网，案件仅对已到案的境内人员作出判决。 界面新闻从参与庭审…</p>
+      <pubDate>Tue, 03 Nov 2026 04:09:46 GMT</pubDate>
+      <description><![CDATA[<p>今天，苹果发布了 2026 财年第四财季及全财年业绩。这也是约翰·特努斯（John Ternus）接替库克出任 CEO 后的第一份成绩单。 从账面数字来看，表现可以说是相当生猛，直接录得了苹果史上最佳财年。 单季营收 1144.77 亿美元，同比增长 12%；净利润 307.11 亿美元，同比增长 12%。全财年总营收更是达到了创纪录的 4788 亿美元。 就连连续承压的大中华区，也凭借着秋季新机的换机潮，单季营收逆势增长了 21%。 但在随后的财报电话会上，画风却突然一变。 新官上任的特努斯和管理层，在会上被反复追问的不只是漂亮的销售纪录，而是「成本失控」、「内存涨价」以及「产能受限」。 赶在双十一与年底大促的节骨眼上，苹果给出的利润预期却略显保守：下季度毛利率指引回落至 45%～46%，远低于本季度的 47.9%。 面对分析师对成本飙升与硬件定价的追问，特努斯并没有回避： 这种内存价格…</p>
 <p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.huxiu.com/article/4902391.html">虎嗅</a> — “徽剑”身后事：知情者称家属曾全力筹办丧事，不想再被误解打扰</li>
+<li><a href="https://www.ifanr.com/1687259?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 苹果的一切都在变贵，全怪 AI</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>黑客研发新型恶意木马 VOLTA，用 AI 分析受害者是否值得入侵</title>
-      <link>https://www.ithome.com/1/021/249.htm</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F021%2F249.htm</guid>
+      <title>马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份</title>
+      <link>http://www.geekpark.net/news/373358</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#http%3A%2F%2Fwww.geekpark.net%2Fnews%2F373358</guid>
       <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 11:53:07 GMT</pubDate>
-      <description><![CDATA[<p>IT之家 11 月 2 日消息，据外媒 Tom&apos;s Hardware 报道，网络安全团队 Cisco Talos 发现了一款名为 VOLTA 的新型 Windows 恶意木马。该木马整合了 AI 模型，能够分析受害者的个人数据，评估其中的信息价值，并在完成相关操作后尝试自我删除，以降低被发现和追踪的风险。 据报道，VOLTA 能够收集受害者设备上的网页浏览记录、加密货币钱包、浏览器扩展程序、文本文档、聊天记录等各类敏感信息，并将相应文件上传至 Anthropic Claude 等在线 AI 产品分析生成摘要，以供黑客参考。在完成数据收集和价值评估后，VOLTA 便会尝试自行删除，以减少留下的攻击痕迹，增加安全人员调查和追踪的难度。 Cisco Talos 认为，这类恶意软件表明 AI 技术正在逐渐改变黑客行动方式，传统的大规模无差别攻击不仅容易暴露行踪，还需要投入大量时间等待潜在收益，最终…</p>
+      <pubDate>Tue, 03 Nov 2026 00:40:51 GMT</pubDate>
+      <description><![CDATA[<p>Anthropic 更新 IPO 招股书：第三季度营收近 170 亿美元，算力承诺达 8954 亿美元 11 月 2 日，Anthropic 向美国证券交易委员会提交更新后的 S-1 招股文件，首次补充截至今年 9 月底的第三季度财务数据。 Anthropic 第三季度营收达到 169.6 亿美元，较第二季度增长 47%，但增速低于第二季度的 144%。公司第三季度营业亏损为 5.67 亿美元，而第二季度曾实现 9.74 亿美元营业利润。 与此同时，Anthropic 披露约 8954 亿美元的 AI 基础设施相关支出承诺，涉及亚马逊、谷歌等合作伙伴。公司警告，部分算力供应依赖第三方融资，如果相关资金出现问题，可能影响交付时间和成本。（来源：Reuters） Meta 调整 VR 硬件优先级：将更多资源转向可穿戴设备和 AI 业务，降低消费级 VR 硬件优先级 11 月 2 日消息，Met…</p>
 <p><b>1 家媒体报道 · 重要度 6.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.ithome.com/1/021/249.htm">IT之家</a> — 黑客研发新型恶意木马 VOLTA，用 AI 分析受害者是否值得入侵</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>央视揭秘“AI 生成女友”网恋诈骗流水线，15 人被骗 180 余万元</title>
-      <link>https://www.ithome.com/1/021/245.htm</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ithome.com%2F1%2F021%2F245.htm</guid>
-      <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 11:30:42 GMT</pubDate>
-      <description><![CDATA[<p>IT之家 11 月 2 日消息，据央视新闻报道，上海闵行公安机关近期侦破一起“AI 生成女友”网恋诈骗案。 IT之家参考通报获悉，上海工作的刘先生在刷短视频时，认识了一位叫婷婷的美丽女子，一个月后，婷婷说姨妈得了脑瘤，需要治疗，急需借款。 为了打消刘先生的疑虑，婷婷附上了医院的诊断证明和自己的身份证照片。当天，刘先生就转给婷婷 4 万元。然而在接下来的半个月时间里，姨妈的病情不断恶化，为此，刘先生多次转账，金额累计达 18 万多元。后续刘先生要求开实时视频被拒绝，于是刘先生选择报警。 上海闵行公安机关接到报警后调查发现，被“婷婷”骗走钱财的不止刘先生一人，在全国各地都有受害者。经过缜密侦察，警方摸清了这个诈骗网络各个环节的犯罪嫌疑人，并在广东、山东、贵州等地开展集中收网行动，抓获杨某甲、杨某乙、杨某婷、仲某、崔某等人。 经查，杨某甲诈骗团伙聘请专门的“聊手”，打造“7 天剧本”，适时发送经…</p>
-<p><b>1 家媒体报道 · 重要度 6.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.ithome.com/1/021/245.htm">IT之家</a> — 央视揭秘“AI 生成女友”网恋诈骗流水线，15 人被骗 180 余万元</li>
+<li><a href="http://www.geekpark.net/news/373358">极客公园</a> — 马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份</li>
 </ul>]]></description>
     </item>
     <item>
@@ -408,133 +449,107 @@
 </ul>]]></description>
     </item>
     <item>
-      <title>Bones may release proteins that slow aging and extend life span</title>
-      <link>https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.science.org%2Fcontent%2Farticle%2Fbones-may-release-proteins-slow-aging-and-extend-life-span</guid>
+      <title>Postman silently auto-installs AI plugins and attempts to share all API data</title>
+      <link>https://github.com/postmanlabs/postman-app-support/issues/14370</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fgithub.com%2Fpostmanlabs%2Fpostman-app-support%2Fissues%2F14370</guid>
       <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 01:31:07 GMT</pubDate>
-      <description><![CDATA[<p>Article URL: https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span Comments URL: https://news.ycombinator.com/item?id=50331957 Points: 258 # Comments: 98</p>
+      <pubDate>Tue, 03 Nov 2026 17:22:37 GMT</pubDate>
+      <description><![CDATA[<p>Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 144 # Comments: 39</p>
 <p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span">Hacker News Best</a> — Bones may release proteins that slow aging and extend life span</li>
+<li><a href="https://github.com/postmanlabs/postman-app-support/issues/14370">Hacker News 首页</a> — Postman silently auto-installs AI plugins and attempts to share all API data</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力</title>
-      <link>https://www.ifanr.com/1687043?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ifanr.com%2F1687043%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3D</guid>
+      <title>Schools that block Google’s A.I. will lose student access to its search engine</title>
+      <link>https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.nytimes.com%2F2026%2F11%2F03%2Fus%2Fgoogle-search-schools-restrict-ai.html</guid>
       <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 00:03:03 GMT</pubDate>
-      <description><![CDATA[<p>曝苹果明年上半年将更新三款 iPad，Air 拟换 OLED 屏 我国首次载人登月乘组计划由 3 人组成，2 人着陆月球 ChatGPT 与 Codex 将从 12 月起共享额度，Instant 聊天不扣额度 多家车企公布 10 月成绩单 奥特曼与三星约 50 名高管座谈，讨论 AI 未来十年的商业应用 TCL 华星 t8 产线设备进场，计划明年底量产印刷 OLED AI 控制机械臂完成活鼠脑内注射，兽医负责开颅 西湖大学成立世界模型研究中心，计划三年内构建千亿参数模型 Claude Code 限制 Opus 5.5 复刻现有游戏，原创游戏仍可制作 Claude Ultra 取消已验证账户的 5 小时限额，周额度仍保留 黑石下调评级预期，预计 Anthropic 上市后或仍处「垃圾级」 奇瑞回应智界独立：希望团队更像新势力，明年将导入新产品 Grok API 将默认加入隐形文本水印，团队可…</p>
+      <pubDate>Tue, 03 Nov 2026 15:25:47 GMT</pubDate>
+      <description><![CDATA[<p>https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 210 # Comments: 174</p>
 <p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.ifanr.com/1687043?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力</li>
+<li><a href="https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html">Hacker News 首页</a> — Schools that block Google’s A.I. will lose student access to its search engine</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>U.S. workers took home their smallest share of capital since at least 1947</title>
-      <link>https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Ffortune.com%2Farticle%2Fwhy-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded%2F</guid>
+      <title>OpenAI seems to be silently re-enabling model training on Codex chats</title>
+      <link>https://news.ycombinator.com/item?id=50352757</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fnews.ycombinator.com%2Fitem%3Fid%3D50352757</guid>
       <category>科技前沿</category>
-      <pubDate>Sun, 01 Nov 2026 23:20:31 GMT</pubDate>
-      <description><![CDATA[<p>Article URL: https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/ Comments URL: https://news.ycombinator.com/item?id=50330939 Points: 326 # Comments: 200</p>
+      <pubDate>Tue, 03 Nov 2026 14:53:41 GMT</pubDate>
+      <description><![CDATA[<p>My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we&apos;ve all been diligent about disabling data sharing in Codex/Claude Code/etc. But yesterday my coworkers and I noticed that the setting had been silently reenabled in Codex. None of us knowingly opted back in. You can check your settings here: https://chatgpt.com/settings/data-controls. Look for &quot;Improve the m…</p>
 <p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/">Hacker News Best</a> — U.S. workers took home their smallest share of capital since at least 1947</li>
+<li><a href="https://news.ycombinator.com/item?id=50352757">Hacker News 首页</a> — OpenAI seems to be silently re-enabling model training on Codex chats</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)</title>
-      <link>https://arxiv.org/abs/2409.02292</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Farxiv.org%2Fabs%2F2409.02292</guid>
+      <title>Nvidia – open-source auto-ontology</title>
+      <link>https://github.com/NVIDIA/auto-ontology</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fgithub.com%2FNVIDIA%2Fauto-ontology</guid>
       <category>科技前沿</category>
-      <pubDate>Sun, 01 Nov 2026 01:46:29 GMT</pubDate>
-      <description><![CDATA[<p>Article URL: https://arxiv.org/abs/2409.02292 Comments URL: https://news.ycombinator.com/item?id=50322022 Points: 212 # Comments: 101</p>
+      <pubDate>Tue, 03 Nov 2026 07:04:50 GMT</pubDate>
+      <description><![CDATA[<p>Article URL: https://github.com/NVIDIA/auto-ontology Comments URL: https://news.ycombinator.com/item?id=50348962 Points: 242 # Comments: 101</p>
 <p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://arxiv.org/abs/2409.02292">Hacker News Best</a> — Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)</li>
+<li><a href="https://github.com/NVIDIA/auto-ontology">Hacker News 首页</a> — Nvidia – open-source auto-ontology</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>Electrification Could Cut Global Energy Use in Half</title>
-      <link>https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Ffullycharged.show%2Fpodcasts%2Fpodcast-361-why-electrification-could-cut-global-energy-use-in-half%2F</guid>
+      <title>机器人也中暑？宇树机器人因过热退出登泰山大赛，被担架抬下山；罗技又侮辱用户像狗，「一打折就凑上来」；曝iPhone Duo国行美版存在差异</title>
+      <link>https://www.leiphone.com/category/zaobao/wXLd0iiBxf86pe0t.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.leiphone.com%2Fcategory%2Fzaobao%2FwXLd0iiBxf86pe0t.html</guid>
       <category>科技前沿</category>
-      <pubDate>Sat, 31 Oct 2026 19:13:34 GMT</pubDate>
-      <description><![CDATA[<p>Article URL: https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/ Comments URL: https://news.ycombinator.com/item?id=50319110 Points: 219 # Comments: 222</p>
+      <pubDate>Tue, 03 Nov 2026 06:21:00 GMT</pubDate>
+      <description><![CDATA[<p>要闻提示 1.7个月内连上2次热搜！罗技广告再被指“侮辱用户像狗”，客服回应 2.宇树机器人因过热退出登泰山大赛，被担架抬下山 3.iPhone Duo国行美版存结构差异？苹果：零部件生产或有个别不同 4.百度网盘绕开苹果摇一摇限制？知情人士：非刻意绕开，适配版本将上线 5.姚顺宇RSI创业，联创团队首次公开 6.腾讯混元多模态强化学习负责人庞天宇离职 7.中文在线裁员至少25%：海外实拍承制成重灾区 8.OpenAI即将发布新模型？GPT-6.2 Astra曝光 今日头条 7个月内连上2次热搜！罗技广告再被指“侮辱用户像狗”，客服回应 11 月 2 日消息，今年 3 月罗技官方旗舰店在推广 GPW3 鼠标时，曾发布“当我一降价，你还不是像狗一样跑过来”的争议性宣传文案，引发大量玩家不满，官方后续致歉，运营公司也被市场监管部门罚款20万元。 不过有网友发现，“罗技 G 影音旗舰店官方号”近…</p>
 <p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/">Hacker News Best</a> — Electrification Could Cut Global Energy Use in Half</li>
+<li><a href="https://www.leiphone.com/category/zaobao/wXLd0iiBxf86pe0t.html">雷锋网</a> — 机器人也中暑？宇树机器人因过热退出登泰山大赛，被担架抬下山；罗技又侮辱用户像狗，「一打折就凑上来」；曝iPhone Duo国行美版存在差异</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜</title>
-      <link>https://www.ifanr.com/1686790?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ifanr.com%2F1686790%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3D</guid>
+      <title>模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义</title>
+      <link>https://www.qbitai.com/2026/11/507367.html</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.qbitai.com%2F2026%2F11%2F507367.html</guid>
       <category>科技前沿</category>
-      <pubDate>Fri, 30 Oct 2026 00:14:13 GMT</pubDate>
-      <description><![CDATA[<p>《影之刃零》首日 Steam 在线峰值超 66 万，登上全球热销榜首 苹果高管回应 iPad mini 仍是 60Hz 王传福披露比亚迪员工突破 102 万，研发工程师达 12 万 Omdia：三季度全球手机出货量降 20%，苹果持平、小米降 29% OpenAI 宣布 ChatGPT Pro 全系额度翻倍 美国计算机专业入学人数再降，本科两年减少 18.4% 上半年中国 MaaS 市场达 106.3 亿元，火山引擎以 45.1% 的份额位居第一 豆包工作向企业开放第三方模型，可统一调用 Kimi、GLM 与 DeepSeek 韩国拟将 AI 眼镜作弊禁考期延至 3 年，考场将配专人识别 中汽学会发布 2027 年技术趋势：400Wh/kg 固态电池将进入中试 小米拟出资 17 亿元入股欣旺达动力，增资后持股 5.34% 比亚迪三季度归母净利润增 28%，前三季度仍同比下降 DoorDas…</p>
+      <pubDate>Tue, 03 Nov 2026 03:16:23 GMT</pubDate>
+      <description><![CDATA[<p>GPU迭代一百次的事，它一步做完</p>
 <p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.ifanr.com/1686790?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜</li>
+<li><a href="https://www.qbitai.com/2026/11/507367.html">量子位</a> — 模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>从英伟达到 Pika，硅谷巨头为何“反向借力”这个国产模型？</title>
-      <link>https://www.infoq.cn/article/h1310kHD9CWD1mO8aTAc?utm_source=rss&amp;utm_medium=article</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.infoq.cn%2Farticle%2Fh1310kHD9CWD1mO8aTAc%3Futm_source%3Drss%26utm_medium%3Darticle</guid>
+      <title>早报｜苹果第四财季营收增长12%，服务收入再创新高/《影之刃零》72小时销量突破400万套/曝三星Fold9回归屏下摄像头</title>
+      <link>https://www.ifanr.com/1687189?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.ifanr.com%2F1687189%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3D</guid>
       <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 22:48:56 GMT</pubDate>
-      <description><![CDATA[<p>点击查看原文&gt;</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
+      <pubDate>Tue, 03 Nov 2026 00:17:09 GMT</pubDate>
+      <description><![CDATA[<p>苹果第四财季营收增长 12%，服务收入再创新高 曝下一代触屏 MacBook Pro 将换新模具 下一代 GPT 或将近期发布，OpenAI 用 1 万个 AI 智能体协作科研 OpenAI 推出电网保护计划，拟让未来园区在用电紧张时降载 机器人登泰山大赛收官，宇树 A2 全自主夺得竞速冠军 iOS 限制后百度网盘仍可摇一摇跳广告，知情人士称新版待审核 《纽约时报》等媒体起诉 Brave，指其抓取内容供 AI 使用 OLED 面板断货，理想 MEGA 部分批次先装 LCD 屏交付 傅利叶回应与 Meta 合作传闻：暂不方便回复 名越工作室解散，相关公告登上日本《官报》 阿里云为达喀尔青奥会搭建赛事云，赛后将移交为国家云 香港金管局推出 SAGE 项目，探索 AI Agent 购物与支付 Anthropic 第三季度营收接近 170 亿美元，净亏损扩大 Omdia：AI 眼镜的差异化要靠可靠…</p>
+<p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.infoq.cn/article/h1310kHD9CWD1mO8aTAc?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — 从英伟达到 Pika，硅谷巨头为何“反向借力”这个国产模型？</li>
+<li><a href="https://www.ifanr.com/1687189?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=">爱范儿</a> — 早报｜苹果第四财季营收增长12%，服务收入再创新高/《影之刃零》72小时销量突破400万套/曝三星Fold9回归屏下摄像头</li>
 </ul>]]></description>
     </item>
     <item>
-      <title>Cilium 1.20 扩展了 Gateway API 并为 Kubernetes 开放了 eBPF 数据路径</title>
-      <link>https://www.infoq.cn/article/E3wARaqEN7UZx8wM9TNg?utm_source=rss&amp;utm_medium=article</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.infoq.cn%2Farticle%2FE3wARaqEN7UZx8wM9TNg%3Futm_source%3Drss%26utm_medium%3Darticle</guid>
+      <title>Scaling Git at OpenAI</title>
+      <link>https://openai.com/index/scaling-git-at-openai/</link>
+      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fopenai.com%2Findex%2Fscaling-git-at-openai%2F</guid>
       <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 20:00:00 GMT</pubDate>
-      <description><![CDATA[<p>点击查看原文&gt;</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
+      <pubDate>Mon, 02 Nov 2026 23:47:56 GMT</pubDate>
+      <description><![CDATA[<p>Article URL: https://openai.com/index/scaling-git-at-openai/ Comments URL: https://news.ycombinator.com/item?id=50345924 Points: 257 # Comments: 174</p>
+<p><b>1 家媒体报道 · 重要度 5.5/10</b></p>
 <p><b>来源：</b></p>
 <ul>
-<li><a href="https://www.infoq.cn/article/E3wARaqEN7UZx8wM9TNg?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — Cilium 1.20 扩展了 Gateway API 并为 Kubernetes 开放了 eBPF 数据路径</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>AI+科研：Agent加速科研，论文写得快了，成果更难评了 ｜ 西湖大学工学院博导 王欢分享</title>
-      <link>https://www.infoq.cn/article/MbwRCg4cKC2f3bwv0Cpb?utm_source=rss&amp;utm_medium=article</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.infoq.cn%2Farticle%2FMbwRCg4cKC2f3bwv0Cpb%3Futm_source%3Drss%26utm_medium%3Darticle</guid>
-      <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 18:33:55 GMT</pubDate>
-      <description><![CDATA[<p>点击查看原文&gt;</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.infoq.cn/article/MbwRCg4cKC2f3bwv0Cpb?utm_source=rss&amp;utm_medium=article">InfoQ 中文</a> — AI+科研：Agent加速科研，论文写得快了，成果更难评了 ｜ 西湖大学工学院博导 王欢分享</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>中国农机在阿根廷：收割机为什么卖不过拖拉机？</title>
-      <link>https://www.huxiu.com/article/4902450.html</link>
-      <guid isPermaLink="false">https://zhh7ce.github.io/static/news-digest/feed-tech.xml#https%3A%2F%2Fwww.huxiu.com%2Farticle%2F4902450.html</guid>
-      <category>科技前沿</category>
-      <pubDate>Mon, 02 Nov 2026 16:50:38 GMT</pubDate>
-      <description><![CDATA[<p>2025年，阿根廷科尔多瓦省南部的农场主Ricardo Linari，花5.6万美元买了一台中国制造的115马力奇瑞拖拉机。此前，他向当地品牌询价，一台拖拉机报价11.5万美元，另一家国际品牌报价13.5万美元。价格相差一倍。Linari种植大豆。他告诉阿根廷《民族报》（LA NACION），这台新拖拉机配有...... 本文来自微信公众号： 好望角view ， 2025年，阿根廷科尔多瓦省南部的农场主Ricardo Linari，花5.6万美元买了一台中国制造的115马力奇瑞拖拉机。 此前，他向当地品牌询价，一台拖拉机报价11.5万美元，另一家国际品牌报价13.5万美元。 价格相差一倍。 Linari种植大豆。他告诉阿根廷《民族报》（LA NACION），这台新拖拉机配有空调、子午线轮胎及相关农具接口，能够完成他需要的工作。 更让他满意的是，邻近农场主不断跑来询问这台中国拖拉机的使用情况…</p>
-<p><b>1 家媒体报道 · 重要度 5.0/10</b></p>
-<p><b>来源：</b></p>
-<ul>
-<li><a href="https://www.huxiu.com/article/4902450.html">虎嗅</a> — 中国农机在阿根廷：收割机为什么卖不过拖拉机？</li>
+<li><a href="https://openai.com/index/scaling-git-at-openai/">Hacker News Best</a> — Scaling Git at OpenAI</li>
 </ul>]]></description>
     </item>
   </channel>
